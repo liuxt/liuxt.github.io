@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Xutong Liu"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://liuxt_new.github.io 
+name                     : &name "Xutong Liu"
+description              : &description "Postdoc at CUHK"
+url                      : https://liuxt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "liuxt_new.github.io"
+repository               : "liuxt.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
