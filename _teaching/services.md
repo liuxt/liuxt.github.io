@@ -3,7 +3,8 @@ title: "Teaching Assistant at CUHK"
 collection: teaching
 type: "Awards"
 permalink: /teaching/TA
-venue: "Conference Reviewer"
+venue: "Conference & Jounrnal Reviewer"
+date: 2022-11-01
 location: ""
 ---
 
