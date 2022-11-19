@@ -1,7 +1,11 @@
 ---
-title: "Services"
+title: "Teaching Assistant at CUHK"
 collection: teaching
-permalink: /teaching/services.md
+type: 
+permalink: /teaching/TA
+venue: 
+date: 
+location: 
 ---
 
 Awards
