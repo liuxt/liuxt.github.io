@@ -6,7 +6,7 @@ main:
   #- title: "Talks"
   #  url: /talks/  
   
-    - title: "Wiki"
+  - title: "Wiki"
     url: /markdown/
 
   - title: "Teaching"
