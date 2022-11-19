@@ -4,7 +4,6 @@ collection: teaching
 type: "Awards"
 permalink: /teaching/TA
 venue: "Conference Reviewer"
-date: Journal Reviewer
 location: ""
 ---
 
