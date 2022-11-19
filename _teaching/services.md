@@ -1,10 +1,10 @@
 ---
 title: "Teaching Assistant at CUHK"
 collection: teaching
-type: ""
-permalink: /teaching/services
-venue: ""
-date: ""
+type: "Awards"
+permalink: /teaching/TA
+venue: "Conference Reviewer"
+date: Journal Reviewer
 location: ""
 ---
 
