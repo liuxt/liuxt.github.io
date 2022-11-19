@@ -26,7 +26,7 @@ redirect_from:
 # Courses/Lectures
 [ELE524: Foundations of Reinforcement Learning](https://sites.google.com/view/cjin/ele524-2020-ver)<br>
 [ELE539/COS512: Optimization for Machine Learning](https://sites.google.com/view/cjin/ee539cos512)<br>
-[ECE434/COS434: Machine Learning Theory](https://sites.google.com/view/cjin/ece434cos434)
+[ECE434/COS434: Machine Learning Theory](https://sites.google.com/view/cjin/ece434cos434)<br>
 [videolecture.net](http://videolectures.net/)<br>
 [Learning and Optimization for Sequential Decision Making](https://ieor8100.github.io/rl/)<br>
 [UCL Course on RL](https://www.davidsilver.uk/teaching/)<br>
