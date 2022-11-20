@@ -18,9 +18,10 @@ My recent works mainly study the online learning and the reinforcement learning 
 
 News
 ======
+- **Nov. 2022**: Our work on explorative key-term selection strategies for conversational contextual bandits is accepted to **AAAI** 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to **NeurIPS** 2022.
 - **July. 2022**: I successfully pass my **Ph.D. thesis defence**! I will join CUHK as a postdoc this fall.
-- **May. 2022**: Our work on federated online clustering of bandits is accepted to **UAI** 2022.
+- **May. 2022**: Our work on federated online clustering of bandits appears in **UAI** 2022.
 - **April. 2022**: Our work on constrained multi-armed bandit for network applications is accepted to **IEEE Transactions on Mobile Computing**.
 - **March 2022**: Our work on competitive influence maximization appears in **AISTATS** 2022.
 - **July 2021**: Our work on multi-layered network exploration via random walks appears in **ICML** 2021 as a **long talk** (3%).
