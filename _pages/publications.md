@@ -15,6 +15,11 @@ One-shot revision to SIGMETRICS 2022.
 
 Conference Paper
 ------
+- Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
+Zhiyong Wang, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
+To Appear in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (1721/8777=19.6%).<br>
+
+
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022. (2665/10411=25.6%).<br>
