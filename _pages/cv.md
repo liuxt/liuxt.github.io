@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV is [here](https://docs.google.com/document/d/1L4zCMMVrow_aNX06zff2QYTvS5xgllJS1QrS5xUuXdc/edit?usp=sharing)/[这里](https://docs.google.com/document/d/1ByNXayfOe4u-eIt144AbHxJkHrjPPYDDslOiJQvc_Io/edit?usp=sharing) (Update: 2022-11-19).
+My CV is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYmuPWwWSFFEkaJo5XVHQ9MBL8miywmri7s60tiBuUcKsg?e=lYncS7)/[这里](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EScCZrj0n6lAprXI933JpSsBBUueOgnZsAFGS1t_2pfXBw?e=x7O0XX) (Update: 2022-11-19).
 
 Education
 ======
