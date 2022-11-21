@@ -1,5 +1,5 @@
 ---
-title: "Link of Professional Services"
+title: "Professional Services"
 collection: teaching
 type: "Awards"
 permalink: /teaching/TA
@@ -16,7 +16,7 @@ Conference Reviewer for
 - Conference on Neural Information Processing Systems (NeurIPS) 2022
 - International Conference on Machine Learning (ICML) 2022
 - Conference on Uncertainty in Artificial Intelligence (UAI) 2021
-- International Conference on Artificial Intelligence and Statistics (AISTATS) 2022
+- International Conference on Artificial Intelligence and Statistics (AISTATS) 2022, 2023
 
 Journal Reviewer for
 
