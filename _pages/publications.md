@@ -17,7 +17,7 @@ Conference Paper
 ------
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
 Zhiyong Wang, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
-To Appear in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2022. (1721/8777=19.6%).<br>
+To Appear in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (1721/8777=19.6%).<br>
 
 
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
