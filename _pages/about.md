@@ -18,6 +18,7 @@ My recent works mainly study the online learning and the reinforcement learning 
 
 News
 ======
+- **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage problem is accepted to **INFOCOM** 2023.
 - **Nov. 2022**: Our work on explorative key-term selection strategies for conversational contextual bandits is accepted to **AAAI** 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to **NeurIPS** 2022.
 - **July. 2022**: I successfully pass my **Ph.D. thesis defence**! I will join CUHK as a postdoc this fall.
