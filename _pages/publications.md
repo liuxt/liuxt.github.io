@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+
 Working Paper
 ------
 - Constraint-aware Combinatorial Multi-Armed Bandits: A Relaxation and Rounding Approach.<br>
@@ -15,6 +16,12 @@ One-shot revision to SIGMETRICS 2022.
 
 Conference Paper
 ------
+
+- Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
+**Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
+IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
+
+
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
 Zhiyong Wang, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
 To Appear in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (1721/8777=19.6%).<br>
