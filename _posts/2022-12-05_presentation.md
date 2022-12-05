@@ -8,7 +8,7 @@ tags:
 
 My personal notes on presentation & meeting. Keep updating...
 
-This is a quick summary of Prof. Baochun Li's talk [The Art of Presentation](https://www.bilibili.com/video/BV1PM4y1P7N3?spm_id_from=333.999.0.0). 
+The following is a quick summary of Prof. Baochun Li's talk [The Art of Presentation](https://www.bilibili.com/video/BV1PM4y1P7N3?spm_id_from=333.999.0.0). 
 
 # The Art of Presentations
 
