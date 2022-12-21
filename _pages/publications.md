@@ -8,8 +8,7 @@ author_profile: true
 Working Paper
 ------
 - Constraint-aware Combinatorial Multi-Armed Bandits: A Relaxation and Rounding Approach.<br>
-**Xutong Liu**, Ruofeng Yang, Shuai Li, Hong Xie, John C.S. Lui.<br>
-One-shot revision to SIGMETRICS 2022.
+**Xutong Liu**, Ruofeng Yang, Shuai Li, Hong Xie, John C.S. Lui.
 
 - DCM-TS: Online Learning to Rank with Multiple Clicks via Thompson Sampling.<br>
 **Xutong Liu**, Shuai Li, John C.S. Lui.
