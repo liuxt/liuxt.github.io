@@ -18,6 +18,8 @@ My recent works mainly study the online learning and the reinforcement learning 
 
 News
 ======
+- **Jan. 2023**: Our work on on-demand communication for asynchronous multi-agent bandits is accepted to **AISTATS** 2023.
+- **Jan. 2023**: Our work on near-optimal individual regret & low communications in multi-agent bandits is accepted to **ICLR** 2023.
 - **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage problem is accepted to **INFOCOM** 2023.
 - **Nov. 2022**: Our work on explorative key-term selection strategies for conversational contextual bandits is accepted to **AAAI** 2023.
 - **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits appears in **NeurIPS** 2022.
