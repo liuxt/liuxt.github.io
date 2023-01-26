@@ -7,7 +7,11 @@ author_profile: true
 
 Working Paper
 ------
-- Constraint-aware Combinatorial Multi-Armed Bandits: A Relaxation and Rounding Approach.<br>
+
+- Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
+**Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
+
+- Constraint-aware Combinatorial Multi-Armed Bandits: A Computational Efficient Relaxation and Rounding Approach.<br>
 **Xutong Liu**, Ruofeng Yang, Shuai Li, Hong Xie, John C.S. Lui.
 
 - DCM-TS: Online Learning to Rank with Multiple Clicks via Thompson Sampling.<br>
@@ -16,9 +20,19 @@ Working Paper
 Conference Paper
 ------
 
+- On-Demand Communication for Asynchronous Multi-Agent Bandits.<br>
+Yu-Zhen Janice Chen, Lin Yang, Xuchuang Wang, **Xutong Liu**, Mohammad Hajiesmaili, John C.S. Lui, Don Towsley.<br>
+To appear in The 26th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.<br>
+
+
+- Achieve Near-Optimal Individual Regret and Low Communications in Multi-Agent Bandits.<br>
+Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui.<br>
+To appear in The 11th International Conference on Learning Representations (**ICLR**), 2023.<br>
+[[openreview]](https://openreview.net/forum?id=QTXKTXJKIh)
+
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 **Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
-IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
+To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
 
 
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
