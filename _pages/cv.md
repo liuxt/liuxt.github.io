@@ -25,11 +25,11 @@ Work experience
   
 Awards
 ======
-* Top 10% of reviewers at ICML 2022
+* Outstanding reviewer (Top 10%) at ICML 2022
 * Hong Kong PhD Fellowship (HKPFS) - 2017-2021
 * CCF Outstanding Undergraduate Award - 2016
 * National Scholarship - 2014-2015
-* National Scholarship - 2013- 2014
+* National Scholarship - 2013-2014
 
 
 
