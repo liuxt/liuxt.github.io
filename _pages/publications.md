@@ -37,8 +37,10 @@ To appear in IEEE International Conference on Computer Communications (**INFOCOM
 
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
 Zhiyong Wang, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
-To Appear in Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (1721/8777=19.6%).<br>
-
+Thirty-Seventh AAAI Conference on Artificial Intelligence (**AAAI**), 2023. (1721/8777=19.6%).<br>
+[[arXiv]](https://arxiv.org/abs/2303.00315)
+[[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eclt0Jj9CTZNgo7Z3NKtnN8Bquz6_rEy9D5mefsg26JdGQ?e=byKehg)
+[[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ERXzE9KnBWxKk1S5hZYaT5IBrnt5_0RS31sQNgHMoQkeqA?e=f3Edfn)
 
 - Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms.<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
