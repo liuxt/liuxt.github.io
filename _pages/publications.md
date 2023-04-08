@@ -35,6 +35,7 @@ To appear in The 11th International Conference on Learning Representations (**IC
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 **Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
 To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
+[[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYqYaVWuH7RBr5BtYTcgA9sBj2cuj9nWRJqDb4VEZBT9mw?e=nGUKaI)
 
 
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
