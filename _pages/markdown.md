@@ -19,7 +19,7 @@ redirect_from:
 [How to Write Perfect Papers](https://www.bilibili.com/video/BV18v411n7mr?share_source=copy_web) - Baochun Li<br>
 
 # Cheat sheets
-[Matrix Cookbook](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiEk46uuurVAhWFy7wKHerYBnAQFggmMAA&url=http%3A%2F%2Fwww.imm.dtu.dk%2Fpubdb%2Fviews%2Fedoc_download.php%2F3274%2Fpdf%2Fimm3274.pdf&usg=AFQjCNFJbycDGy_rsijRk8x9LE8C1v4Mpw)
+[Matrix Cookbook](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiEk46uuurVAhWFy7wKHerYBnAQFggmMAA&url=http%3A%2F%2Fwww.imm.dtu.dk%2Fpubdb%2Fviews%2Fedoc_download.php%2F3274%2Fpdf%2Fimm3274.pdf&usg=AFQjCNFJbycDGy_rsijRk8x9LE8C1v4Mpw)<br>
 [Math Inequalities](http://www.lkozma.net/inequalities_cheat_sheet/)<br>
 [Optimization Inequalities Cheatsheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)<br>
 
