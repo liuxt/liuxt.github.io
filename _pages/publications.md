@@ -36,7 +36,7 @@ To appear in The 11th International Conference on Learning Representations (**IC
 **Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
 To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
 [[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYqYaVWuH7RBr5BtYTcgA9sBj2cuj9nWRJqDb4VEZBT9mw?e=nGUKaI)
-[[slide]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EQ7dKi2emw9OthW2VMQbXxgBADvKHGz2zuGIQMkkOAmm0A?e=yFeTQO)
+[[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EQ7dKi2emw9OthW2VMQbXxgBADvKHGz2zuGIQMkkOAmm0A?e=yFeTQO)
 
 
 - Efficient Explorative Key-term Selection Strategies for Conversational Contextual Bandits.<br>
