@@ -25,6 +25,7 @@ Work experience
   
 Awards
 ======
+* RGC Postdoctoral Fellowship - 2023-2026
 * Outstanding reviewer (Top 10%) at ICML 2022
 * Hong Kong PhD Fellowship (HKPFS) - 2017-2021
 * CCF Outstanding Undergraduate Award - 2016
