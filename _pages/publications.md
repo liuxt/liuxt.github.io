@@ -8,11 +8,6 @@ author_profile: true
 Working Paper
 ------
 
-- Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
-**Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
-[[arXiv]](https://arxiv.org/abs/2303.17110)
-
-
 - Constraint-aware Combinatorial Multi-Armed Bandits: A Computational Efficient Relaxation and Rounding Approach.<br>
 **Xutong Liu**, Ruofeng Yang, Shuai Li, Hong Xie, John C.S. Lui.
 
@@ -21,6 +16,11 @@ Working Paper
 
 Conference Paper
 ------
+- Contextual Combinatorial Bandits with Probabilistically Triggered Arms.<br>
+**Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
+To appear in the 40th International Conference on Machine Learning (**ICML**), 2023. (1827/6538=27.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2303.17110)
+
 
 - On-Demand Communication for Asynchronous Multi-Agent Bandits.<br>
 Yu-Zhen Janice Chen, Lin Yang, Xuchuang Wang, **Xutong Liu**, Mohammad Hajiesmaili, John C.S. Lui, Don Towsley.<br>
