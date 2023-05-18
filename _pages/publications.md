@@ -24,17 +24,17 @@ To appear in the 40th International Conference on Machine Learning (**ICML**), 2
 
 - On-Demand Communication for Asynchronous Multi-Agent Bandits.<br>
 Yu-Zhen Janice Chen, Lin Yang, Xuchuang Wang, **Xutong Liu**, Mohammad Hajiesmaili, John C.S. Lui, Don Towsley.<br>
-To appear in The 26th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.<br>
+The 26th International Conference on Artificial Intelligence and Statistics (**AISTATS**), 2023.<br>
 
 
 - Achieve Near-Optimal Individual Regret and Low Communications in Multi-Agent Bandits.<br>
 Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui.<br>
-To appear in The 11th International Conference on Learning Representations (**ICLR**), 2023.<br>
+The 11th International Conference on Learning Representations (**ICLR**), 2023.<br>
 [[openreview]](https://openreview.net/forum?id=QTXKTXJKIh)
 
 - Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback.<br>
 **Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
-To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
+IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
 [[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYqYaVWuH7RBr5BtYTcgA9sBj2cuj9nWRJqDb4VEZBT9mw?e=nGUKaI)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYBJCDGWJDlKgAqnQYlm7MMB7tPZ4WTp6figrXV0EDLHpg?e=c5aGz2)
 
