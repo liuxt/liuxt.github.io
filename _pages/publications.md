@@ -35,7 +35,7 @@ The 26th International Conference on Artificial Intelligence and Statistics (**A
 Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui.<br>
 The 11th International Conference on Learning Representations (**ICLR**), 2023.<br>
 
-- **[INFOCOM'23] Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback** <br>
+- [**[INFOCOM'23] Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback**](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf) <br>
 **Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
 [[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYqYaVWuH7RBr5BtYTcgA9sBj2cuj9nWRJqDb4VEZBT9mw?e=nGUKaI)
