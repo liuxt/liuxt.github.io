@@ -87,7 +87,6 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 - **[INFOCOM'18]** [**An Online Learning Approach to Network Application Optimization with Guarantee**](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf) <br> 
 Kechao Cai, **Xutong Liu**, Yuzhen Janice Chen, and John C.S. Lui. <br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2018. <br>
-[[PDF]]
 
 Journal Paper
 ------
