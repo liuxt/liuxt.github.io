@@ -12,12 +12,13 @@ My name is Xutong Liu. I am now a postdoctoral fellow working with [Prof. John C
 
 Research
 ======
-My research focuses on **data-driven combinatorial optimization** and **combinatorial optimization under uncertainty**, which are intersections of combinatorial optimization, stochastic modeling, online learning, and reinforcement learning. Through the lens of algorithm design and mathematical tools, I am interested in solving decision-making problems for recommender systems, network systems, quantum systems, and data-center optimization. For these applications, my goal is to develop efficient solutions with provable learning efficiency, scalability, and generalizability guarantee. 
+My research focuses on **data-driven combinatorial optimization** and **combinatorial optimization under uncertainty**, which are intersections of combinatorial optimization, stochastic modeling, online learning, and reinforcement learning. Through the lens of algorithm design and mathematical tools, I am interested in solving decision-making problems for recommender systems, network systems, and data-center optimization. For these applications, my goal is to develop efficient solutions with provable learning efficiency, scalability, and generalizability guarantee. 
 
 My recent works mainly study the online learning and the reinforcement learning problems, e.g., **combinatorial multi-armed bandits**, **distributed/federated multi-armed bandits**, and **reinforcement learning with large action space**.
 
 News
 ======
+- **June. 2023**: Our work on free-exploration in cooperative multi-agent bandits is accepted to **UAI** 2023.
 - **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to **ICML** 2023.
 - **April. 2023**: I was awarded RGC Postdoctoral Fellowship (one of 50 awardees globally)!
 - **Jan. 2023**: Our work on on-demand communication for asynchronous multi-agent bandits is accepted to **AISTATS** 2023.
