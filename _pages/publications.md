@@ -16,7 +16,7 @@ Working Paper
 
 Conference Paper
 ------
-- **[UAI'23] Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?** <br>
+- **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
 Xuchuang Wang, Lin Yang, Yu-zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, and John C.S. Lui. <br>
 To appear in the 39th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. <br>
 
