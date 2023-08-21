@@ -23,7 +23,7 @@ To appear in the 39th Conference on Uncertainty in Artificial Intelligence (**UA
 - **[ICML'23]** [**Contextual Combinatorial Bandits with Probabilistically Triggered Arms**](https://arxiv.org/abs/2303.17110) <br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
 To appear in the 40th International Conference on Machine Learning (**ICML**), 2023. (1827/6538=27.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2303.17110)
+[[arXiv]](https://arxiv.org/abs/2303.17110) [[slides]](https://drive.google.com/file/d/1SviLM--kpkgsSf7iteGC0LzJ-PriMnSj/view?usp=drive_link)
 
 
 - **[AISTATS'23]** [**On-Demand Communication for Asynchronous Multi-Agent Bandits**](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf) <br>
