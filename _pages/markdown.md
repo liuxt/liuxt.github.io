@@ -23,22 +23,23 @@ redirect_from:
 [Math Inequalities](http://www.lkozma.net/inequalities_cheat_sheet/)<br>
 [Optimization Inequalities Cheatsheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)<br>
 
+# Advice
+[Instructions for Ph.D. Students](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)<br>
+[Paper-Reading Survival Kit](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)<br>
+[How to Study Math](http://www.cs.cmu.edu/~15751/2016-lecture1.pdf)<br>
+[How to Give Clear Talks](http://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf)<br>
+[Accelerate Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)<br>
+[General PhD Guidance](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)<br>
+
 # Courses/Lectures
 [ELE524: Foundations of Reinforcement Learning](https://sites.google.com/view/cjin/ele524-2020-ver)<br>
+[CSC 696H: Topics in Reinforcement Learning Theory](https://zcc1307.github.io/courses/csc696fa21/index.html)<br>
 [ELE539/COS512: Optimization for Machine Learning](https://sites.google.com/view/cjin/ee539cos512)<br>
 [ECE434/COS434: Machine Learning Theory](https://sites.google.com/view/cjin/ece434cos434)<br>
 [videolecture.net](http://videolectures.net/)<br>
 [Learning and Optimization for Sequential Decision Making](https://ieor8100.github.io/rl/)<br>
 [UCL Course on RL](https://www.davidsilver.uk/teaching/)<br>
 [Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)<br>
-
-
-
-# Advice
-[How to Study Math](http://www.cs.cmu.edu/~15751/2016-lecture1.pdf)<br>
-[How to Give Clear Talks](http://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf)<br>
-[Accelerate Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)<br>
-[General PhD Guidance](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)<br>
 
 
 # Blogs
