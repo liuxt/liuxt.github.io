@@ -15,9 +15,13 @@ Education
 
 Work experience
 ======
-* Summer 2022: Postdoctoral Fellow
+* Summer 2023: Visiting Scholar
+  * University of Massachusetts Amherst
+  * Advisor: Prof. Mohammad Hajiesmaili
+    
+* Summer 2022 (up to now): Postdoctoral Fellow
   * The Chinese University of Hong Kong
-  * Supervisor: Prof. John C.S. Lui
+  * Advisor: Prof. John C.S. Lui
 
 * Summer 2019: Research Intern
   * Microsoft Research Asia, Theory Group
