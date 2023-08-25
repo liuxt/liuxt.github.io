@@ -70,7 +70,7 @@ DOI: https://doi.org/10.1109/TMC.2022.3173792
 
 2021
 ------
-- **[ICML'21]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
+- **[ICML'21, Long Oral]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
 The 38th International Conference on Machine Learning (**ICML**), **Long Oral**, 2021. (166/5513=3%).<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdwTW-6sVO5HoWYDrbrS8m4BPahbSqgrr7DPLYlVCTpGdQ?e=x24PYU) 
