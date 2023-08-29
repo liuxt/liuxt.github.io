@@ -8,12 +8,12 @@ author_profile: true
 2023
 ------
 - **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
-Xuchuang Wang, Lin Yang, Yu-zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, and John C.S. Lui. <br>
+Xuchuang Wang, Lin Yang, Yu-zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui. <br>
 To appear in the 39th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. <br>
 
 - **[ICML'23]** [**Contextual Combinatorial Bandits with Probabilistically Triggered Arms**](https://arxiv.org/abs/2303.17110) <br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
-To appear in the 40th International Conference on Machine Learning (**ICML**), 2023. (1827/6538=27.9%).<br>
+The 40th International Conference on Machine Learning (**ICML**), 2023. (1827/6538=27.9%).<br>
 [[arXiv]](https://arxiv.org/abs/2303.17110) [[slides]](https://drive.google.com/file/d/1SviLM--kpkgsSf7iteGC0LzJ-PriMnSj/view?usp=drive_link)
 
 
