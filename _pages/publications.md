@@ -68,7 +68,7 @@ Kechao Cai, **Xutong Liu**, Yuzhen Janice Chen, and John C.S. Lui. <br>
 IEEE Transactions on Mobile Computing (**IEEE TMC**), 2022.<br>
 DOI: https://doi.org/10.1109/TMC.2022.3173792
 
-2021
+2021 and before
 ------
 - **[ICML'21, Long Oral]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
@@ -78,9 +78,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
 [[video]](https://icml.cc/virtual/2021/session/12068#sl-video-8750)
 
-Before 2021
-------
-- **Learning to Count: a Deep Learning Framework for Graphlet Count Estimation** <br> 
+- **[NSJ] Learning to Count: a Deep Learning Framework for Graphlet Count Estimation** <br> 
 **Xutong Liu**, Yu-Zhen Chen, John C.S. Lui., Konstantin Avrachenkov.<br>
 **Network Science Journal**.<br>
 DOI: https://doi.org/10.1017/nws.2020.35.
@@ -91,7 +89,7 @@ Kechao Cai, **Xutong Liu**, Yuzhen Janice Chen, and John C.S. Lui. <br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2018. <be>
 
 
-- **Graphlet Count Estimation via Convolutional Neural Networks** <br>
+- **[CNA'18] Graphlet Count Estimation via Convolutional Neural Networks** <br>
 **Xutong Liu**, Yu-Zhen Chen, John C.S. Lui, Konstantin Avrachenkov.<br>
 **COMPLEX NETWORKS**, 2018. <br>
 [[PDF]](https://hal.inria.fr/hal-01936850/file/camera-ready.pdf)
