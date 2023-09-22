@@ -7,9 +7,14 @@ author_profile: true
 
 2023
 ------
+- **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9))<br>
+Zhiyong Wang, Jize Xie, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
+Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
+
+
 - **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
 Xuchuang Wang, Lin Yang, Yu-zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui. <br>
-To appear in the 39th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. <br>
+The 39th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. <br>
 
 - **[ICML'23]** [**Contextual Combinatorial Bandits with Probabilistically Triggered Arms**](https://arxiv.org/abs/2303.17110) <br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
