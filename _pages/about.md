@@ -18,14 +18,15 @@ My recent works mainly study the online learning and the reinforcement learning 
 
 News
 ======
+- **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted to **NeurIPS** 2023.
 - **June. 2023**: Our work on free-exploration in cooperative multi-agent bandits is accepted to **UAI** 2023.
 - **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to **ICML** 2023.
-- **April. 2023**: I was awarded RGC Postdoctoral Fellowship (one of 50 awardees globally)!
+- **April. 2023**: I was awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
 - **Jan. 2023**: Our work on on-demand communication for asynchronous multi-agent bandits is accepted to **AISTATS** 2023.
 - **Jan. 2023**: Our work on near-optimal individual regret & low communications in multi-agent bandits is accepted to **ICLR** 2023.
 - **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage problem is accepted to **INFOCOM** 2023.
 - **Nov. 2022**: Our work on explorative key-term selection strategies for conversational contextual bandits is accepted to **AAAI** 2023.
-- **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits appears in **NeurIPS** 2022.
+- **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to **NeurIPS** 2022.
 - **July. 2022**: I successfully pass my **Ph.D. thesis defence**! I will join CUHK as a postdoc this fall.
 - **May. 2022**: Our work on federated online clustering of bandits appears in **UAI** 2022.
 - **April. 2022**: Our work on constrained multi-armed bandit for network applications is accepted to **IEEE Transactions on Mobile Computing**.
