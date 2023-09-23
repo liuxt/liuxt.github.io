@@ -7,7 +7,7 @@ author_profile: true
 
 2023
 ------
-- **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9))<br>
+- **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9)<br>
 Zhiyong Wang, Jize Xie, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
 
