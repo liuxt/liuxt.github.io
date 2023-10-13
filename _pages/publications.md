@@ -9,7 +9,7 @@ author_profile: true
 ------
 - **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9)<br>
 Zhiyong Wang, Jize Xie, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
-Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
+To appear in Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
 
 
 - **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
@@ -59,7 +59,8 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 **Xutong Liu**, Haoru Zhao, Tong Yu, Shuai Li, John C.S. Lui.<br>
 The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022. (230/712=32%).<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EauadOh7FsZAoE_tutVVmJEBio97Me5QChl-SmYUnGeLWw?e=7eKVyI)
-[[arXiv]](https://arxiv.org/abs/2208.14865)[[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ERAW3_6n1BBJnVglYqu92E0BhU0tZfCczwvrJjUZdLqn5Q?e=XIa6Lq) 
+[[arXiv]](https://arxiv.org/abs/2208.14865)
+[[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ERAW3_6n1BBJnVglYqu92E0BhU0tZfCczwvrJjUZdLqn5Q?e=XIa6Lq) 
 [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EVCWIpmaXrdKg5q8U7XcD0UBcsH65ueCag_U-grR58PCgA?e=d0i4Yx) 
 [[code]](https://github.com/ZhaoHaoRu/Federated-Clustering-of-Bandits)
 
