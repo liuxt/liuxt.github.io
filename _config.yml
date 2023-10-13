@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xutong Liu"
 title_separator          : "-"
 name                     : &name "Xutong Liu"
-description              : &description "Postdoc at CUHK"
+description              : &description "Visiting Scholar @ Umass Amherst"
 url                      : https://liuxt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuxt.github.io"
