@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Xutong Liu"
 title_separator          : "-"
 name                     : &name "Xutong Liu"
-description              : &description "Visiting Scholar @ Umass Amherst"
+description              : &description "Postdoc at CUHK"
 url                      : https://liuxt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "liuxt.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Xutong Liu"
   avatar           : "profile.jpg"
-  bio              : "Postdoc at CUHK"
-  location         : "Hong Kong SAR"
+  bio              : "Visiting Scholar at Umass Amherst"
+  location         : "Amherst, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KNfY6BIAAAAJ&hl=en"
