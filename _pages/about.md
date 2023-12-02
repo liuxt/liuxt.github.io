@@ -56,6 +56,8 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2018. <b
 
 News
 ======
+- **Dec. 2023**: Our work on learning context-aware probabilistic maximum coverage bandits is accepted to **INFOCOM** 2024.
+- **Oct. 2023**: I am visiting University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
 - **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted to **NeurIPS** 2023.
 - **June. 2023**: Our work on free-exploration in cooperative multi-agent bandits is accepted to **UAI** 2023.
 - **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to **ICML** 2023.
