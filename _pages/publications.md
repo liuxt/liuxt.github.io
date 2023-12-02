@@ -5,6 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+2024
+------
+- **[INFOCOM'24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
+**Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
+To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/13063=19.6%).<br>
+
+
 2023
 ------
 - **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9)<br>
