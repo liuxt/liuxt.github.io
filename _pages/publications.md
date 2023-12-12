@@ -5,11 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
+
 2024
 ------
+(#corresponding author, *coauthor)<br>
+
+- **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://xutongliu.me/publications/)<br>
+Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
+To appear in the AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (234/9862=23.75%).<br>
+
 - **[INFOCOM'24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
 **Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
-To appear in IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/13063=19.6%).<br>
+To appear in the IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/1307=19.6%).<br>
 
 
 2023
