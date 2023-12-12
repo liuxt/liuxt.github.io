@@ -8,7 +8,7 @@ author_profile: true
 
 2024
 ------
-(#corresponding author, *coauthor)<br>
+(#corresponding author, \*equal contribution)<br>
 
 - **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://xutongliu.me/publications/)<br>
 Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
@@ -46,7 +46,7 @@ Xuchuang Wang, Lin Yang, Yu-Zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmai
 The 11th International Conference on Learning Representations (**ICLR**), 2023.<br>
 
 - **[INFOCOM'23]** [**Variance-Adaptive Algorithm for Probabilistic Maximum Coverage Bandits with General Feedback**](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf) <br>
-**Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui. (\* means equal contribution.)<br>
+**Xutong Liu\***, Jinhang Zuo\*, Hong Xie, Carlee Joe-Wong, John C.S. Lui.<br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2023. (252/1312=19.2%).<br>
 [[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYqYaVWuH7RBr5BtYTcgA9sBj2cuj9nWRJqDb4VEZBT9mw?e=nGUKaI)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EYBJCDGWJDlKgAqnQYlm7MMB7tPZ4WTp6figrXV0EDLHpg?e=c5aGz2)
