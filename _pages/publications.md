@@ -10,9 +10,19 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<br>
 
+
+- **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://xutongliu.me/publications/)<br>
+**Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
+To appear in the Forty-first International Conference on Machine Learning (ICML), 2024 (2609/9473=27.5%)<br>
+
+- **[ICML'24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://xutongliu.me/publications/)<br>
+Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
+To appear in the Forty-first International Conference on Machine Learning (ICML), 2024 (2609/9473=27.5%)<br>
+
 - **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://xutongliu.me/publications/)<br>
 Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
-To appear in the AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (2342/9862=23.75%).<br>
+The 38th AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (2342/9862=23.75%).<br>
+[[arXiv]](https://arxiv.org/abs/2303.17110)
 
 - **[INFOCOM'24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
 **Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
@@ -23,7 +33,7 @@ To appear in the IEEE International Conference on Computer Communications (**INF
 ------
 - **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9)<br>
 Zhiyong Wang, Jize Xie, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
-To appear in Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
+The Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
 
 
 - **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
