@@ -10,14 +10,26 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<br>
 
+- **[Preprint]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://xutongliu.me/publications/)<br>
+Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
+[[arXiv]](https://arxiv.org/abs/2405.16587)
 
-- **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://xutongliu.me/publications/)<br>
+- **[ACM MM]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://xutongliu.me/publications/)<br>
+Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, **Xutong Liu#**, John C.S. Lui.<br>
+Accepted in the ACM Multimedia (**MM**), 2024 (1149/4385 = 26.2%).<br>
+
+- **[TKDE]** [**Conversational Recommendation with Online Learning and Clustering on Misspecified Users**](https://xutongliu.me/publications/)<br>
+Xiangxiang Dai\*, Zhiyong Wang\*, Jize Xie, **Xutong Liu**, John C.S. Lui.<br>
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.
+
+- **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
-To appear in the Forty-first International Conference on Machine Learning (ICML), 2024 (2609/9473=27.5%)<br>
+Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
+[[arXiv]](https://arxiv.org/abs/2406.01386)[poster](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
 - **[ICML'24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://xutongliu.me/publications/)<br>
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
-To appear in the Forty-first International Conference on Machine Learning (ICML), 2024 (2609/9473=27.5%)<br>
+Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
 
 - **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://xutongliu.me/publications/)<br>
 Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
@@ -26,7 +38,9 @@ The 38th AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (2342/9862
 
 - **[INFOCOM'24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
 **Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
-To appear in the IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/1307=19.6%).<br>
+IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/1307=19.6%).<br>
+[[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EXm92UN7f2FLrC6rnZ741RkBcacM7iEWYdSb5fszbPRNFQ?e=6Omxxp)
+[[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdAD9FewQHtDtOC1s_DrirgBSmiWCokUue9BvKeY67symg?e=JBH8Ca)
 
 
 2023
