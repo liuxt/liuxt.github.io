@@ -11,7 +11,7 @@ author_profile: true
 (#corresponding author, \*equal contribution)<br>
 
 - **[Preprint]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://xutongliu.me/publications/)<br>
-Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
+Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/abs/2405.16587)
 
 - **[ACM MM]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://xutongliu.me/publications/)<br>
