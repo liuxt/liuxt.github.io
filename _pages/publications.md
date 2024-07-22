@@ -31,10 +31,10 @@ Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
 
-- **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://xutongliu.me/publications/)<br>
+- **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://arxiv.org/abs/2402.16312)<br>
 Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
 The 38th AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (2342/9862=23.75%).<br>
-[[arXiv]](https://arxiv.org/abs/2303.17110)
+[[arXiv]](https://arxiv.org/abs/2402.16312)
 
 - **[INFOCOM'24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
 **Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
