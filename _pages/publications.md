@@ -25,7 +25,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.
 - **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
-[[arXiv]](https://arxiv.org/abs/2406.01386)[poster](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
+[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
 - **[ICML'24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://xutongliu.me/publications/)<br>
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
