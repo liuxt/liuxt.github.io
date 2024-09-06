@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Xutong Liu"
   avatar           : "profile.jpg"
-  bio              : "Visiting Scholar at Umass Amherst"
-  location         : "Amherst, MA"
+  bio              : "Postdoc at CMU"
+  location         : "Pittsburgh, PA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=KNfY6BIAAAAJ&hl=en"
-  email            : "liuxt@cse.cuhk.edu.hk"
+  email            : "xutongl@andrew.cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
