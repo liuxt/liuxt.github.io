@@ -8,7 +8,12 @@ author_profile: true
 
 2024
 ------
-(#corresponding author, \*equal contribution)<br>
+(#corresponding author, \*equal contribution)<be>
+
+- **[SIGMETRICS]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+**Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
+Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
+[[arXiv]](https://arxiv.org/abs/2410.17075)
 
 - **[Preprint]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
@@ -17,10 +22,14 @@ Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
 - **[ACM MM]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, **Xutong Liu#**, John C.S. Lui.<br>
 Accepted in the ACM Multimedia (**MM**), 2024 (1149/4385 = 26.2%).<br>
+[[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269) [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
+
 
 - **[TKDE]** [**Conversational Recommendation with Online Learning and Clustering on Misspecified Users**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai\*, Zhiyong Wang\*, Jize Xie, **Xutong Liu**, John C.S. Lui.<br>
-IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.
+IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.<br>
+[[Link]](https://ieeexplore.ieee.org/document/10586787)
+
 
 - **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
@@ -30,6 +39,7 @@ Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/
 - **[ICML'24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://xutongliu.me/publications/)<br>
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
+[[arXiv]](https://arxiv.org/abs/2410.19688) 
 
 - **[AAAI'24]** [**Federated Contextual Cascading Bandits with Asynchronous Communication and Heterogeneous Users**](https://arxiv.org/abs/2402.16312)<br>
 Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, and Enhong Chen.<br>
@@ -48,6 +58,7 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (2
 - **[NeurIPS'23]** [**Online Clustering of Bandits with Misspecified User Models**](https://openreview.net/forum?id=CQuRzAgjg9)<br>
 Zhiyong Wang, Jize Xie, **Xutong Liu**, Shuai Li, John C.S. Lui.<br>
 The Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023. (3222/12343=26.1%).<br>
+[[arXiv]](https://arxiv.org/abs/2310.02717)
 
 
 - **[UAI'23]** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
