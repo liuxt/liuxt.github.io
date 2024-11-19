@@ -13,7 +13,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 **I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here are my [CV](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EW0a2sUstBhEv3bAMyvivggBy2VvBYC_Aba0_ErOMFrCYg?e=efYRkT) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfLrmkWPK0BGpOdJZqJbN8sBitPgYVARURsmWkzRZz5qHw?e=OfwDI3).
 
-Research
+My Research
 ======
 My research strives to develop **scalable, generalizable, and robust machine learning algorithms** for **AI-powered networked systems**. In light of this vision, I focus on **theoretical foundations** of combinatorial decision-making under uncertainty, federated online learning, reinforcement learning with large action spaces, and their **applications** in edge/cloud computing systems, multimedia networks, smart energy systems, and LLM serving systems.
 
