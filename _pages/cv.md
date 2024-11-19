@@ -6,20 +6,24 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV is [here](https://docs.google.com/document/d/1L4zCMMVrow_aNX06zff2QYTvS5xgllJS1QrS5xUuXdc/edit?usp=sharing)/[这里](https://docs.google.com/document/d/1ByNXayfOe4u-eIt144AbHxJkHrjPPYDDslOiJQvc_Io/edit?usp=sharing) (Update: 2023-07-31).
+My CV is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EW0a2sUstBhEv3bAMyvivggBy2VvBYC_Aba0_ErOMFrCYg?e=efYRkT).
 
 Education
 ======
-* B.S. in Computer Science, University of Science and Technology of China (USTC), 2017
 * Ph.D in Computer Science, The Chinese University of Hong Kong (CUHK), 2022
+* B.S. in Computer Science, University of Science and Technology of China (USTC), 2017
 
-Work experience
+Working experience
 ======
-* Summer 2023: Visiting Scholar
+* Sept 2024 - Now: Postdoctoral Fellow
+  * Carnegie Mellon University
+  * Advisor: Prof. Carlee Joe-Wong
+
+* Sept 2023 - Sept 2024: Visiting Scholar
   * University of Massachusetts Amherst
   * Advisor: Prof. Mohammad Hajiesmaili
     
-* Summer 2022 (up to now): Postdoctoral Fellow
+* Sept 2022 - Sept 2024: Postdoctoral Fellow
   * The Chinese University of Hong Kong
   * Advisor: Prof. John C.S. Lui
 
@@ -29,13 +33,14 @@ Work experience
   
 Awards
 ======
-* RGC Postdoctoral Fellowship - 2023-2026
+* RGC Postdoctoral Fellowship (50 Recipients Worldwide) - 2023-2026
+* Award of Excellence in Stars of Tomorrow Internship Program, Microsoft Research Asia - 2019
 * Outstanding reviewer (Top 10%) at ICML 2022
-* Hong Kong PhD Fellowship (HKPFS) - 2017-2021
-* CCF Outstanding Undergraduate Award - 2016
-* National Scholarship - 2014-2015
-* National Scholarship - 2013-2014
-
+* Hong Kong PhD Fellowship (HKPFS) - 2017
+* Runner up, Guo Moruo Scholarship, USTC - 2017
+* Bachelor’s Degree with Honored Rank, USTC
+* Elite Collegiate Award, China Computer Federation (CCF) - 2016
+* National Scholarship - 2014, 2015
 
 
 
