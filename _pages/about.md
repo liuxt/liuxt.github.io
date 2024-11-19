@@ -11,20 +11,27 @@ redirect_from:
 Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/), in the Department of Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/)  at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from University of Science and Technology of China (USTC) in 2017. 
 
-For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from University of Massachusetts Amherst, and Prof. [Adam Wierman](https://adamwierman.com/) from California Institute of Technology.
+**I am actively seeking faculty or research-focused positions starting in Fall 2025** and here is my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfLrmkWPK0BGpOdJZqJbN8sBitPgYVARURsmWkzRZz5qHw?e=OfwDI3).
 
 Research
 ======
-My research focuses on **data-driven combinatorial optimization** and **combinatorial optimization under uncertainty**, which are intersections of combinatorial optimization, stochastic modeling, online learning, and reinforcement learning. Through the lens of algorithm design and mathematical tools, I am interested in solving decision-making problems for recommender systems, network systems, and data-center optimization. For these applications, my goal is to develop efficient solutions with provable learning efficiency, scalability, and generalizability guarantee. 
+My research strives to develop **scalable, generalizable, and robust machine learning algorithms** for **AI-powered networked systems**. In light of this vision, I focus on **theoretical foundations** of combinatorial decision-making under uncertainty, federated online learning, reinforcement learning with large action spaces, and their **applications** in edge/cloud computing systems, multimedia networks, smart energy systems, and LLM serving systems.
 
-My recent works mainly study online learning and reinforcement learning problems, e.g., **combinatorial multi-armed bandits**, **distributed/federated multi-armed bandits**, and **reinforcement learning with large action space**.
+For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from University of Massachusetts Amherst, and Prof. [Adam Wierman](https://adamwierman.com/) from California Institute of Technology. 
+
+I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!
 
 Selected Publications
 ======
-- **[ICML'23]** [**Contextual Combinatorial Bandits with Probabilistically Triggered Arms**](https://arxiv.org/abs/2303.17110) <br>
-**Xutong Liu**, Jinhang Zuo, Siwei Wang, John C.S. Lui, Mohammad Hajiesmaili, Adam Wierman, Wei Chen.<br>
-The 40th International Conference on Machine Learning (**ICML**), 2023.<br>
-[[arXiv]](https://arxiv.org/abs/2303.17110) [[slides]](https://drive.google.com/file/d/1SviLM--kpkgsSf7iteGC0LzJ-PriMnSj/view?usp=drive_link)
+- **[SIGMETRICS]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+**Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
+Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
+[[arXiv]](https://arxiv.org/abs/2410.17075)
+
+- **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
+**Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
+Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
+[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
 - **[NeurIPS'22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
@@ -51,11 +58,6 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 [[arXiv]](https://arxiv.org/abs/2106.05065)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
 [[video]](https://icml.cc/virtual/2021/session/12068#sl-video-8750)
-
-
-- **[INFOCOM'18]** [**An Online Learning Approach to Network Application Optimization with Guarantee**](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf) <br> 
-Kechao Cai, **Xutong Liu**, Yuzhen Janice Chen, and John C.S. Lui. <br>
-IEEE International Conference on Computer Communications (**INFOCOM**), 2018. <be>
 
 News
 ======
