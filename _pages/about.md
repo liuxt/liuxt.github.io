@@ -11,7 +11,7 @@ redirect_from:
 Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/), in the Department of Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/)  at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from University of Science and Technology of China (USTC) in 2017. 
 
-**I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here is my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfLrmkWPK0BGpOdJZqJbN8sBitPgYVARURsmWkzRZz5qHw?e=OfwDI3).
+**I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here is my [CV](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EW0a2sUstBhEv3bAMyvivggBy2VvBYC_Aba0_ErOMFrCYg?e=efYRkT) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfLrmkWPK0BGpOdJZqJbN8sBitPgYVARURsmWkzRZz5qHw?e=OfwDI3).
 
 Research
 ======
