@@ -10,6 +10,11 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[ToN]** Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
+Arms.<br>
+Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
+Accepted to IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
+
 - **[SIGMETRICS]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
