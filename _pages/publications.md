@@ -8,8 +8,8 @@ author_profile: true
 2025
 ------
 (#corresponding author, \*equal contribution)<be>
-- **[ToN]** Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
-Arms.<br>
+- **[ToN]** [**Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
+Arms**](https://xutongliu.me/publications/).<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
 Accepted to IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
 
