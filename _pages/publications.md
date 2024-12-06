@@ -5,11 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-
-2024
+2025
 ------
 (#corresponding author, \*equal contribution)<be>
-
 - **[ToN]** Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
 Arms.<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
@@ -19,6 +17,9 @@ Accepted to IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
+
+2024
+------
 
 - **[Preprint]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
