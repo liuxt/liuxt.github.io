@@ -64,9 +64,9 @@ News
 - **Dec. 2024**: Excited to be co-organizing the third annual workshop on **Learning-augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS** 2025! Details will be coming soon.
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
 - **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
+- **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
 - **May. 2024**: Our works on (1) combinatorial bandits view to solve episodic RL and (2) quantum algorithm for online exp-concave optimization are accepted by **ICML** 2024.
-- **Dec. 2023**: Our work on learning context-aware probabilistic maximum coverage bandits is accepted by **INFOCOM** 2024.
-- **Oct. 2023**: I am visiting University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
+- **Oct. 2023**: I am visiting the University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
 - **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted by **NeurIPS** 2023.
 - **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted by **ICML** 2023.
 - **April. 2023**: I was awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
