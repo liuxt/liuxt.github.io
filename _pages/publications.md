@@ -14,7 +14,7 @@ Xuchuang Wang, Maoli Liu#, **Xutong Liu#**,  Zhuohua Li,  Mohammad Hajiesmaili, 
 Accepted by IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
 
 
-- **[INFOCOM '25]** [**Learning Best Paths in Quantum Networks**](https://xutongliu.me/publications/)<br>
+- **[INFOCOM '25]** [**Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems**](https://xutongliu.me/publications/)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#.<br>
 Accepted by IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
 
