@@ -61,15 +61,14 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **May. 2024**: Our works on combinatorial bandits view to solve episodic RL and quantum algorithm for online exp-concave optimization are accepted to **ICML** 2024.
-- **Dec. 2023**: Our work on federated contextual cascading bandits is accepted to **AAAI** 2024.
-- **Dec. 2023**: Our work on learning context-aware probabilistic maximum coverage bandits is accepted to **INFOCOM** 2024.
+- **Dec. 2024**: Excited to be co-organizing the third annual workshop on **Learning-augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS** 2025! Details will be coming soon.
+- **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
+- **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
+- **May. 2024**: Our works on (1) combinatorial bandits view to solve episodic RL and (2) quantum algorithm for online exp-concave optimization are accepted by **ICML** 2024.
+- **Dec. 2023**: Our work on learning context-aware probabilistic maximum coverage bandits is accepted by **INFOCOM** 2024.
 - **Oct. 2023**: I am visiting University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
-- **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted to **NeurIPS** 2023.
-- **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted to **ICML** 2023.
+- **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted by **NeurIPS** 2023.
+- **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted by **ICML** 2023.
 - **April. 2023**: I was awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
-- **Dec. 2022**: Our work on variance-adaptive algorithm for probabilistic maximum coverage problem is accepted to **INFOCOM** 2023.
-- **Nov. 2022**: Our work on explorative key-term selection strategies for conversational contextual bandits is accepted to **AAAI** 2023.
-- **Sept. 2022**: Our work on batch-size independent regret bounds for combinatorial bandits is accepted to **NeurIPS** 2022.
-- **July. 2022**: I successfully pass my **Ph.D. thesis defence**! I will join CUHK as a postdoc this fall.
+
 
