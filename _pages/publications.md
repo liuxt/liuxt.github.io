@@ -31,17 +31,17 @@ Accepted in the ACM International Conference on Measurement and Modeling of Comp
 2024
 ------
 
-- **[Preprint '24]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://xutongliu.me/publications/)<br>
+- **[Preprint '24]** [**Cost-Effective Online Multi-LLM Selection with Versatile Reward Models**](https://arxiv.org/abs/2405.16587)<br>
 Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/abs/2405.16587)
 
-- **[ACM MM '24]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://xutongliu.me/publications/)<br>
+- **[ACM MM '24]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://dl.acm.org/doi/10.1145/3664647.3681269)<br>
 Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, **Xutong Liu#**, John C.S. Lui.<br>
 Accepted in the ACM Multimedia (**MM**), 2024 (1149/4385 = 26.2%).<br>
 [[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269) [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
 
 
-- **[TKDE]** [**Conversational Recommendation with Online Learning and Clustering on Misspecified Users**](https://xutongliu.me/publications/)<br>
+- **[TKDE]** [**Conversational Recommendation with Online Learning and Clustering on Misspecified Users**](https://ieeexplore.ieee.org/document/10586787)<br>
 Xiangxiang Dai\*, Zhiyong Wang\*, Jize Xie, **Xutong Liu**, John C.S. Lui.<br>
 IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.<br>
 [[Link]](https://ieeexplore.ieee.org/document/10586787)
@@ -52,7 +52,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
 [[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
-- **[ICML '24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://xutongliu.me/publications/)<br>
+- **[ICML '24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://arxiv.org/abs/2410.19688)<br>
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
 [[arXiv]](https://arxiv.org/abs/2410.19688) 
@@ -62,7 +62,7 @@ Hantao Yang, **Xutong Liu#**, Zhiyong Wang, Hong Xie, John C.S. Lui, Defu Lian, 
 The 38th AAAI Conference on Artificial Intelligence (**AAAI**), 2024. (2342/9862=23.75%).<br>
 [[arXiv]](https://arxiv.org/abs/2402.16312)
 
-- **[INFOCOM '24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://xutongliu.me/publications/)<br>
+- **[INFOCOM '24]** [**Learning Context-Aware Probabilistic Maximum Coverage Bandits: A Variance-Adaptive Approach**](https://ieeexplore.ieee.org/document/10621257)<br>
 **Xutong Liu**, Jinhang Zuo, Junkai Wang, Zhiyong Wang, Yuedong Xu, and John C.S. Lui.<br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2024. (256/1307=19.6%).<br>
 [[pdf]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EXm92UN7f2FLrC6rnZ741RkBcacM7iEWYdSb5fszbPRNFQ?e=6Omxxp)
