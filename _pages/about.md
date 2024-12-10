@@ -23,17 +23,17 @@ I am always open to new research collaborations with both industry and academia.
 
 Selected Publications
 ======
-- **[SIGMETRICS]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
 
-- **[ICML'24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
+- **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
 [[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
-- **[NeurIPS'22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
+- **[NeurIPS '22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
 Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 2022.<br>
 [[arXiv]](https://arxiv.org/abs/2208.14837) 
@@ -41,7 +41,7 @@ Thirty-sixth Conference on Neural Information Processing Systems (**NeurIPS**), 
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Ean0PkfNnwNDg23cGZNLoRkBWF5kXd0zThviP_QsJQStIQ?e=bdMohQ)
 [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EQxJVhpK0b5HhL7myGALkFQBfatSRtDhZJ7qfoAVsnrs3w?e=SjAuDS)
 
-- **[UAI'22]** [**Federated Online Clustering of Bandits**](https://openreview.net/forum?id=rKUgiU8iqeq)<br>
+- **[UAI '22]** [**Federated Online Clustering of Bandits**](https://openreview.net/forum?id=rKUgiU8iqeq)<br>
 **Xutong Liu**, Haoru Zhao, Tong Yu, Shuai Li, John C.S. Lui.<br>
 The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EauadOh7FsZAoE_tutVVmJEBio97Me5QChl-SmYUnGeLWw?e=7eKVyI)
@@ -51,7 +51,7 @@ The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.<b
 [[code]](https://github.com/ZhaoHaoRu/Federated-Clustering-of-Bandits)
 
 
-- **[ICML'21, Long Oral]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
+- **[ICML '21, Long Oral]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
 The 38th International Conference on Machine Learning (**ICML**), **Long Oral**, 2021.<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdwTW-6sVO5HoWYDrbrS8m4BPahbSqgrr7DPLYlVCTpGdQ?e=x24PYU) 
