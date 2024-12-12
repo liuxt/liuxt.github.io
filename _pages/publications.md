@@ -9,6 +9,8 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+
+
 - **[INFOCOM '25]** [**Learning Best Paths in Quantum Networks**](https://xutongliu.me/publications/)<br>
 Xuchuang Wang, Maoli Liu#, **Xutong Liu#**,  Zhuohua Li,  Mohammad Hajiesmaili, John C.S. Lui,  Don Towsley.<br>
 Accepted by IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
@@ -21,11 +23,16 @@ Accepted by IEEE International Conference on Computer Communications (**INFOCOM*
 - **[TON]** [**Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
 Arms**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
-Accepted to IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
+Accepted by IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
+
+- **[SIGMETRICS '25]** [**Asynchronous Multi-Agent Bandits: Fully Distributed vs. Leader-Coordinated Algorithms**](https://xutongliu.me/publications/)<br>
+Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, and John C.S. Lui.<br>
+Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
+
 
 - **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
+Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/223 = 15.7%).<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
 
 2024
@@ -37,7 +44,7 @@ Xiangxiang Dai, Jin Li, **Xutong Liu**, Anqi Yu, John C.S. Lui.<br>
 
 - **[ACM MM '24]** [**AxiomVision: Accuracy-Guaranteed Adaptive Visual Model Selection for Perspective-Aware Video Analytics**](https://dl.acm.org/doi/10.1145/3664647.3681269)<br>
 Xiangxiang Dai, Zeyu Zhang, Peng Yang, Yuedong Xu, **Xutong Liu#**, John C.S. Lui.<br>
-Accepted in the ACM Multimedia (**MM**), 2024 (1149/4385 = 26.2%).<br>
+ACM Multimedia (**MM**), 2024 (1149/4385 = 26.2%).<br>
 [[Link]](https://dl.acm.org/doi/10.1145/3664647.3681269) [[arXiv]](https://arxiv.org/abs/2407.20124), [[Poster]](https://xiangxdai.github.io/files/Poster4ACMMM24.pdf), [[Code]](https://github.com/zeyuzhangzyz/AxiomVision), [[ACM showcase on Kudos]](https://www.growkudos.com/publications/10.1145%25252F3664647.3681269/reader)<br>
 
 
