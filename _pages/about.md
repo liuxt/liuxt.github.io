@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/), in the Department of Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/)  at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
-I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from University of Science and Technology of China (USTC) in 2017. 
+I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
 **I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here are my [CV (Dec, 2024)](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eee0po-hQUZOk-i5-wXtmCoB-qNzuOX561csheBoqOLMyA?e=tpzWOn) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ES7nMPd2c7lOoITOmw6LSrYBPO6GCKeP3AgQSKw9uOybkg?e=QoQfxI).
 
@@ -45,12 +45,12 @@ Selected Publications
 ======
 - **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (20/110 = 18.2%).<br>
+Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
-Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
+Forty-first International Conference on Machine Learning (**ICML**), 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
 
 - **[NeurIPS '22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
