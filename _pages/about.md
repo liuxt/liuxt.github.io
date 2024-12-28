@@ -81,7 +81,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **Dec. 2024**: Excited to be co-organizing the third annual workshop on **Learning-augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS** 2025! Details will be coming soon.
+- **Dec. 2024**: Excited to be co-organizing the third annual workshop on **Learning-augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS** 2025! Check [this website](https://learning-augmented-algorithms.github.io/) for details.
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
 - **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
 - **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
