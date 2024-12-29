@@ -11,8 +11,6 @@ redirect_from:
 Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/), in the Department of Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/)  at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
-We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at **Stony Brook University, New York, USA**. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
-
 **I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here are my [CV (Dec, 2024)](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EVPKPmxle4tLhQMah5U4oxcBx7Jja9_4UOHfGhaHAnGxXA?e=yZtidj) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ES7nMPd2c7lOoITOmw6LSrYBPO6GCKeP3AgQSKw9uOybkg?e=QoQfxI).
 
 My Research
@@ -83,7 +81,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **Dec. 2024**: Excited to be co-organizing the third annual workshop on **Learning-augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS** 2025! Check [this website](https://learning-augmented-algorithms.github.io/) for details.
+- **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
 - **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
 - **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
