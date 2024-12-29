@@ -13,7 +13,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 **I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here are my [CV (Dec, 2024)](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EVPKPmxle4tLhQMah5U4oxcBx7Jja9_4UOHfGhaHAnGxXA?e=yZtidj) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ES7nMPd2c7lOoITOmw6LSrYBPO6GCKeP3AgQSKw9uOybkg?e=QoQfxI). 
 
-I am very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/). 
+I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/). 
 
 My Research
 ======
