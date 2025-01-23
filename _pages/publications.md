@@ -9,7 +9,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-
+- **[ICLR '25]** [**Stochastic Bandits Robust to Adversarial Attacks**](https://arxiv.org/abs/2408.08859) <br>
+Xuchuang Wang, Maoli Liu, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui, and Mohammad Hajiesmaili.<br>
+Accepted by the 13th International Conference on Learning Representations (**ICLR**), 2025.<br>
+[[arXiv]](https://arxiv.org/abs/2408.08859)
 
 - **[INFOCOM '25]** [**Learning Best Paths in Quantum Networks**](https://xutongliu.me/publications/)<br>
 Xuchuang Wang, Maoli Liu#, **Xutong Liu#**,  Zhuohua Li,  Mohammad Hajiesmaili, John C.S. Lui,  Don Towsley.<br>
