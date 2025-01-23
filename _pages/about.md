@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/), in the Department of Electrical and Computer Engineering at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/)  at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
-I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly supervised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
+Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
+I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
 **I am actively seeking faculty or research-focused positions starting in Fall 2025**. Here are my [CV (Dec, 2024)](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EVPKPmxle4tLhQMah5U4oxcBx7Jja9_4UOHfGhaHAnGxXA?e=yZtidj) and my [research statement](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ES7nMPd2c7lOoITOmw6LSrYBPO6GCKeP3AgQSKw9uOybkg?e=QoQfxI). 
 
@@ -17,20 +17,24 @@ I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmen
 
 My Research
 ======
-We live in an era defined by **intelligence** and **connectivity**. Intelligence is like water and networked systems are like pipes/channels where intelligence can flow freely and smoothly—bridging devices, users, and applications—without being restricted by the rigid boundaries of time, spaces, platforms, models, or protocols. 
+We live in an era defined by **intelligence** and **connectivity**. 
 
-Just as well-designed plumbing systems ensure water reaches every corner with efficiency and reliability, I strive to develop **scalable, generalizable, and robust machine learning algorithms** to build **AI-powered computer and communication systems**, where intelligence is accessible, adaptable, and reliable across diverse environments and use cases.
+Intelligence or AI is like water. Computing and communication systems, such as data centers and communication networks, are like pipes, where intelligence can be produced and distributed smoothly and freely across different platforms, devices, and users.
 
-In light of this vision, I focus on **theoretical foundations** of combinatorial decision-making under uncertainty, multi-agent online learning, reinforcement learning with large action spaces, and their **applications** in edge/cloud computing systems, multimedia networks, IoT systems, social networks, LLM training/serving systems, and quantum networks. 
+Just as well-designed plumbing systems ensure water reaches every corner with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in large-scale **AI computing and communication systems**, where intelligence can be produced and distributed in a way that is accessible, adaptable, and reliable across diverse environments and use cases.
 
-**Theory:** 
+My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. 
+
+My recent focuses are:
+
+**Online learning/RL Theory:** 
 
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[L](https://arxiv.org/abs/2208.14837)ZWJLC, NeurIPS '22], [[L](https://arxiv.org/abs/2106.05065)ZCCL, ICML '21]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[L](https://arxiv.org/abs/2410.17075)DWHL, SIGMETRICS '25], [[L](https://ieeexplore.ieee.org/document/10621257)ZWXL, INFOCOM '24], [[L](https://arxiv.org/abs/2303.17110)ZWLHWC, ICML '23]
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br>  [WCY[L](https://xutongliu.me/publications/)HTL, SIGMETRICS '25], [W[L](https://xutongliu.me/publications/)ZX, INFOCOM '25], [Y[L](https://arxiv.org/abs/2402.16312)WXLLC, AAAI '24], [WX[L](https://arxiv.org/abs/2310.02717)LL, NeurIPS '23], [WYC[L](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)HTL, UAI '23], [CYW[L](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)HLT, AISTATS '23], [WYC[L](https://openreview.net/forum?id=QTXKTXJKIh)HTJ, ICLR '23], [[L](https://arxiv.org/abs/2208.14865)ZYLL, UAI '23]
 * Reinforcement Learning with **Large Action Spaces**:<br>  [[L](https://arxiv.org/abs/2406.01386)WJZWWLHJC, ICML '24]
 
-**Applications:**
+**Network Applications:**
 
 * Edge/Cloud Computing, Multimedia Networking, and IoT Systems:<br>  [D[L](https://xutongliu.me/publications/)ZXJL, IEEE/ACM TON], [DZYX[L](https://arxiv.org/abs/2407.20124)L, ACM MM '24], [[L](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)ZXJL, INFOCOM '23], [C[L](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)CL, INFOCOM '18], [C[L](https://doi.org/10.1109/TMC.2022.3173792)CL, IEEE TMC]
 * Social Networks and Conversational Recommendation Systems:<br>  [W[L](https://arxiv.org/abs/2303.00315)LL, AAAI '23], [Z[L](https://proceedings.mlr.press/v151/zuo22a.html)JLC, AISTATS '22], [DWX[L](https://ieeexplore.ieee.org/document/10586787)L, IEEE TKDE]
@@ -39,7 +43,7 @@ In light of this vision, I focus on **theoretical foundations** of combinatorial
 
 Collaborations
 =======
-For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from the University of Massachusetts Amherst, and Prof. [Adam Wierman](https://adamwierman.com/) from California Institute of Technology. 
+For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE/ACM Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from the University of Massachusetts Amherst, and Prof. [Adam Wierman](https://adamwierman.com/) from California Institute of Technology. 
 
 I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!
 
