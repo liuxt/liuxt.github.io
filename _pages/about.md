@@ -17,15 +17,11 @@ I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmen
 
 My Research
 ======
-We live in an era defined by **intelligence** and **connectivity**. 
-
-Intelligence or AI is like water. Computing and communication systems, such as data centers and communication networks, are like pipes, where intelligence can be produced and distributed smoothly and freely across different platforms, devices, and users.
+We live in an era defined by **intelligence** and **connectivity**. Intelligence or AI is like water. Computing and communication systems, such as data centers and communication networks, are like pipes, where intelligence can be produced and distributed smoothly and freely across different platforms, devices, and users.
 
 Just as well-designed plumbing systems ensure water reaches every corner with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in large-scale **AI computing and communication systems**. By doing so, I hope AI can be produced and distributed in a way that is accessible, adaptable, and reliable across diverse environments and use cases.
 
-My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. 
-
-My recent focuses are:
+My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. My recent focuses are:
 
 **Online learning/RL Theory:** 
 
