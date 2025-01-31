@@ -17,13 +17,13 @@ I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmen
 
 My Research
 ======
-We live in an era defined by **intelligence** and **connectivity**. Intelligence or AI is like water. Computing and communication systems, such as data centers and communication networks, are like pipes, where intelligence can flow smoothly and freely across different platforms, devices, and users.
+We live in an era defined by **intelligence** and **connectivity**. Artificial intelligence is the new "water" and "electricity". Computing and communication systems, such as data centers and communication networks, are like pipes and wires, where intelligence can flow smoothly and freely across different platforms, devices, and users.
 
-Just as well-designed plumbing systems ensure water reaches every corner with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in large-scale **AI computing and communication systems**. By doing so, I hope AI can be produced and distributed in a way that is accessible, adaptable, and reliable across diverse environments and use cases.
+Just as well-designed plumbing systems ensure water reaches every corner with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in large-scale **AI computing and communication systems**. By doing so, I hope AI can be produced and delivered in a way that is adaptable, reliable, and equitable across diverse environments and use cases.
 
 My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. My recent focuses are:
 
-**Online learning/RL Theory:** 
+**Online Learning/Reinforcement Learning (RL) Theory:** 
 
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[L](https://arxiv.org/abs/2208.14837)ZWJLC, NeurIPS '22], [[L](https://arxiv.org/abs/2106.05065)ZCCL, ICML '21]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[L](https://arxiv.org/abs/2410.17075)DWHL, SIGMETRICS '25], [[L](https://ieeexplore.ieee.org/document/10621257)ZWXL, INFOCOM '24], [[L](https://arxiv.org/abs/2303.17110)ZWLHWC, ICML '23]
