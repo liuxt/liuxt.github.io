@@ -34,7 +34,6 @@ My research approach is around building **theoretical foundations** for online l
 
 * Edge/Cloud Computing, Multimedia Networking, and IoT Systems:<br>  [D[L](https://xutongliu.me/publications/)ZXJL, IEEE/ACM TON], [DZYX[L](https://arxiv.org/abs/2407.20124)L, ACM MM '24], [[L](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)ZXJL, INFOCOM '23], [C[L](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)CL, INFOCOM '18], [C[L](https://doi.org/10.1109/TMC.2022.3173792)CL, IEEE TMC]
 * Social Networks and Conversational Recommendation Systems:<br>  [W[L](https://arxiv.org/abs/2303.00315)LL, AAAI '23], [Z[L](https://proceedings.mlr.press/v151/zuo22a.html)JLC, AISTATS '22], [DWX[L](https://ieeexplore.ieee.org/document/10586787)L, IEEE TKDE]
-//* Quantum Computing and Networking:<br>  [WL[L](https://xutongliu.me/publications/)LHJT, INFOCOM '25], [HL[L](https://arxiv.org/abs/2410.19688)LL, ICML '24]
 * Large Language Model (LLM) Training/Serving Systems:<br>  [DL[L](https://arxiv.org/abs/2405.16587)YL, ArXiv '24]
 
 Collaborations
