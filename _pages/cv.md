@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV (Dec, 2024) is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eee0po-hQUZOk-i5-wXtmCoB-qNzuOX561csheBoqOLMyA?e=tpzWOn).
+My CV (Feb, 2025) is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfxLXtesGr1IhynWjukg_2kBqrB-CucEdF43WB-Jpo-r3A?e=bKzpQb).
 
 Education
 ======
@@ -19,7 +19,7 @@ Working experience
   * Carnegie Mellon University
   * Advisor: Prof. Carlee Joe-Wong
 
-* Sept 2023 - Sept 2024: Visiting Scholar
+* Sept 2023 - Sept 2024: Visiting Postdoctoral Researcher
   * University of Massachusetts Amherst
   * Advisor: Prof. Mohammad Hajiesmaili
     
