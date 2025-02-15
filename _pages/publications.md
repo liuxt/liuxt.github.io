@@ -9,6 +9,16 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint]** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
+Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
+[[PDF]](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)
+
+
+- **[Preprint]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
+**Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Carlee-Joe Wong, John C.S. Lui, Wei Chen.<br>
+[[arXiv]](https://arxiv.org/abs/2501.19300)
+
+
 - **[ICLR '25]** [**Stochastic Bandits Robust to Adversarial Attacks**](https://arxiv.org/abs/2408.08859) <br>
 Xuchuang Wang, Maoli Liu, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui, and Mohammad Hajiesmaili.<br>
 Accepted by the 13th International Conference on Learning Representations (**ICLR**), 2025.<br>
