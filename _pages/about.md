@@ -13,7 +13,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 **I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025.** 
 
-I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (LEAD) research group, check [here](https://xutongliu.me/group/) for details if you are interested in joining us.
+I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (LEAD) research group and recruit Ph.D. students in Fall 2026, check [here](https://xutongliu.me/group/) for details if you are interested in joining us.
 
 I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/). 
 
