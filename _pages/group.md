@@ -7,7 +7,7 @@ author_profile: true
 
 ## **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (LEAD) research group
 ------
-I plan to recruit **self-motivated PhD students, graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **reinforcement learning, online learning, cost-effective LLM, and AI for networks**. 
+I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **reinforcement learning, online learning, cost-effective LLM, and AI for networks**. 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. 
 
