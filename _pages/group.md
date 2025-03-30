@@ -16,7 +16,7 @@ Most of our previous/current collaborations would turn into publications in **to
 Student Mentoring Experience
 ------
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- **Hanqing Yang** (master student $\rightarrow$ Ph.D. in ECE at CMU), 2024-Present<br>
+- **Hanqing Yang** (master student $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present<br>
 - **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **ICML '25 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
