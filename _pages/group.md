@@ -6,14 +6,14 @@ author_profile: true
 ---
 
 ## **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (LEAD) research group
-
+------
 I plan to recruit **self-motivated PhD students, graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **reinforcement learning, online learning, cost-effective LLM, and AI for networks**. 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. 
 
 Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). If you're interested, please contact me with your CV.
 
-Student Mentoring Experience
+## Student Mentoring Experience
 ------
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
 - **Hanqing Yang** (master student $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present<br>
