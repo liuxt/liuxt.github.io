@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Learning, Evaluation, and Advanced Decision-making (LEAD) Research Group"
+title: "The LEAD Research Group"
 permalink: /group/
 author_profile: true
 ---
