@@ -11,9 +11,9 @@ redirect_from:
 Hi, my name is Xutong Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
-**I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025.** 
+<!--- **I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025.** 
 
-I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**) research group and recruit Ph.D. students in Fall 2026, check [here](https://xutongliu.me/group/) for details if you are interested in joining us.
+I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**) research group and recruit Ph.D. students in Fall 2026, check [here](https://xutongliu.me/group/) for details if you are interested in joining us.--->
 
 I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/). 
 
