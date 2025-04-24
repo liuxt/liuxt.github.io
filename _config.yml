@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Xutong Liu"
+  name             : "Xutong (James) Liu"
   avatar           : "profile.jpg"
   bio              : "Postdoc at CMU"
   location         : "Pittsburgh, PA"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : #"https://x.com/XutongLiu_CMU"
   vine             :
   weibo            :
   xing             :
