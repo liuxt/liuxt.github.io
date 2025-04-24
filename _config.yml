@@ -56,7 +56,7 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: "XutongLiu_CMU"
+twitter:
   username               : &twitter "XutongLiu_CMU"
 facebook:
   username               :
