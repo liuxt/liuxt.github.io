@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Xutong Liu"
 title_separator          : "-"
-name                     : &name "Xutong Liu"
+name                     : &name "Xutong (James) Liu"
 description              : &description "Postdoc at CUHK"
 url                      : https://liuxt.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : &twitter "https://x.com/XutongLiu_CMU"
 facebook:
   username               :
   app_id                 :
