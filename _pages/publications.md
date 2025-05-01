@@ -9,6 +9,16 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[ICML '25]** [**Fusing Reward and Dueling Feedback in Stochastic Bandits**](https://arxiv.org/abs/2504.15812)<br>
+Xuchuang Wang, Qirun Zeng, Jinhang Zuo, **Xutong Liu**, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman<br>
+Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
+[[arXiv]](https://arxiv.org/abs/2504.15812)
+
+- **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
+**Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
+Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%) <br>
+[[arXiv]](https://arxiv.org/abs/2501.19300)
+
 - **[ACM JCSS]** [**Dynamic Incentive Allocation for City-scale Deep Decarbonization**](https://arxiv.org/abs/2502.08877)<br>
 Anupama Sitaraman, Adam Lechowicz, Noman Bashir, **Xutong Liu**, Mohammad Hajiesmaili, and Prashant Shenoy.<br>
 ACM Journal on Computing and Sustainable Societies (JCSS), 2025. <br>
