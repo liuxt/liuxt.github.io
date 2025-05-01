@@ -27,7 +27,7 @@ My research approach is around building **theoretical foundations** for online l
 
 **Online Learning/Reinforcement Learning (RL) Theory:** 
 
-* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[L](https://arxiv.org/abs/2208.14837)ZWJLC, NeurIPS '22], [[L](https://arxiv.org/abs/2106.05065)ZCCL, ICML '21]
+* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[L](https://arxiv.org/abs/2208.14837)DZWCLC, ICML '25], [[L](https://arxiv.org/abs/2208.14837)ZWJLC, NeurIPS '22], [[L](https://arxiv.org/abs/2106.05065)ZCCL, ICML '21]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[L](https://arxiv.org/abs/2410.17075)DWHL, SIGMETRICS '25], [[L](https://ieeexplore.ieee.org/document/10621257)ZWXL, INFOCOM '24], [[L](https://arxiv.org/abs/2303.17110)ZWLHWC, ICML '23]
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [WLZ[L](https://arxiv.org/abs/2408.08859)LH, ICLR '25], [WCY[L](https://xutongliu.me/publications/)HTL, SIGMETRICS '25], [W[L](https://xutongliu.me/publications/)ZX, INFOCOM '25], [Y[L](https://arxiv.org/abs/2402.16312)WXLLC, AAAI '24], [WX[L](https://arxiv.org/abs/2310.02717)LL, NeurIPS '23], [WYC[L](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)HTL, UAI '23], [CYW[L](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)HLT, AISTATS '23], [WYC[L](https://openreview.net/forum?id=QTXKTXJKIh)HTJ, ICLR '23], [[L](https://arxiv.org/abs/2208.14865)ZYLL, UAI '23]
 * Reinforcement Learning with **Large Action Spaces**:<br>  [[L](https://arxiv.org/abs/2406.01386)WJZWWLHJC, ICML '24]
@@ -40,15 +40,21 @@ My research approach is around building **theoretical foundations** for online l
 
 Collaborations
 =======
-For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE/ACM Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from the University of Massachusetts Amherst, and Prof. [Adam Wierman](https://adamwierman.com/) from California Institute of Technology. 
+For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE/ACM Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from the University of Massachusetts Amherst. 
 
 I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!
 
 Selected Publications
 ======
+
+- **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
+**Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
+Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
+[[arXiv]](https://arxiv.org/abs/2501.19300)
+
 - **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted in the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
+Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
