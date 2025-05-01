@@ -9,6 +9,11 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[ACM JCSS]** [**Dynamic Incentive Allocation for City-scale Deep Decarbonization**](https://arxiv.org/abs/2502.08877)<br>
+Anupama Sitaraman, Adam Lechowicz, Noman Bashir, **Xutong Liu**, Mohammad Hajiesmaili, and Prashant Shenoy.<br>
+ACM Journal on Computing and Sustainable Societies (JCSS), 2025. <br>
+[[arXiv]](https://arxiv.org/abs/2502.08877)
+
 - **[Preprint]** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
 Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
 [[PDF]](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)
@@ -70,7 +75,7 @@ IEEE Transactions on Knowledge and Data Engineering (**TKDE**), 2024.<br>
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024 (2609/9473=27.5%).<br>
-[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q)
+[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q) [[slides]](https://shuaili8.github.io/Talks/20241207%20Fudan%20-%20MDP%20is%20a%20special%20case%20of%20CMAB.pdf) 
 
 - **[ICML '24]** [**Quantum Algorithm for Online Exp-concave Optimization**](https://arxiv.org/abs/2410.19688)<br>
 Jianhao He, Chengchang Liu, **Xutong Liu**, Lvzhou Li, John C.S. Lui.<br>
