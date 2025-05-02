@@ -55,7 +55,7 @@ Accepted by the ACM International Conference on Measurement and Modeling of Comp
 - **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
-[[arXiv]](https://arxiv.org/abs/2410.17075)
+[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 2024
 ------
