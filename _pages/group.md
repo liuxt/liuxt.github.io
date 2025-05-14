@@ -10,6 +10,7 @@ We live in an era defined by **intelligence** and **connectivity**. Artificial i
 
 Just as well-designed power grids ensure electricity reaches every corner of the world with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in **AI computing and communication systems**. By doing so, I hope AI can be produced and delivered in a way that is **accessible, adaptable, and reliable** across diverse environments and use cases.
 
+---
 ## Student Recruitment
 I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **multi-agent reinforcement learning, combinatorial online learning, cost-effective LLM, and AI for networks**. 
 
@@ -19,6 +20,7 @@ Most of our previous/current collaborations would turn into publications in **to
 
 If you're interested in joining us, please contact me with your CV.
 
+---
 ## Student Mentoring Experience (highlights of student first-authored works)
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
