@@ -18,7 +18,7 @@ If you're interested in joining us, please contact me with your CV.
 ------
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
 - **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present<br>
-- **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **ICML '25 in submission** <br>
+- **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **NeurIPS '25 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
 - **Fatemeh Ghaffari** (Ph.D. student in CICS at UMass Amherst), 2024-Present<br>
@@ -33,7 +33,8 @@ If you're interested in joining us, please contact me with your CV.
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **Network Science Journal** $\times 1$<br>
 
 ### Fudan University  (with Prof. Yuedong Xu), EE
+- **Zhaoying He** (master student in EE at FDU), 2024-Present
 - **Junkai Wang** (master student in EE at FDU), 2023-Present: **INFOCOM '25** $\times 1$
 
 ### University of Science and Technology of China  (with Prof. Hong Xie and Prof. Defu Lian), CS
-- **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **ICML '25 in submission**, **AAAI '24** $\times 1$
+- **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **NeurIPS '25 in submission**, **AAAI '24** $\times 1$
