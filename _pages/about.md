@@ -28,8 +28,8 @@ My research approach is around building **theoretical foundations** for online l
 
 **Online Learning/Reinforcement Learning (RL) Theory:** 
 
-* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21, Long Oral](https://arxiv.org/abs/2106.05065)]
-* **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25, Best Paper Finalists](https://arxiv.org/abs/2410.17075)], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
+* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065), **Long Oral**]
+* **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25](https://arxiv.org/abs/2410.17075), **Best Paper Finalists**], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 * Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25](https://arxiv.org/abs/2501.19300)], [[ICML '25]](https://arxiv.org/abs/2504.15812), [[ICML '24](https://arxiv.org/abs/2406.01386)]
 
