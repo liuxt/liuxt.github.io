@@ -8,12 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Xutong (James) Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
+Hi, my name is Xutong (James) Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). **I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025.** I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**) research group and recruit Ph.D. students in Fall 2026, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
+
+Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
-**I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025.** 
 
-I plan to build the **L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**) research group and recruit Ph.D. students in Fall 2026, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
+
 
 I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/). 
 
@@ -27,8 +28,8 @@ My research approach is around building **theoretical foundations** for online l
 
 **Online Learning/Reinforcement Learning (RL) Theory:** 
 
-* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065)]
-* **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25](https://arxiv.org/abs/2410.17075)], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
+* **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21, Long Oral](https://arxiv.org/abs/2106.05065)]
+* **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25, Best Paper Finalists](https://arxiv.org/abs/2410.17075)], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 * Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25](https://arxiv.org/abs/2501.19300)], [[ICML '25]](https://arxiv.org/abs/2504.15812), [[ICML '24](https://arxiv.org/abs/2406.01386)]
 
@@ -52,9 +53,10 @@ Selected Publications
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300)
 
-- **[SIGMETRICS '25]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[SIGMETRICS '25, Best Paper Finalists]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
+**Best Paper Finalists at SIGMETRICS 2025.**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
@@ -90,6 +92,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the five [Best Paper Finalists at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
 - **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
