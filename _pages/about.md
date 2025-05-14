@@ -20,10 +20,6 @@ I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmen
 
 My Research
 ======
-We live in an era defined by **intelligence** and **connectivity**. Artificial intelligence is the new "water" and "electricity". AI computing and communication systems, such as data centers, communication networks, and IoT systems, are like pipes and wires, enabling intelligence flow smoothly across different platforms, devices, and users.
-
-Just as well-designed power grids ensure electricity reaches every corner of the world with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in **AI computing and communication systems**. By doing so, I hope AI can be produced and delivered in a way that is **accessible, adaptable, and reliable** across diverse environments and use cases.
-
 My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. My recent focuses are:
 
 **Online Learning/Reinforcement Learning (RL) Theory:** 
