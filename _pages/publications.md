@@ -55,7 +55,7 @@ Accepted by the ACM International Conference on Measurement and Modeling of Comp
 - **[SIGMETRICS '25, Best Paper Finalists]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
-**Selected as one of the five Best Paper Finalists**.<br>
+**Selected as Best Paper Finalists (Top 5) at SIGMETRICS 2025**.<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 2024
