@@ -56,7 +56,7 @@ Accepted by the Forty-second International Conference on Machine Learning (**ICM
 - **[SIGMETRICS '25, Best Paper Finalists]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
-**Best Paper Finalists at SIGMETRICS 2025.**<br>
+**Best Paper Finalists (Top 5) at SIGMETRICS 2025.**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
