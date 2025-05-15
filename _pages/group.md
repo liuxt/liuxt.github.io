@@ -35,7 +35,7 @@ If you're interested in joining us, please contact me with your CV.
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
 - [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **NeurIPS '25 in submission** <br>
 - [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br>
-- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **NeurIPS '25 in submission**, **KDD '25 in submission**, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
+- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **NeurIPS '25 in submission**, **KDD '25** $\times 1$, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **NeurIPS '23** $\times 1$, **AAAI '23** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **Network Science Journal** $\times 1$<br>
 
