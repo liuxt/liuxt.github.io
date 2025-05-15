@@ -20,7 +20,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 My Research
 ======
-My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications**. My recent focuses are:
+My research approach is around building **theoretical foundations** for online learning and reinforcement learning (RL)-based decision-making, and more importantly, making sure they can be readily translated into **real-world applications** in complex networked systems. My recent focuses are:
 
 **Online Learning/Reinforcement Learning (RL) Theory:** 
 
