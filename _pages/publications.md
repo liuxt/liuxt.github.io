@@ -9,7 +9,7 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-- **[SIGKDD]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](xutongliu.me)<br>
+- **[SIGKDD '25]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](xutongliu.me)<br>
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui.<br>
 Accepted by the ACM KDD 2025. (365/1988=18.4%)
 
