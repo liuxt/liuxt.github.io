@@ -11,7 +11,7 @@ My CV (Feb, 2025) is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155
 Education
 ======
 * Ph.D in Computer Science, The Chinese University of Hong Kong (CUHK), 2022
-* B.Eng. in Computer Science, University of Science and Technology of China (USTC), 2017
+* B.S. in Computer Science, University of Science and Technology of China (USTC), 2017
 
 Working experience
 ======
@@ -33,6 +33,7 @@ Working experience
   
 Awards
 ======
+* Best Paper Finalists (Top 5), ACM SIGMETRICS - 2025
 * RGC Postdoctoral Fellowship (50 recipients worldwide) - 2023-2026
 * Award of Excellence in Stars of Tomorrow Internship Program, Microsoft Research Asia - 2019
 * Outstanding reviewer (Top 10%) at ICML 2022
