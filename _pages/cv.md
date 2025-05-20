@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV (Feb, 2025) is [here](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfxLXtesGr1IhynWjukg_2kBqrB-CucEdF43WB-Jpo-r3A?e=bKzpQb).
+My CV (May, 2025) is [here](https://1drv.ms/b/s!AhFAyOjGb1VxcM9yVY6_4WIrnh8?e=dygRmZ).
 
 Education
 ======
