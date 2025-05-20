@@ -12,7 +12,7 @@ Just as well-designed power grids ensure electricity reaches every corner of the
 
 ---
 ## Student Recruitment
-I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **multi-agent reinforcement learning, combinatorial online learning, cost-effective LLM, and AI for networks**. 
+I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025. I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **multi-agent reinforcement learning, combinatorial online learning, cost-effective LLM, and AI for networks**. 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. I can recommend outstanding students for exchange visits to top schools or internships/jobs at top company research institutes.
 
