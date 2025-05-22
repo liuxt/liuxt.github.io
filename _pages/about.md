@@ -20,7 +20,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 My Research
 ======
-My research focuses on building **structure-aware online learning and reinforcement learning (RL)** algorithms that exploits the underlying **action and agent structures** in networked systems (such as smoothness, sparsity, clustering) to make optimal decisions. I place a special emphasis on theory-grounded **data-efficiency, scalability, and robustness** guarantees of these algorithms, while also ensuring they can be readily applicable to **real-world decision-making in complex network environments**. My recent focuses are: 
+My research focuses on building **structure-aware online learning and reinforcement learning (RL)** algorithms that exploit the underlying **action, feedback, and agent structures** in networked systems (such as smoothness, sparsity, clustering) to make optimal decisions. I place a special emphasis on theory-grounded **data-efficiency, scalability, and robustness** guarantees of these algorithms, while also ensuring they can be readily applicable to **real-world decision-making in complex network environments**. My recent focuses are: 
 
 **Structure-aware Online Learning/Reinforcement Learning (RL) Theory:** 
 
