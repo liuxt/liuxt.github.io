@@ -22,7 +22,7 @@ My Research
 ======
 My research focuses on building theoretical foundations for **structure-aware online learning and reinforcement learning (RL)** that leverage the underlying **action, reward, and agent structures** in networked systems. I place a special emphasis on ensuring **data efficiency, generalizability, scalability, and robustness**, while also making these methods **applicable to real-world decision-making in complex network environments**. My recent focuses are: 
 
-**Data-efficient Online Learning/Reinforcement Learning (RL) Theory:** 
+**Structure-aware Online Learning/Reinforcement Learning (RL) Theory:** 
 
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065), **Long Oral**]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25](https://arxiv.org/abs/2410.17075), **Best Paper Finalists**], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
