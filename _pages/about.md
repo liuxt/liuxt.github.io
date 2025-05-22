@@ -20,14 +20,15 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 My Research
 ======
-My research focuses on building theoretical foundations for **structure-aware online learning and reinforcement learning (RL)** that leverage the underlying **action, reward, and agent structures** in networked systems. I place a special emphasis on ensuring **data efficiency, generalizability, scalability, and robustness**, while also making these methods **applicable to real-world decision-making in complex network environments**. My recent focuses are: 
+My research focuses on building theoretical foundations for **structure-aware online learning and reinforcement learning (RL)** that exploits the underlying **action, reward, and agent structures** in networked systems to make optimal decisions. I place a special emphasis on ensuring **data efficiency, scalability, and robustness**, while also making these methods **applicable to real-world decision-making in complex network environments**. My recent focuses are: 
 
 **Structure-aware Online Learning/Reinforcement Learning (RL) Theory:** 
 
+* Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25a](https://arxiv.org/abs/2501.19300)], [[ICML '25b]](https://arxiv.org/abs/2504.15812), [[ICML '24](https://arxiv.org/abs/2406.01386)]
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065), **Long Oral**]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25](https://arxiv.org/abs/2410.17075), **Best Paper Finalists**], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
-* Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25](https://arxiv.org/abs/2501.19300)], [[ICML '25]](https://arxiv.org/abs/2504.15812), [[ICML '24](https://arxiv.org/abs/2406.01386)]
+
 
 **Real-world Decision-making for Network Applications:**
 
