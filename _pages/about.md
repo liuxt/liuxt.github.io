@@ -20,9 +20,9 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 
 My Research
 ======
-My research focuses on building **structure-aware online learning and reinforcement learning (RL)** algorithms that exploit the underlying **action, feedback, and agent structures** in networked systems (such as smoothness, sparsity, clustering) to make optimal decisions. I place a special emphasis on theory-grounded **data-efficiency, scalability, and robustness** guarantees of these algorithms, while also ensuring they can be readily applicable to **real-world decision-making in complex network environments**. My recent focuses are: 
+My research focuses on building **structure-aware online learning and reinforcement learning (RL)** algorithms that exploit the underlying **action, feedback, and agent structures** in networked systems (such as smoothness, sparsity, clustering) for optimal decision-making. I place a special emphasis on theory-grounded **data-efficiency, scalability, and robustness** guarantees of these algorithms, while also ensuring they can be readily applicable to **real-world decision-making problems in complex network environments**. My recent focuses are: 
 
-**Structure-aware Online Learning/Reinforcement Learning (RL) Theory:** 
+**Structure-aware Online Learning/Reinforcement Learning (RL):** 
 
 * Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25a](https://arxiv.org/abs/2501.19300)], [[ICML '25b]](https://arxiv.org/abs/2504.15812), [[ICML '24](https://arxiv.org/abs/2406.01386)]
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065), **Long Oral**]
@@ -30,17 +30,17 @@ My research focuses on building **structure-aware online learning and reinforcem
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 
 
-**Real-world Decision-making for Network Applications:**
+**Decision-making for Network Applications:**
 
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
-* **Conversational Recommendation Systems** and Social Networks:<br>  [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
+* **Conversational Recommendation Systems** and Social Network Marketing:<br>  [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
 * **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br>  [[ArXiv '24](https://arxiv.org/abs/2405.16587)]
 
 Collaborations
 =======
 For my research, I am fortunate to collaborate with many outstanding researchers, including [Dr. Wei Chen](https://www.microsoft.com/en-us/research/people/weic/) (IEEE/ACM Fellow, Chair of [MSR Asia Theory Center](https://www.microsoft.com/en-us/research/group/msr-asia-theory-center/)), [Dr. Siwei Wang](https://www.microsoft.com/en-us/research/people/siweiwang/) from Microsoft Research, [Prof. Jinhang Zuo](https://jhzuo.github.io/) from City University of Hong Kong, [Prof. Shuai Li](https://shuaili8.github.io/) from Shanghai Jiao Tong University, [Prof. Enhong Chen](http://staff.ustc.edu.cn/~cheneh/) (IEEE Fellow), [Prof. Defu Lian](https://faculty.ustc.edu.cn/liandefu), [Prof. Hong Xie](https://hongxie.github.io/) from University of Science and Technology of China, Prof. [Don Towsley](https://www.cics.umass.edu/faculty/directory/towsley_donald) (IEEE/ACM Fellow), [Dr. Xuchuang Wang](https://xuchuangw.com/) from the University of Massachusetts Amherst. 
 
-I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!
+**I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!**
 
 Selected Publications
 ======
