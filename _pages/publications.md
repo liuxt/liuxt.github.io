@@ -9,9 +9,15 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-- **[SIGKDD '25]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](xutongliu.me)<br>
+- **[Preprint]** [**Offline Clustering of Linear Bandits: Unlocking the Power of Clusters in Data-Limited Environments**](https://arxiv.org/abs/2505.19043)<br>
+Jingyuan Liu, Zeyu Zhang, Xuchuang Wang, **Xutong Liu**, John C.S. Lui, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
+[[arXiv]](https://arxiv.org/abs/2505.19043)
+
+- **[SIGKDD '25]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui.<br>
-Accepted by the ACM KDD 2025. (365/1988=18.4%)
+Accepted by the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2025. (365/1988=18.4%).<br>
+[[arXiv]](https://arxiv.org/pdf/2505.22254) [[code]](https://zenodo.org/records/15533209)
+
 
 - **[ICML '25]** [**Fusing Reward and Dueling Feedback in Stochastic Bandits**](https://arxiv.org/abs/2504.15812)<br>
 Xuchuang Wang, Qirun Zeng, Jinhang Zuo, **Xutong Liu#**, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman<br>
