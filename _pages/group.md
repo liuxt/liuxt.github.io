@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The LEAD Research Group"
+title: "The LEADING Research Lab"
 permalink: /group/
 author_profile: true
 ---
