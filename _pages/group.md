@@ -5,14 +5,14 @@ permalink: /group/
 author_profile: true
 ---
 
-## Research Goal
+## Research Vision of our LEADING Research Lab
 We live in an era defined by **intelligence** and **connectivity**. Artificial intelligence is the new "water" and "electricity". AI computing and communication systems, such as data centers, communication networks, and IoT systems, are like pipes and wires, enabling intelligence flow smoothly across different platforms, devices, and users.
 
-Just as well-designed power grids ensure electricity reaches every corner of the world with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to enhance the decision-making process in **AI computing and communication systems**. By doing so, I hope AI can be produced and delivered in a way that is **accessible, adaptable, and reliable** across diverse environments and use cases.
+Just as well-designed power grids ensure electricity reaches every corner of the world with efficiency and reliability, I strive to develop **scalable and robust machine learning algorithms** to make optimal decisions in **AI computing and communication systems**. By doing so, I hope AI can be produced and delivered in a way that is **accessible, adaptable, and reliable** across diverse environments and use cases.
 
 ---
 ## Student Recruitment
-I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025. I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEAD** (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making) research group, focusing on theory and/or application frontiers of **multi-agent reinforcement learning, combinatorial online learning, cost-effective LLM, and AI for networks**. 
+I will be joining the University of Washington (Tacoma campus, ~30 miles from the Seattle campus) as a Tenure-Track Assistant Professor in Fall 2025. I plan to recruit **self-motivated PhD students (in 2026 fall), graduate researchers, and undergraduate interns (both in-person and remote)** to build our **LEADING** research group (**L**earning, **E**valuation, and **A**dvanced **D**ecision-making for **I**ntelligent **N**etworks **G**roup), focusing on theory and/or application frontiers of **multi-agent reinforcement learning, combinatorial online learning, cost-effective LLM, and AI for networks**. 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. I can recommend outstanding students for exchange visits to top schools or internships/jobs at top company research institutes.
 
