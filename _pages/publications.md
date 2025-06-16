@@ -27,7 +27,7 @@ Accepted by the Forty-second International Conference on Machine Learning (**ICM
 - **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
 **Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%) <br>
-[[arXiv]](https://arxiv.org/abs/2501.19300)
+[[arXiv]](https://arxiv.org/abs/2501.19300) [[slide]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS)
 
 - **[ACM JCSS]** [**Dynamic Incentive Allocation for City-scale Deep Decarbonization**](https://arxiv.org/abs/2502.08877)<br>
 Anupama Sitaraman, Adam Lechowicz, Noman Bashir, **Xutong Liu**, Mohammad Hajiesmaili, and Prashant Shenoy.<br>
@@ -66,7 +66,7 @@ Accepted by the ACM International Conference on Measurement and Modeling of Comp
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
 **Selected as Best Paper Finalists (Top 5) at SIGMETRICS 2025**.<br>
-[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
+[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slide]](https://mycuhk-my.sharepoint.com/:p:/g/personal/1155098137_link_cuhk_edu_hk/EeIY73D-0P1AtiT1ufuCG0AB8ht1f9o10DtAJyFQy1Atqw?e=sWnZgK)
 
 2024
 ------
