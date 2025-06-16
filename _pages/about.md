@@ -48,18 +48,18 @@ Selected Publications
 - **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
 **Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2501.19300)
+[[arXiv]](https://arxiv.org/abs/2501.19300) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS)
 
 - **[SIGMETRICS '25, Best Paper Finalists]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 **Best Paper Finalists (Top 5) at SIGMETRICS 2025.**<br>
-[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit)
+[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slides]](https://mycuhk-my.sharepoint.com/:p:/g/personal/1155098137_link_cuhk_edu_hk/EeIY73D-0P1AtiT1ufuCG0AB8ht1f9o10DtAJyFQy1Atqw?e=sWnZgK)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 Forty-first International Conference on Machine Learning (**ICML**), 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q) [[Slides]](https://shuaili8.github.io/Talks/20241207%20Fudan%20-%20MDP%20is%20a%20special%20case%20of%20CMAB.pdf) (By **Prof. Shuai Li**)
+[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q) [[slides]](https://shuaili8.github.io/Talks/20241207%20Fudan%20-%20MDP%20is%20a%20special%20case%20of%20CMAB.pdf) (By **Prof. Shuai Li**)
 
 - **[NeurIPS '22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
@@ -89,6 +89,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **June. 2025**: Invited as a TPC member for **ACM SIGMETRICS** 2026! 
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the five [Best Paper Finalists at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
