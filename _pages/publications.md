@@ -40,22 +40,25 @@ Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Moh
 
 - **[ICLR '25]** [**Stochastic Bandits Robust to Adversarial Attacks**](https://arxiv.org/abs/2408.08859) <br>
 Xuchuang Wang, Maoli Liu, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui, and Mohammad Hajiesmaili.<br>
-Accepted by the 13th International Conference on Learning Representations (**ICLR**), 2025.<br>
+The 13th International Conference on Learning Representations (**ICLR**), 2025.<br>
 [[arXiv]](https://arxiv.org/abs/2408.08859)
 
-- **[INFOCOM '25]** [**Learning Best Paths in Quantum Networks**](https://xutongliu.me/publications/)<br>
+- **[INFOCOM '25]** [**Learning Best Paths in Quantum Networks**](https://www.arxiv.org/abs/2506.12462)<br>
 Xuchuang Wang, Maoli Liu#, **Xutong Liu#**,  Zhuohua Li,  Mohammad Hajiesmaili, John C.S. Lui,  Don Towsley.<br>
-Accepted by IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
+IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
+[[PDF]](https://www.arxiv.org/abs/2506.12462)
 
 
 - **[INFOCOM '25]** [**Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems**](https://xutongliu.me/publications/)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#.<br>
-Accepted by IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
+IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
+[[PDF]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfEClCyXstNItG6KrRRJ3zIB2kVDLgDL26v3_lrVRnOezg?e=LdFN34)
 
 - **[TON]** [**Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
 Arms**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
-Accepted by IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
+IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
+[[PDF]](https://research.ece.cmu.edu/lions/Papers/Variance_ToN.pdf)
 
 - **[SIGMETRICS '25]** [**Asynchronous Multi-Agent Bandits: Fully Distributed vs. Leader-Coordinated Algorithms**](https://xutongliu.me/publications/)<br>
 Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, and John C.S. Lui.<br>
