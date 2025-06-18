@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Xutong (James) Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). **I will be joining the University of Washington (Tacoma) as a Tenure-Track Assistant Professor in Fall 2025.** At UW, I plan to build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making for **I**ntelligent **N**etworks **G**roup (**LEADING**)](https://xutongliu.me/group/)  and recruit Ph.D. students in Fall 2026, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
+Hi, my name is Xutong (James) Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). **I will be joining the University of Washington (Tacoma) as a Tenure-Track Assistant Professor in Fall 2025.** At UW, I plan to build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and recruit Ph.D. students in Fall 2026, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
 
 Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
@@ -54,7 +54,7 @@ Accepted by the Forty-second International Conference on Machine Learning (**ICM
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 **Best Paper Finalists (Top 5) at SIGMETRICS 2025.**<br>
-[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slides]](https://mycuhk-my.sharepoint.com/:p:/g/personal/1155098137_link_cuhk_edu_hk/EeIY73D-0P1AtiT1ufuCG0AB8ht1f9o10DtAJyFQy1Atqw?e=sWnZgK)
+[[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
@@ -89,7 +89,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **June. 2025**: Invited as a TPC member for **ACM SIGMETRICS** 2026! 
+- **June. 2025**: I am invited as a TPC for **ACM SIGMETRICS** 2026! 
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the five [Best Paper Finalists at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
