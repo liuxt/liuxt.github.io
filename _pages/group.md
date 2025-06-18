@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "The LEADING Research Lab"
+title: "The LEAD Research Lab"
 permalink: /group/
 author_profile: true
 ---
@@ -24,7 +24,7 @@ If you're interested in joining us, please contact me with your CV.
 ## Student Mentoring Experience (highlights of student first-authored works)
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present<br>
+- **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present: **EMNLP '25 in submission** <br>
 - **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **NeurIPS '25 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
