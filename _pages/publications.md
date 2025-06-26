@@ -18,13 +18,13 @@ Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmai
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
 
 
-- **[SIGMETRICS '25, 🏆<font color="red">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[<font color="red">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
 **Selected as Best Paper Finalists (Top 5) at SIGMETRICS 2025**.<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slide]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
-- **<font color="blue">[SIGKDD </font> '25]</font>** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
+- **<font color="blue">[SIGKDD '25]</font>** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui.<br>
 Accepted by the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2025. (365/1988=18.4%).<br>
 [[arXiv]](https://arxiv.org/pdf/2505.22254) [[code]](https://zenodo.org/records/15533209)
@@ -122,7 +122,7 @@ The Thirty-seventh Conference on Neural Information Processing Systems (**NeurIP
 [[arXiv]](https://arxiv.org/abs/2310.02717)
 
 
-- **<font color="blue">[UAI '23]</font** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
+- **<font color="blue">[UAI '23]</font>** [**Exploration for Free: How Does Reward Heterogeneity Improve Regret in Cooperative Multi-agent Bandits?**](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf) <br>
 Xuchuang Wang, Lin Yang, Yu-zhen Janice Chen, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, John C.S. Lui. <br>
 The 39th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2023. <br>
 
@@ -186,7 +186,7 @@ DOI: https://doi.org/10.1109/TMC.2022.3173792
 
 2021 and before
 ------
-- **[ICML '21, 🎤️<font color="red">Long Oral</font>]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
+- **[<font color="blue">ICML '21</font>, 🎤️<font color="red">Long Oral</font>]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
 The 38th International Conference on Machine Learning (**ICML**), **<font color="red">Long Oral</font>**, 2021. (166/5513=3%).<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdwTW-6sVO5HoWYDrbrS8m4BPahbSqgrr7DPLYlVCTpGdQ?e=x24PYU) 
@@ -194,7 +194,7 @@ The 38th International Conference on Machine Learning (**ICML**), **<font color=
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
 [[video]](https://icml.cc/virtual/2021/session/12068#sl-video-8750)
 
-- **[NSJ] Learning to Count: a Deep Learning Framework for Graphlet Count Estimation** <br> 
+- **<font color="blue">[NSJ]</font> Learning to Count: a Deep Learning Framework for Graphlet Count Estimation** <br> 
 **Xutong Liu**, Yu-Zhen Chen, John C.S. Lui., Konstantin Avrachenkov.<br>
 **Network Science Journal**.<br>
 DOI: https://doi.org/10.1017/nws.2020.35.
@@ -205,7 +205,7 @@ Kechao Cai, **Xutong Liu**, Yuzhen Janice Chen, and John C.S. Lui. <br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2018. <be>
 
 
-- **[CNA '18] Graphlet Count Estimation via Convolutional Neural Networks** <br>
+- **<font color="blue">[CNA '18]</font> Graphlet Count Estimation via Convolutional Neural Networks** <br>
 **Xutong Liu**, Yu-Zhen Chen, John C.S. Lui, Konstantin Avrachenkov.<br>
 **COMPLEX NETWORKS**, 2018. <br>
 [[PDF]](https://hal.inria.fr/hal-01936850/file/camera-ready.pdf)
