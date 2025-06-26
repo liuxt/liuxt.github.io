@@ -91,7 +91,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **June. 2025**: <font color="red">I am invited as a TPC for **ACM SIGMETRICS** 2026!</font> 
+- **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026!</font>** 
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the five [Best Paper Finalists at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
