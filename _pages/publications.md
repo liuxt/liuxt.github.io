@@ -13,13 +13,13 @@ author_profile: true
 Jingyuan Liu, Zeyu Zhang, Xuchuang Wang, **Xutong Liu**, John C.S. Lui, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
 [[arXiv]](https://arxiv.org/abs/2505.19043)
 
-- **[SIGKDD '25]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
+- **[<font color="blue"> SIGKDD </font> '25]** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui.<br>
 Accepted by the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2025. (365/1988=18.4%).<br>
 [[arXiv]](https://arxiv.org/pdf/2505.22254) [[code]](https://zenodo.org/records/15533209)
 
 
-- **[ICML '25]** [**Fusing Reward and Dueling Feedback in Stochastic Bandits**](https://arxiv.org/abs/2504.15812)<br>
+- **[<font color="blue"> ICML </font> '25]** [**Fusing Reward and Dueling Feedback in Stochastic Bandits**](https://arxiv.org/abs/2504.15812)<br>
 Xuchuang Wang, Qirun Zeng, Jinhang Zuo, **Xutong Liu#**, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman<br>
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/abs/2504.15812)
@@ -65,7 +65,7 @@ Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmai
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
 
 
-- **[SIGMETRICS '25, 🏆<font color="blue">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[SIGMETRICS '25, 🏆<font color="red">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
 **Selected as Best Paper Finalists (Top 5) at SIGMETRICS 2025**.<br>
@@ -186,7 +186,7 @@ DOI: https://doi.org/10.1109/TMC.2022.3173792
 ------
 - **[ICML '21, 🎤️Long Oral]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
-The 38th International Conference on Machine Learning (**ICML**), **Long Oral**, 2021. (166/5513=3%).<br>
+The 38th International Conference on Machine Learning (**ICML**), **<font color="red">Long Oral</font>**, 2021. (166/5513=3%).<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdwTW-6sVO5HoWYDrbrS8m4BPahbSqgrr7DPLYlVCTpGdQ?e=x24PYU) 
 [[arXiv]](https://arxiv.org/abs/2106.05065)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
