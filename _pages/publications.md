@@ -9,19 +9,23 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint]** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
+**Xutong Liu**, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
+[[arXiv]](https://arxiv.org/abs/2508.07675)
+
 - **[Preprint]** [**Offline Clustering of Linear Bandits: Unlocking the Power of Clusters in Data-Limited Environments**](https://arxiv.org/abs/2505.19043)<br>
 Jingyuan Liu, Zeyu Zhang, Xuchuang Wang, **Xutong Liu**, John C.S. Lui, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
 [[arXiv]](https://arxiv.org/abs/2505.19043)
 
-- **<font color="blue">[SIGMETRICS '25]</font>** [**Asynchronous Multi-Agent Bandits: Fully Distributed vs. Leader-Coordinated Algorithms**](https://xutongliu.me/publications/)<br>
+- **<font color="blue">[SIGMETRICS '25]</font>** [**Asynchronous Multi-Agent Bandits: Fully Distributed vs. Leader-Coordinated Algorithms**](https://dl.acm.org/doi/10.1145/3711696)<br>
 Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmaili, Don Towsley, and John C.S. Lui.<br>
-Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
+ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (35/223 = 15.7%).<br>
 
 
-- **[<font color="red">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[<font color="red">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted by the ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
-**Selected as Best Paper Finalists (Top 5) at SIGMETRICS 2025**.<br>
+ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (5/223 = 2.3%).<br>
+**Selected as Best Paper Runner-Up at SIGMETRICS 2025**.<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slide]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
 - **<font color="blue">[SIGKDD '25]</font>** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
@@ -32,12 +36,12 @@ Accepted by the ACM SIGKDD International Conference on Knowledge Discovery and D
 
 - **<font color="blue">[ICML '25]</font>** [**Fusing Reward and Dueling Feedback in Stochastic Bandits**](https://arxiv.org/abs/2504.15812)<br>
 Xuchuang Wang, Qirun Zeng, Jinhang Zuo, **Xutong Liu#**, Mohammad Hajiesmaili, John C.S. Lui, Adam Wierman<br>
-Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
+Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%).<br>
 [[arXiv]](https://arxiv.org/abs/2504.15812)
 
 - **<font color="blue">[ICML '25]</font>** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
 **Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
-Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%) <br>
+Forty-second International Conference on Machine Learning (**ICML**), 2025. (3260/12107=26.3%) <br>
 [[arXiv]](https://arxiv.org/abs/2501.19300) [[slide]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS)
 
 - **<font color="blue">[ACM JCSS]</font>** [**Dynamic Incentive Allocation for City-scale Deep Decarbonization**](https://arxiv.org/abs/2502.08877)<br>
@@ -60,13 +64,13 @@ IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (2
 [[PDF]](https://www.arxiv.org/abs/2506.12462)
 
 
-- **<font color="blue">[INFOCOM '25]</font>** [**Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems**](https://xutongliu.me/publications/)<br>
+- **<font color="blue">[INFOCOM '25]</font>** [**Robust Contextual Combinatorial Multi-Armed Bandits for Unreliable Network Systems**](https://ieeexplore.ieee.org/document/11044618)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#.<br>
 IEEE International Conference on Computer Communications (**INFOCOM**), 2025. (272/1458=18.7%).<br>
 [[PDF]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EfEClCyXstNItG6KrRRJ3zIB2kVDLgDL26v3_lrVRnOezg?e=LdFN34)
 
 - **<font color="blue">[TON]</font>** [**Variance-Aware Bandit Framework for Dynamic Probabilistic Maximum Coverage Problem with Triggered or Self-Reliant
-Arms**](https://xutongliu.me/publications/)<br>
+Arms**](https://research.ece.cmu.edu/lions/Papers/Variance_ToN.pdf)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Hong Xie, Carlee Joe-Wong, John C.S. Lui. <br>
 IEEE/ACM Transactions on Networking (**TON**), 2024.<br>
 [[PDF]](https://research.ece.cmu.edu/lions/Papers/Variance_ToN.pdf)
