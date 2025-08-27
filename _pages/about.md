@@ -8,11 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Xutong (James) Liu. I am now a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). <font color="blue">I will be joining the University of Washington in Fall 2025 as a Tenure-Track Assistant Professor of Computer Science & Systems at Tacoma School of Engineering & Technology</font>. 
+Hi, my name is Xutong (James) Liu. I am now a Tenure-Track Assistant Professor at the University of Washington, affiliated with the Department of Computer Science & Systems at the Tacoma School of Engineering & Technology. 
+At UW, I am building the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruiting Ph.D. students in Fall 2026</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
 
-At UW, I plan to build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruit Ph.D. students in Fall 2026</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
-
-Previously, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
+Previously, I was a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at the University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
 
 
@@ -36,7 +35,7 @@ My research focuses on building **structure-aware online learning and reinforcem
 
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
 * **Conversational Recommendation Systems** and Social Network Marketing:<br>  [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
-* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br>  [[ArXiv '24](https://arxiv.org/abs/2405.16587)]
+* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br>  [[arXiv '24](https://arxiv.org/abs/2405.16587), [arXiv '25](https://arxiv.org/abs/2508.07675)]
 
 <!---Collaborations
 =======
@@ -52,7 +51,7 @@ Selected Publications
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS)
 
-- **[SIGMETRICS '25, 🏆<font color="red">Best Paper Finalists</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[SIGMETRICS '25, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 The ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 **Best Paper Finalists (Top 5) at SIGMETRICS 2025.**<br>
@@ -91,8 +90,8 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026!</font>** 
-- **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the five [Best Paper Finalists at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
+- **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!</font>** 
+- **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the [Best Paper Runner-Up at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
 - **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
