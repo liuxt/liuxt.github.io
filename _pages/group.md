@@ -21,10 +21,12 @@ Most of our previous/current collaborations would turn into publications in **to
 If you're interested in joining us, please contact me with your CV.
 
 ---
-## Student Mentoring Experience (highlights of student first-authored works)
+## Student Mentoring Experience (with highlights of student first-authored works)
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present: **EMNLP '25 in submission** <br>
+- **Baran Atalar** (Ph.D. student in ECE at CMU), 2025-Present<br>
+- **Haoran Zhang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present <br>
+- **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present  <br>
 - **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **NeurIPS '25 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
@@ -33,9 +35,8 @@ If you're interested in joining us, please contact me with your CV.
 
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
-- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **NeurIPS '25 in submission** <br>
-- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br>
-- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **NeurIPS '25 in submission**, **KDD '25** $\times 1$, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
+- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **INFOCOM '25 in submission** <br>
+- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **INFOCOM '25 in submission**, **KDD '25** $\times 1$, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **NeurIPS '23** $\times 1$, **AAAI '23** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **Network Science Journal** $\times 1$<br>
 
