@@ -9,6 +9,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://xutongliu.me/publications)<br>
+Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
+The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (5290/21575=24.5%).<br>
+
 - **[Preprint]** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
 **Xutong Liu**, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
 [[arXiv]](https://arxiv.org/abs/2508.07675)
