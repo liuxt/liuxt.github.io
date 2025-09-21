@@ -90,6 +90,8 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
+- **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
 - **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!</font>** 
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the [Best Paper Runner-Up at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
