@@ -5,9 +5,24 @@ permalink: /publications/
 author_profile: true
 ---
 
-2025
+
+2026
 ------
 (#corresponding author, \*equal contribution)<be>
+
+- **[Preprint]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
+Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
+[[arXiv]](https://arxiv.org/abs/2509.19781)
+
+
+- **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
+Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
+Accepted by ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2026 (23/111 = 20.7%).<br>
+[[PDF]](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)
+
+
+2025
+------
 
 - **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://xutongliu.me/publications)<br>
 Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
@@ -53,9 +68,7 @@ Anupama Sitaraman, Adam Lechowicz, Noman Bashir, **Xutong Liu**, Mohammad Hajies
 ACM Journal on Computing and Sustainable Societies (JCSS), 2025. <br>
 [[arXiv]](https://arxiv.org/abs/2502.08877)
 
-- **[Preprint]** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
-Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
-[[PDF]](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)
+
 
 - **<font color="blue">[ICLR '25]</font>** [**Stochastic Bandits Robust to Adversarial Attacks**](https://arxiv.org/abs/2408.08859) <br>
 Xuchuang Wang, Maoli Liu, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui, and Mohammad Hajiesmaili.<br>
