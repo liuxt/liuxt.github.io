@@ -35,7 +35,7 @@ My research focuses on building **structure-aware online learning and reinforcem
 
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
 * **Conversational Recommendation Systems** and Social Network Marketing:<br>  [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
-* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br>  [[arXiv '24](https://arxiv.org/abs/2405.16587), [arXiv '25](https://arxiv.org/abs/2508.07675)]
+* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br>  [[arXiv '24](https://arxiv.org/abs/2405.16587), [arXiv '25](https://arxiv.org/abs/2508.07675), [arXiv '25](https://arxiv.org/abs/2509.19781)]
 
 <!---Collaborations
 =======
