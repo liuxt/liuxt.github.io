@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, my name is Xutong (James) Liu. I am now a Tenure-Track Assistant Professor at the University of Washington, affiliated with the Department of Computer Science & Systems at the Tacoma School of Engineering & Technology. 
+Hi, my name is Xutong (James) Liu. I am now a Tenure-Track Assistant Professor at the [University of Washington](https://directory.tacoma.uw.edu/employee/xutongl), affiliated with the Department of Computer Science & Systems at the Tacoma School of Engineering & Technology. 
 At UW, I am building the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruiting Ph.D. students in Fall 2026</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
 
 Previously, I was a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at Carnegie Mellon University, advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at the University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
