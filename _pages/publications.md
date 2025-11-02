@@ -10,9 +10,19 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
+Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui.<br>
+[[arXiv]](https://arxiv.org/abs/2510.12266)
+
+
+
 - **[Preprint]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
 Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/abs/2509.19781)
+
+- **[Preprint]** [**Offline Clustering of Preference Learning with Active-data Augmentation**](https://arxiv.org/abs/2510.26301)<br>
+Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
+[[arXiv]](https://arxiv.org/abs/2510.26301)
 
 
 - **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
@@ -24,9 +34,10 @@ Accepted by ACM International Conference on Measurement and Modeling of Computer
 2025
 ------
 
-- **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://xutongliu.me/publications)<br>
+- **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://openreview.net/forum?id=kThBNZTMaw)<br>
 Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
 The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (5290/21575=24.5%).<br>
+[[Openreview]](https://openreview.net/forum?id=kThBNZTMaw)
 
 - **[Preprint]** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
 **Xutong Liu**, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
