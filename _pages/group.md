@@ -24,19 +24,20 @@ If you're interested in joining us, please contact me with your CV.
 ## Student Mentoring Experience (with highlights of student first-authored works)
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present<br>
-- **Haoran Zhang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present <br>
-- **Hanqing Yang** (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present  <br>
-- **Jingyuan Liu** (visiting undergraduate student from NJU), 2024-Present: **ICLR '26 in submission** <br>
+- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **INFOCOM '26 in submission**<br>
+- [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present: **AISTATS '26 in submission** <br>
+- [Hanqing Yang](https://happyeureka.github.io/) (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present: **ICLR '26 in submission**  <br>
+- [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU), 2024-Present: **ICLR '26, Sigmetrics '26 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
-- **Fatemeh Ghaffari** (Ph.D. student in CICS at UMass Amherst), 2024-Present: **WWW '26 in submission** <br>
+- [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **WWW '26 in submission** <br>
 - [Anupama Sitaraman](https://anupama-sitaraman.github.io/publications/) (undergraduate student at UMass $\rightarrow$  Ph.D. student in CS at CMU), 2023-2024: **JCSS** '25 $\times 1$<br>
 
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
+- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br>
 - [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **ICLR '26, INFOCOM '25 in submission** <br>
-- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **INFOCOM '25 in submission**, **KDD '25** $\times 1$, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
+- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **INFOCOM '26 in submission**, **KDD '25** $\times 1$, **IEEE/ACM TON** $\times 1$, **ACM MM** '24 $\times 1$<br>
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **NeurIPS '23** $\times 1$, **AAAI '23** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **Network Science Journal** $\times 1$<br>
 
