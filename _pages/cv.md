@@ -15,7 +15,11 @@ Education
 
 Working experience
 ======
-* Sept 2024 - Now: Postdoctoral Researcher
+
+* Sept 2025 - Present: Assistant Professor in CS
+  * University of Washington - Tacoma
+    
+* Sept 2024 - Sept 2025: Postdoctoral Researcher
   * Carnegie Mellon University
   * Advisor: Prof. Carlee Joe-Wong
 
@@ -33,7 +37,7 @@ Working experience
   
 Awards
 ======
-* Best Paper Finalists (Top 5), ACM SIGMETRICS - 2025
+* Best Paper Runner-Up, ACM SIGMETRICS - 2025
 * RGC Postdoctoral Fellowship (50 recipients worldwide) - 2023-2026
 * Award of Excellence in Stars of Tomorrow Internship Program, Microsoft Research Asia - 2019
 * Outstanding reviewer (Top 10%) at ICML 2022
