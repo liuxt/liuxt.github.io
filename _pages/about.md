@@ -22,15 +22,15 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 My Research
 ======
 
-My research focuses on developing **structure-aware online learning and reinforcement learning (RL)** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making** in networked systems with fused offline and online data.
+My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making** for networked AI systems.
 
-I aim to bridge theory and real-world applications across **LLM systems**, **edge/cloud computing**, and **conversational recommender systems**, guided by three core questions:
+I aim to bridge theory and real-world applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **edge/cloud optimization**, and **robust multi-agent learning systems**, guided by three core questions:
 
-1. **Data Efficiency:** How much offline and/or online data is needed to achieve near-optimal policies?
-2. **Scalability:** How can we design algorithms that scale efficiently across large action spaces and multiple agents?
-3. **Robustness:** How can learning remain stable and adaptive in dynamic, uncertain, and heterogeneous environments?
+1. **Data Efficiency:** How much offline and/or online data is needed to identify near-optimal policies?
+2. **Scalability:** How can we design algorithms that scale efficiently across high-dimensional action spaces and multiple agents?
+3. **Robustness:** How can learning remain stable and adaptive in dynamic, uncertain, and heterogeneous learning environments?
 
-My recent work focuses on building:
+My recent projects focus on building:
 
 
 🚀 **<font color="red">Structure-aware Online Learning/Reinforcement Learning (RL)</font>**: 
