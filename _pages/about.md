@@ -33,7 +33,7 @@ I aim to bridge theory and real-world applications for **cost-effective LLM serv
 My recent projects focus on building:
 
 
-🚀 **<font color="red">Structure-aware Online Learning/Reinforcement Learning (RL)</font>**: 
+🚀 **<font color="blue">Structure-aware Online Learning/Reinforcement Learning (RL)</font>**: 
 
 * **Hybrid Reinforcement Learning** with Fused Offline-Online and Relative-Absolute Data:<br> [[NeurIPS '25]](https://openreview.net/forum?id=kThBNZTMaw), [[ICML '25b]](https://arxiv.org/abs/2504.15812), [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[arXiv '25]](https://arxiv.org/abs/2510.26301)
 
@@ -43,7 +43,7 @@ My recent projects focus on building:
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 
 
-🛜 **<font color="red">Decision-making for Networked AI Systems</font>**:
+🛜 **<font color="blue">Decision-making for Networked AI Systems</font>**:
 
 * **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '25b]](https://arxiv.org/abs/2508.07675), [[arXiv '25c]](https://arxiv.org/abs/2509.19781), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
