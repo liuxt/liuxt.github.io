@@ -10,10 +10,14 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
+Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
+Accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
+[[arXiv]](https://arxiv.org/abs/2506.17670)
+
 - **[Preprint]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
 Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/abs/2510.12266)
-
 
 
 - **[Preprint]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
@@ -24,10 +28,6 @@ Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
 Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
 [[arXiv]](https://arxiv.org/abs/2510.26301)
 
-- **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
-Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
-Accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
-[[arXiv]](https://arxiv.org/abs/2506.17670)
 
 - **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
 Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
