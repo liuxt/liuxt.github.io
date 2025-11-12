@@ -24,7 +24,7 @@ My Research
 
 My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making** for networked AI systems.
 
-I aim to bridge theory and real-world applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **edge/cloud optimization**, and **robust multi-agent learning systems**, guided by three core questions:
+I aim to bridge theory and real-world applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **mobile/edge/cloud co-optimization (VR/AR immersive computing, content delivery networks)**, and **robust multi-agent learning systems (federated learning systems, conversational recommender systems)**, guided by three core questions:
 
 1. **Data Efficiency:** How much offline and/or online data is needed to identify near-optimal policies?
 2. **Scalability:** How can we design algorithms that scale efficiently across high-dimensional action spaces and multiple agents?
