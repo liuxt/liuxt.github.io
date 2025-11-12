@@ -43,7 +43,7 @@ My recent projects focus on building:
 * **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 
 
-🛜 **<font color="red">Decision-making for Network Applications</font>**:
+🛜 **<font color="red">Decision-making for Networked AI Systems</font>**:
 
 * **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '25b]](https://arxiv.org/abs/2508.07675), [[arXiv '25c]](https://arxiv.org/abs/2509.19781), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
@@ -57,6 +57,11 @@ For my research, I am fortunate to collaborate with many outstanding researchers
 
 Selected Recent Publications
 ======
+
+- **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
+Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
+Accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2506.17670)
 
 - **[Preprint]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
 Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui.<br>
