@@ -68,7 +68,7 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui
 [[arXiv]](https://arxiv.org/abs/2510.12266)
 
 
-- **[INFOCOM ' 26]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
+- **<font color="blue">[INFOCOM ' 26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
 Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
 Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026. <br>
 [[arXiv]](https://arxiv.org/abs/2509.19781)
@@ -83,18 +83,19 @@ The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
 [[arXiv]](https://arxiv.org/abs/2501.19300) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS) -->
 
-- **[SIGMETRICS '25, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[<font color="blue">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 The ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 **Best Paper Runner-Up at SIGMETRICS 2025.**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
-<!-- - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
+<!-- 
+- **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 The 41st International Conference on Machine Learning (**ICML**), 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q) [[slides]](https://shuaili8.github.io/Talks/20241207%20Fudan%20-%20MDP%20is%20a%20special%20case%20of%20CMAB.pdf) (By **Prof. Shuai Li**)-->
+[[arXiv]](https://arxiv.org/abs/2406.01386) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdrOuEVOm8tJuhSSqBoPpYsBbrfI2MPgBhLq94sK5TNu2Q) [[slides]](https://shuaili8.github.io/Talks/20241207%20Fudan%20-%20MDP%20is%20a%20special%20case%20of%20CMAB.pdf) (By **Prof. Shuai Li**)
 
-- **[NeurIPS '22]** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
+- **<font color="blue">[NeurIPS '22]</font>** [**Batch-Size Independent Regret Bounds for Combinatorial Semi-Bandits with Probabilistically Triggered Arms or Independent Arms**](https://openreview.net/forum?id=6hzH8pohyPY&referrer=%5Bthe%20profile%20of%20Xutong%20Liu%5D(%2Fprofile%3Fid%3D~Xutong_Liu1))<br>
 **Xutong Liu**, Jinhang Zuo, Siwei Wang, Carlee Joe-Wong, John C.S. Lui, Wei Chen.<br>
 The 36th Conference on Neural Information Processing Systems (**NeurIPS**), 2022.<br>
 [[arXiv]](https://arxiv.org/abs/2208.14837) 
@@ -102,7 +103,7 @@ The 36th Conference on Neural Information Processing Systems (**NeurIPS**), 2022
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Ean0PkfNnwNDg23cGZNLoRkBWF5kXd0zThviP_QsJQStIQ?e=bdMohQ)
 [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EQxJVhpK0b5HhL7myGALkFQBfatSRtDhZJ7qfoAVsnrs3w?e=SjAuDS)
 
-- **[UAI '22]** [**Federated Online Clustering of Bandits**](https://openreview.net/forum?id=rKUgiU8iqeq)<br>
+- **<font color="blue">[UAI '22]</font>** [**Federated Online Clustering of Bandits**](https://openreview.net/forum?id=rKUgiU8iqeq)<br>
 **Xutong Liu**, Haoru Zhao, Tong Yu, Shuai Li, John C.S. Lui.<br>
 The 38th Conference on Uncertainty in Artificial Intelligence (**UAI**), 2022.<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EauadOh7FsZAoE_tutVVmJEBio97Me5QChl-SmYUnGeLWw?e=7eKVyI)
@@ -119,6 +120,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 [[arXiv]](https://arxiv.org/abs/2106.05065)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
 [[video]](https://icml.cc/virtual/2021/session/12068#sl-video-8750)
+-->
 
 News
 ======
