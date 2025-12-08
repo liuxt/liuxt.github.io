@@ -45,7 +45,7 @@ My recent projects focus on building:
 
 🛜 **<font color="blue">Decision-making for Networked AI Systems</font>**:
 
-* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '25b]](https://arxiv.org/abs/2508.07675), [[arXiv '25c]](https://arxiv.org/abs/2509.19781), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
+* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[INFOCOM '26]](https://arxiv.org/abs/2508.07675), [[INFOCOM '26]](https://arxiv.org/abs/2509.19781), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
 * **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
 * **Conversational Recommendation Systems** and Social Network Marketing:<br>  [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
 
@@ -68,13 +68,10 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui
 [[arXiv]](https://arxiv.org/abs/2510.12266)
 
 
-- **[Preprint]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
+- **[INFOCOM ' 26]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
 Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
+Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026. <br>
 [[arXiv]](https://arxiv.org/abs/2509.19781)
-
-- **[Preprint]** [**Offline Clustering of Preference Learning with Active-data Augmentation**](https://arxiv.org/abs/2510.26301)<br>
-Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
-[[arXiv]](https://arxiv.org/abs/2510.26301)
 
 - **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://openreview.net/forum?id=kThBNZTMaw)<br>
 Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
@@ -125,6 +122,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combiantorial bandits have been accepted by **INFOCOM** 2026. 
 - **Nov. 2025**: I am invited as a publicity chair for the 32nd International European Conference on Parallel and Distributed Computing (Euro-Par).
 - **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
 - **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
