@@ -10,6 +10,22 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+
+- **[INFOCOM '26]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
+Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
+Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2509.19781)
+
+- **[INFOCOM '26]** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
+**Xutong Liu***, Baran Atalar\*, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
+Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2508.07675)
+
+- **[INFOCOM '26]** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
+Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
+Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2405.16587)
+
 - **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
 Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
 Accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
@@ -20,9 +36,6 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui
 [[arXiv]](https://arxiv.org/abs/2510.12266)
 
 
-- **[Preprint]** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
-Ziyi Han, **Xutong Liu**, Ruiting Zhou, Xiangxiang Dai, John C.S. Lui.<br>
-[[arXiv]](https://arxiv.org/abs/2509.19781)
 
 - **[Preprint]** [**Offline Clustering of Preference Learning with Active-data Augmentation**](https://arxiv.org/abs/2510.26301)<br>
 Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
@@ -43,9 +56,6 @@ Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
 The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (5290/21575=24.5%).<br>
 [[Openreview]](https://openreview.net/forum?id=kThBNZTMaw)
 
-- **[Preprint]** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
-**Xutong Liu**, Baran Atalar, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
-[[arXiv]](https://arxiv.org/abs/2508.07675)
 
 - **[Preprint]** [**Offline Clustering of Linear Bandits: Unlocking the Power of Clusters in Data-Limited Environments**](https://arxiv.org/abs/2505.19043)<br>
 Jingyuan Liu, Zeyu Zhang, Xuchuang Wang, **Xutong Liu**, John C.S. Lui, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
