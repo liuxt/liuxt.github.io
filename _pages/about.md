@@ -125,19 +125,14 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 News
 ======
 - **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combiantorial bandits have been accepted by **INFOCOM** 2026. 
-- **Nov. 2025**: I am invited as a publicity chair for the 32nd International European Conference on Parallel and Distributed Computing (Euro-Par).
+- **Nov. 2025**: I am invited as a publicity chair for the 32nd International European Conference on Parallel and Distributed Computing (**Euro-Par** 2026).
 - **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
 - **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
 - **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!</font>** 
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the [Best Paper Runner-Up at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
-- **Dec. 2024**: Our works on (1) robust combinatorial contextual bandits and (2) online learning algorithms to learn the best quantum path have been accepted by **INFOCOM** 2025. 
-- **Oct. 2024**: Our work on combinatorial bandits with logistic function approximation has been accepted by **ACM SIGMETRICS** 2025.
 - **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
-- **May. 2024**: Our works on (1) combinatorial bandits view to solve episodic RL and (2) quantum algorithm for online exp-concave optimization are accepted by **ICML** 2024.
 - **Oct. 2023**: I am visiting the University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
-- **Sept. 2023**: Our work on online clustering of bandits with misspecified user model is accepted by **NeurIPS** 2023.
-- **April. 2023**: Our work on contextual combinatorial bandits with probabilistically triggered arms is accepted by **ICML** 2023.
 - **April. 2023**: I was awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
 
 
