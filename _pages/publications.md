@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://xutongliu.me/publications/)<br>
+**Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
+Aceecpted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+
 
 - **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
 Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
