@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi, my name is Xutong (James) Liu. I am now a Tenure-Track Assistant Professor at the [University of Washington](https://directory.tacoma.uw.edu/employee/xutongl), affiliated with the Department of Computer Science & Systems at the Tacoma School of Engineering & Technology. 
-At UW, I build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruiting Ph.D. students, master students, and undergraduate interns in Fall 2026</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
+At UW, I build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruiting Ph.D. students, master students, and undergraduate interns</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
 
 Previously, I was a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at [Carnegie Mellon University](https://www.ece.cmu.edu/), advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at the University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
@@ -124,7 +124,8 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combiantorial bandits have been accepted by **INFOCOM** 2026. 
+- **Jan. 2026**: I am invited as a TPC for Mobihoc 2026.
+- **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combinatorial bandits have been accepted by **INFOCOM** 2026. 
 - **Nov. 2025**: I am invited as a publicity chair for the 32nd International European Conference on Parallel and Distributed Computing (**Euro-Par** 2026).
 - **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
 - **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
