@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[<font color="blue">AIJ '26</font>]** [**Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning**](https://xutongliu.me/publications/)<br>
+Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
+Aceecpted by Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
+
 - **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://xutongliu.me/publications/)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
 Aceecpted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
