@@ -31,14 +31,14 @@ If you're interested in joining us, please contact me with one-page research sta
 - [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU), 2024-Present: **ICML '26, KDD '26 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
-- [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **KDD '26 in submission** <br>
+- [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **KDD '26, ICML '26 in submission** <br>
 - [Anupama Sitaraman](https://anupama-sitaraman.github.io/publications/) (undergraduate student at UMass $\rightarrow$  Ph.D. student in CS at CMU), 2023-2024: **<font color="blue">JCSS '25</font>** $\times 1$<br>
 
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
 - [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **ICML '26 in submission**
 - [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **ICML '26 in submission**, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
-- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE/ACM TON</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
+- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">AIJ '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE ToN</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **<font color="blue">NeurIPS '23</font>** $\times 1$, **<font color="blue">AAAI '23</font>** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **<font color="blue">Network Science Journal</font>** $\times 1$<br>
 
@@ -52,7 +52,7 @@ If you're interested in joining us, please contact me with one-page research sta
 
 ### Fudan University  (with Prof. Yuedong Xu), EE
 - **Zhaoying He** (master student in EE at FDU), 2024-Present
-- **Junkai Wang** (master student in EE at FDU), 2023-Present: **ToN major revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
+- **Junkai Wang** (master student in EE at FDU), 2023-Present: **IEEE ToN major revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
 
 ### University of Science and Technology of China  (with Prof. Hong Xie and Prof. Defu Lian), CS
 - **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **<font color="blue">AAAI '24</font>** $\times 1$
