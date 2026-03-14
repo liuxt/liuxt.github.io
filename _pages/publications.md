@@ -14,9 +14,9 @@ author_profile: true
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
 Aceecpted by Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
 
-- **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://xutongliu.me/publications/)<br>
+- **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://ieeexplore.ieee.org/abstract/document/11391544)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Aceecpted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 
 
 - **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
@@ -61,7 +61,7 @@ Accepted by ACM International Conference on Measurement and Modeling of Computer
 
 - **<font color="blue">[NeurIPS '25]</font>** [**Learning Across the Gap: Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data**](https://openreview.net/forum?id=kThBNZTMaw)<br>
 Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
-The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (5290/21575=24.5%).<br>
+The Thirty-ninth Conference on Neural Information Processing Systems (**NeurIPS**), 2025. (5290/21575=24.5%).<br>
 [[Openreview]](https://openreview.net/forum?id=kThBNZTMaw)
 
 
