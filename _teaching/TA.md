@@ -1,12 +1,13 @@
 ---
-title: "Teaching Assistant at CUHK"
+title: "Assistant Professor at UW"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/TA
-venue: "The Chinese University of Hong Kong, CSE Department"
-date: 2017-09-01 - 2019-09-01
-location: "Hong Kong SAR, China"
+type: "Undergraduate/Graduate course"
+permalink: /teaching/Instructor
+venue: "CSS Department"
+date: 2025-09-01 - now
+location: "Tacoma, Washington"
 ---
 
-- CSCI-2040 Introduction to Python.
-- CSCI-3320 Foundamentals of Machine Learning.
+- TCSS 142 Programming Principles
+- TCSS 435 Artificial Intelligence and Knowledge Acquisition
+- TCSS 590 Theory and Algorithms of Reinforcement Learning
