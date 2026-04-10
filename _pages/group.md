@@ -18,10 +18,18 @@ Students will have opportunities to collaborate with leading researchers from **
 
 Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). 
 
-If you're interested in joining us, please contact me with one-page research statement and your CV.
+If you're interested in joining us, please contact me with a one-page research statement and your CV.
 
 ---
 ## Student Mentoring Experience (with highlights of student first-authored works)
+
+### University of Washington, CSS
+- **Junkai Wang** (undergraduate & master student in EE at FDU $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present: **IEEE ToN minor revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
+- **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
+- **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
+- **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
+ 
+
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
 - [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
@@ -52,7 +60,6 @@ If you're interested in joining us, please contact me with one-page research sta
 
 ### Fudan University  (with Prof. Yuedong Xu), EE
 - **Zhaoying He** (master student in EE at FDU), 2024-Present
-- **Junkai Wang** (master student in EE at FDU), 2023-Present: **IEEE ToN major revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
 
 ### University of Science and Technology of China  (with Prof. Hong Xie and Prof. Defu Lian), CS
 - **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **<font color="blue">AAAI '24</font>** $\times 1$
