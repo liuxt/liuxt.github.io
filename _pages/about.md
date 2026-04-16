@@ -124,9 +124,11 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **Jan. 2026**: I am invited as a TPC for Mobihoc 2026.
+- **April 2026**: My undergraduate intern Jingyuan Liu from NJU is admitted to the **IEOR program @ UC Berkeley**. Congrats!
+- **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027.
+- **Jan. 2026**: I am invited as a TPC for ACM Mobihoc 2026.
 - **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combinatorial bandits have been accepted by **INFOCOM** 2026. 
-- **Nov. 2025**: I am invited as a publicity chair for the 32nd International European Conference on Parallel and Distributed Computing (**Euro-Par** 2026).
+- **Nov. 2025**: I am invited as a web chair for the 32nd International European Conference on Parallel and Distributed Computing (**Euro-Par** 2026).
 - **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
 - **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
 - **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!</font>** 
