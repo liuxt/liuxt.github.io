@@ -28,6 +28,7 @@ If you're interested in joining us, please contact me with a one-page research s
 - **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
 - **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
+- **Adil Nadeem** (Master Student in CSS at UW), 2026-Present
  
 
 
@@ -35,8 +36,7 @@ If you're interested in joining us, please contact me with a one-page research s
 - [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
 - [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
 - [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present <br>
-- [Hanqing Yang](https://happyeureka.github.io/) (master student at CMU $\rightarrow$ Ph.D. student in ECE at CMU), 2024-Present  <br>
-- [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU), 2024-Present: **ICML '26, KDD '26 in submission** <br>
+- [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $rightarrow$ Ph.D. program in IEOR at UC Berkeley), 2024-Present: **ICML '26, KDD '26 in submission** <br>
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
 - [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **KDD '26, ICML '26 in submission** <br>
