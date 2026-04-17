@@ -16,7 +16,7 @@ I am a Tenure-Track Assistant Professor at the University of Washington (Tacoma 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. I can recommend outstanding students for exchange visits to top schools or internships/jobs at top companies or research institutes.
 
-Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). 
+Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). Some top undergraduate/graduate interns have been admitted to PhD programs in **UC Berkeley, CMU, UMass Amherst, UT Austin.** 
 
 If you're interested in joining us, please contact me with a one-page research statement and your CV.
 
@@ -24,7 +24,7 @@ If you're interested in joining us, please contact me with a one-page research s
 ## Student Mentoring Experience (with highlights of student first-authored works)
 
 ### University of Washington, CSS
-- **Junkai Wang** (undergraduate & master student in EE at FDU $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present: **IEEE ToN minor revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
+- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present: **IEEE ToN minor revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
 - **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
 - **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
