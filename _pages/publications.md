@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint '26]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
+Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
+[[PDF]](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)
+
 - **[<font color="blue">AIJ '26</font>]** [**Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
 Aceecpted by Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
