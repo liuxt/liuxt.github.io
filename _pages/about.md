@@ -122,7 +122,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **April 2026**: My incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from IEEE Transactions on Networking (TON). Congratulations, Junkai!
+- **April 2026**: My incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from **IEEE Transactions on Networking** (TON). Congratulations, Junkai!
 - **April 2026**: My undergraduate intern Jingyuan Liu from Nanjing University is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
 - **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027 and ACM Mobihoc 2026.
 - **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combinatorial bandits have been accepted by **INFOCOM** 2026. 
