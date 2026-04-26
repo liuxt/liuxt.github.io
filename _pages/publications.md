@@ -10,9 +10,18 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://xutongliu.me/publications/)<br>
+Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
+Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+
+- **[TMC]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://xutongliu.me/publications/)<br>
+  Xiangxiang Dai, Zeyu Zhang, Ziyi Han, **Xutong Liu**, Peng Yang, John C.S. Lui.<br>
+  Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
+
 - **[Preprint '26]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
 Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
 [[PDF]](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)
+[[arXiv]](https://arxiv.org/abs/2604.20021)
 
 - **[<font color="blue">AIJ '26</font>]** [**Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
