@@ -24,19 +24,21 @@ If you're interested in joining us, please contact me with a one-page research s
 ## Student Mentoring Experience (with highlights of student first-authored works)
 
 ### University of Washington, CSS
-- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present: **IEEE ToN minor revision**, **<font color="blue">INFOCOM '25</font>** $\times 1$
+- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present: **IEEE ToN '26** $\times 1$, **<font color="blue">INFOCOM '25</font>** $\times 1$
 - **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
 - **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
 - **Adil Nadeem** (Master Student in CSS at UW), 2026-Present
+- **Neelim Mahbub** (Undergraduate in CSS at UW), 2026-Present
  
 
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
-- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
-- [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present <br>
 - [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $\rightarrow$  Ph.D. program in IEOR at UC Berkeley), 2024-Present: **ICML '26, KDD '26 in submission** <br>
+- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
+- [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
+- [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present <br>
+- **Hanqing Yang** (Ph.D. student in ECE at CMU), 2025-2026
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
 - [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **KDD '26, ICML '26 in submission** <br>
@@ -44,9 +46,9 @@ If you're interested in joining us, please contact me with a one-page research s
 
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
-- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **ICML '26 in submission**
+- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">TMC '26</font>** $\times 1$, **<font color="blue">AIJ '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE ToN</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
 - [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **ICML '26 in submission**, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
-- [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">AIJ '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE ToN</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
+- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **ICML '26 in submission**
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **<font color="blue">NeurIPS '23</font>** $\times 1$, **<font color="blue">AAAI '23</font>** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **<font color="blue">Network Science Journal</font>** $\times 1$<br>
 
