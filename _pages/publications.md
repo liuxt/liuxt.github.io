@@ -14,7 +14,7 @@ author_profile: true
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
 Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 
-- **[TMC]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://xutongliu.me/publications/)<br>
+- **[<font color="blue">TMC '26</font>]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://xutongliu.me/publications/)<br>
   Xiangxiang Dai, Zeyu Zhang, Ziyi Han, **Xutong Liu**, Peng Yang, John C.S. Lui.<br>
   Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
 
