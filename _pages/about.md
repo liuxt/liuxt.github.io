@@ -11,20 +11,19 @@ redirect_from:
 Hi, my name is Xutong (James) Liu. I am now a Tenure-Track Assistant Professor at the [University of Washington](https://directory.tacoma.uw.edu/employee/xutongl), affiliated with the Department of Computer Science & Systems at the Tacoma School of Engineering & Technology. 
 At UW, I build the [**L**earning, **E**valuation, and **A**dvanced **D**ecision-making (**LEAD**)](https://xutongliu.me/group/) research lab and **<font color="red">actively recruiting Ph.D. students, master students, and undergraduate interns</font>**, check [group information](https://xutongliu.me/group/) for details if you are interested in joining us.
 
-Previously, I was a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at [Carnegie Mellon University](https://www.ece.cmu.edu/), advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at the University of Massachusetts Amherst, advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
+Previously, I was a postdoctoral researcher in [LIONS research group](https://research.ece.cmu.edu/lions/) at [Carnegie Mellon University](https://www.ece.cmu.edu/), fortunately advised by [Prof. Carlee Joe-Wong](https://www.andrew.cmu.edu/user/cjoewong/). Before that, I was a visiting postdoc in [SOLAR Lab](https://solar.cs.umass.edu/people.html) at the University of Massachusetts Amherst, fortunately advised by Prof. [Mohammad Hajiesmaili](https://groups.cs.umass.edu/hajiesmaili/), and a postdoctoral fellow in [ANSR Lab](http://ansrlab.cse.cuhk.edu.hk/) at the Chinese University of Hong Kong (CUHK), advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/) (IEEE/ACM Fellow). 
 I received my Ph.D. degree from the Computer Science and Engineering Department at CUHK in 2022, proudly advised by [Prof. John C.S. Lui](http://www.cse.cuhk.edu.hk/~cslui/). Prior to that, I received my bachelor’s degree with an honored rank (top 5%) from the University of Science and Technology of China (USTC) in 2017. 
-
 
 
 
 <!---I am also very excited to co-organize the 3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications at ACM SIGMETRICS 2025, taking place in June at Stony Brook University, New York, USA. We warmly welcome posters/talks if you're interested. For more details, please visit the [official workshop website](https://learning-augmented-algorithms.github.io/).  -->
 
-My Research
+Research
 ======
 
-My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making** for networked AI systems.
+My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making**.
 
-I aim to bridge theory and real-world applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **mobile/edge/cloud co-optimization (VR/AR immersive computing, CDNs)**, and **robust multi-agent learning systems (federated learning systems)**, guided by three core questions:
+I aim to bridge theory and practical applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **mobile/edge/cloud co-optimization (VR/AR immersive computing, CDNs)**, and **robust multi-agent learning systems (federated learning systems)**, guided by three core questions:
 
 1. **Data Efficiency:** How much offline and/or online data is needed to identify near-optimal policies?
 2. **Scalability:** How can we design algorithms that scale efficiently across high-dimensional action spaces and multiple agents?
@@ -32,21 +31,20 @@ I aim to bridge theory and real-world applications for **cost-effective LLM serv
 
 My recent projects focus on building:
 
+🚀 **<font color="blue">Structure-aware Online/Reinforcement Learning (RL)</font>**: 
 
-🚀 **<font color="blue">Structure-aware Online Learning/Reinforcement Learning (RL)</font>**: 
-
-* **Hybrid Reinforcement Learning** with Fused Offline-Online and Relative-Absolute Data:<br> [[NeurIPS '25]](https://openreview.net/forum?id=kThBNZTMaw), [[ICML '25b]](https://arxiv.org/abs/2504.15812), [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[arXiv '25]](https://arxiv.org/abs/2510.26301)
+* **Hybrid Reinforcement Learning** with Fused Offline-Online Data:<br> [[NeurIPS '25]](https://openreview.net/forum?id=kThBNZTMaw), [[ICML '25b]](https://arxiv.org/abs/2504.15812), [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[arXiv '25]](https://arxiv.org/abs/2510.26301)
 
 * Reinforcement Learning with **Large Action Spaces**:<br> [[ICML '25a](https://arxiv.org/abs/2501.19300)], [[ICML '24](https://arxiv.org/abs/2406.01386)]
 * **Scalable** Combinatorial Decision-making under Uncertainty:<br> [[NeurIPS '22](https://arxiv.org/abs/2208.14837)], [[ICML '21](https://arxiv.org/abs/2106.05065), 🎤️**<font color="red">Long Oral</font>**]
 * **Generalizable** Combinatorial Online Learning with Function Approximation:<br>  [[SIGMETRICS '25](https://arxiv.org/abs/2410.17075), 🏆**<font color="red">Best Paper Runner-Up</font>**], [[INFOCOM '24](https://ieeexplore.ieee.org/document/10621257)], [[ICML '23](https://arxiv.org/abs/2303.17110)]
-* **Robust** Multi-agent Online Learning in Heterogeneous and Unreliable Environments:<br> [[ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
+* **Robust** Multi-agent Reinforcement Learning in Heterogeneous and Unreliable Environments:<br> [[IEEE TON '26], [ICLR '25](https://arxiv.org/abs/2408.08859)], [[SIGMETRICS '25](https://xutongliu.me/publications/)], [[INFOCOM '25](https://xutongliu.me/publications/)], [[AAAI '24](https://arxiv.org/abs/2402.16312)], [[NeurIPS '23](https://arxiv.org/abs/2310.02717)], [[UAI '23](https://proceedings.mlr.press/v216/wang23a/wang23a.pdf)], [[AISTATS '23](https://proceedings.mlr.press/v206/chen23c/chen23c.pdf)], [[ICLR '23](https://openreview.net/forum?id=QTXKTXJKIh)], [[UAI '23](https://arxiv.org/abs/2208.14865)]
 
 
-🛜 **<font color="blue">Decision-making for Networked AI Systems</font>**:
+🛜 **<font color="blue">Learning and Optimization for Networked AI Systems</font>**:
 
-* **Cost-effective Large Language Model (LLM) Training/Serving Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[INFOCOM '26]](https://arxiv.org/abs/2508.07675), [[INFOCOM '26]](https://arxiv.org/abs/2509.19781), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
-* **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
+* **Cost-effective Large Language Model (LLM) Caching/Routing/Adaptation Systems**:<br> [[AAAI '26]](https://arxiv.org/abs/2506.17670), [[INFOCOM '26]](https://arxiv.org/abs/2508.07675), [[INFOCOM '26]](https://arxiv.org/abs/2509.19781), [[arXiv '25a]](https://arxiv.org/abs/2510.12266), [[arXiv '24]](https://arxiv.org/abs/2405.16587)
+* **Edge/Cloud Computing**, Multimedia Networking, and IoT Systems:<br>  [[IEEE TMC' 26], [IEEE/ACM TON](https://xutongliu.me/publications/)], [[ACM MM '24](https://arxiv.org/abs/2407.20124)], [[INFOCOM '23](https://research.ece.cmu.edu/lions/Papers/PMC_INFOCOM.pdf)], [[INFOCOM '18](http://appsrv.cse.cuhk.edu.hk/~liuxt/lmg-infocom-18.pdf)], [[IEEE TMC](https://doi.org/10.1109/TMC.2022.3173792)]
 * **Conversational Recommendation Systems** and Social Network Marketing:<br>  [[KDD '25]](https://arxiv.org/pdf/2505.22254), [[AAAI '23](https://arxiv.org/abs/2303.00315)], [[AISTATS '22](https://proceedings.mlr.press/v151/zuo22a.html)], [[IEEE TKDE](https://ieeexplore.ieee.org/document/10586787)]
 
 <!---Collaborations
@@ -55,7 +53,8 @@ For my research, I am fortunate to collaborate with many outstanding researchers
 
 **<font color="red">I am always open to new research collaborations with both industry and academia. Please contact me if you are interested!</font>**-->
 
-Selected Recent Publications
+
+<!--Selected Recent Publications
 ======
 
 - **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
@@ -78,10 +77,10 @@ Qijia He, Minghan Wang, **Xutong Liu**, Zhiyong Wang, Fang Kong.<br>
 The Thirty-nineth Conference on Neural Information Processing Systems (**NeurIPS**), 2025.<br> 
 [[Openreview]](https://openreview.net/forum?id=kThBNZTMaw)
 
-<!-- - **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
+ - **[ICML '25]** [**Offline Learning for Combinatorial Multi-armed Bandits**](https://arxiv.org/abs/2501.19300)<br>
 **Xutong Liu**, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, Xuchuang Wang, Carlee Joe-Wong, John C.S. Lui, and Wei Chen.<br>
 Accepted by the Forty-second International Conference on Machine Learning (**ICML**), 2024.<br>
-[[arXiv]](https://arxiv.org/abs/2501.19300) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS) -->
+[[arXiv]](https://arxiv.org/abs/2501.19300) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EZh0jVc2gi5NukWm7JQFl5QBjszqifYXhkzNQnXjaZb4lg?e=uxQuPS)
 
 - **[<font color="blue">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
@@ -89,7 +88,7 @@ The ACM International Conference on Measurement and Modeling of Computer Systems
 **Best Paper Runner-Up at SIGMETRICS 2025.**<br>
 [[arXiv]](https://arxiv.org/abs/2410.17075) [[code]](https://github.com/xiangxdai/Combinatorial-Logistic-Bandit) [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ER42N3lmARJJtS6LHJP1lpQBgaXQHx_Zoa3BNO93WygQFw?e=DP0bjD)
 
-<!-- 
+
 - **[ICML '24]** [**Combinatorial Multivariant Multi-Armed Bandits with Applications to Episodic Reinforcement Learning and Beyond**](https://arxiv.org/abs/2406.01386)<br>
 **Xutong Liu**, Siwei Wang, Jinhang Zuo, Han Zhong, Xuchuang Wang, Zhiyong Wang, Shuai Li, Mohammad Hajiesmaili, John C.S. Lui, and Wei Chen.<br>
 The 41st International Conference on Machine Learning (**ICML**), 2024.<br>
@@ -120,11 +119,12 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 [[arXiv]](https://arxiv.org/abs/2106.05065)
 [[slides]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/ET5VkPfqnzNIv1gkK_N84BEBiwnM_yX_dE2tNzKCVkHMUg?e=2mNdjK) [[poster]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/Eai2eAbPtk9JpMWqK6CPDMgBIaUqn5933gxZ1wkSVtivIQ?e=tQQ3WI) 
 [[video]](https://icml.cc/virtual/2021/session/12068#sl-video-8750)
--->
+ -->
 
 News
 ======
-- **April 2026**: My undergraduate intern Jingyuan Liu from NJU is admitted to the **IEOR program @ UC Berkeley**. Congrats!
+- **April 2026**: My incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from IEEE/ACM Transactions on Networking (TON). Congratulations, Junkai!
+- **April 2026**: My undergraduate intern Jingyuan Liu from Nanjing University is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
 - **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027.
 - **Jan. 2026**: I am invited as a TPC for ACM Mobihoc 2026.
 - **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combinatorial bandits have been accepted by **INFOCOM** 2026. 
@@ -136,6 +136,6 @@ News
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
 - **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
 - **Oct. 2023**: I am visiting the University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
-- **April. 2023**: I was awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
+- **April. 2023**: I am awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
 
 
