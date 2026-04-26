@@ -21,8 +21,7 @@ I received my Ph.D. degree from the Computer Science and Engineering Department 
 Research
 ======
 
-My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent **action, feedback, and agent structures**—such as smoothness, sparsity, and clustering—to enable **data-efficient, scalable, and robust decision-making**.
-
+My research focuses on developing **structure-aware reinforcement learning (RL) and online learning** algorithms that leverage inherent action, feedback, and agent structures—such as smoothness, sparsity, and clustering—to enable data-efficient, scalable, and robust decision-making.
 I aim to bridge theory and practical applications for **cost-effective LLM serving (rounting/caching/domain adaptation)**, **mobile/edge/cloud co-optimization (VR/AR immersive computing, CDNs)**, and **robust multi-agent learning systems (federated learning systems)**, guided by three core questions:
 
 1. **Data Efficiency:** How much offline and/or online data is needed to identify near-optimal policies?
@@ -125,16 +124,14 @@ News
 ======
 - **April 2026**: My incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from IEEE/ACM Transactions on Networking (TON). Congratulations, Junkai!
 - **April 2026**: My undergraduate intern Jingyuan Liu from Nanjing University is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
-- **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027.
-- **Jan. 2026**: I am invited as a TPC for ACM Mobihoc 2026.
+- **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027 and ACM Mobihoc 2026.
 - **Dec. 2025**: Our works on LLM caching, MoE model merging, and constraint-aware combinatorial bandits have been accepted by **INFOCOM** 2026. 
 - **Nov. 2025**: I am invited as a web chair for the 32nd International European Conference on Parallel and Distributed Computing (**Euro-Par** 2026).
-- **Sept. 2025**: Our work on Hybrid Multi-armed Bandits with Heterogeneous Offline and Online Data is accepted by **NeurIPS** 2025.
-- **Sept. 2025**: I am joining the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
-- **June. 2025**: **<font color="red">I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!</font>** 
+- **Sept. 2025**: I join the University of Washington - Tacoma as a Tenure-Track Assistant Professor In CSS.
+- **June. 2025**: I am invited as a TPC for ACM SIGMETRICS 2026 and ACM e-Energy 2026!
 - **May. 2025**: Our paper “**Combinatorial Logistic Bandits**” has been selected as one of the [Best Paper Runner-Up at SIGMETRICS 2025](https://www.sigmetrics.org/sigmetrics2025/)!
 - **Dec. 2024**: We are excited to co-organize the **3rd Annual Workshop on Learning-Augmented Algorithms: Theory and Applications** at **ACM SIGMETRICS 2025**. The workshop will take place at Stony Brook University, New York, USA. For more details, visit the [official workshop website](https://learning-augmented-algorithms.github.io/).
-- **Sept. 2024**: I am joining **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
+- **Sept. 2024**: I join **Carnegie Mellon University** as a postdoctoral researcher advised by Prof. Carlee Joe-Wong.
 - **Oct. 2023**: I am visiting the University of Massachusetts Amherst as a visiting scholar advised by Prof. Mohammad Hajiesmaili.
 - **April. 2023**: I am awarded RGC Postdoctoral Fellowship (**one of 50 awardees globally**)!
 
