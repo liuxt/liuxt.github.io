@@ -10,14 +10,14 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
+Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
+[[arXiv]](https://arxiv.org/abs/2605.00638)<br>
+
 - **[<font color="blue">SIGKDD '26</font>]** [**Online Learning to Rank under Corruption: A Robust Cascading Bandits Approach**](https://arxiv.org/pdf/2511.03074)<br>
 Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
 Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
 [[arXiv]](https://arxiv.org/pdf/2511.03074)
-
-- **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
-Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
-[[arXiv]](https://arxiv.org/abs/2605.00638)<br>
 
 - **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://www.computer.org/csdl/journal/nw/5555/01/11513419/2gkdGlOVjkA)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
