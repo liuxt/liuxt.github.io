@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[Preprint '26]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/pdf/2603.15647)<br>
+Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
+[[arXiv]](https://arxiv.org/pdf/2603.15647)<br>
+
 - **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
 Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
 [[arXiv]](https://arxiv.org/abs/2605.00638)<br>
