@@ -10,13 +10,22 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-- **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://xutongliu.me/publications/)<br>
-Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
-Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+- **[<font color="blue">SIGKDD '26</font>]** [**Online Learning to Rank under Corruption: A Robust Cascading Bandits Approach**](https://arxiv.org/pdf/2511.03074)<br>
+Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
+Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
+[[arXiv]](https://arxiv.org/pdf/2511.03074)
 
-- **[<font color="blue">TMC '26</font>]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://xutongliu.me/publications/)<br>
+- **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
+Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
+[[arXiv]](https://arxiv.org/abs/2605.00638)<br>
+
+- **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://www.computer.org/csdl/journal/nw/5555/01/11513419/2gkdGlOVjkA)<br>
+Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
+IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+
+- **[<font color="blue">TMC '26</font>]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://www.computer.org/csdl/journal/tm/5555/01/11509286/2ggMvIMvqyk)<br>
   Xiangxiang Dai, Zeyu Zhang, Ziyi Han, **Xutong Liu**, Peng Yang, John C.S. Lui.<br>
-  Accepted by IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
+IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
 
 - **[Preprint '26]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
 Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
@@ -25,11 +34,11 @@ Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong
 
 - **[<font color="blue">AIJ '26</font>]** [**Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
-Aceecpted by Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
+Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
 
 - **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://ieeexplore.ieee.org/abstract/document/11391544)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
-Accepted by IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
+IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 
 
 - **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
@@ -95,7 +104,7 @@ ACM International Conference on Measurement and Modeling of Computer Systems (**
 
 - **<font color="blue">[SIGKDD '25]</font>** [**A Unified Online-Offline Framework for Co-Branding Campaign Recommendations**](https://arxiv.org/pdf/2505.22254)<br>
 Xiangxiang Dai, Xiaowei Sun, Jinhang Zuo, **Xutong Liu#**, John C.S. Lui.<br>
-Accepted by the ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2025. (365/1988=18.4%).<br>
+ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2025. (365/1988=18.4%).<br>
 [[arXiv]](https://arxiv.org/pdf/2505.22254) [[code]](https://zenodo.org/records/15533209)
 
 
