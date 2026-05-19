@@ -26,13 +26,14 @@ redirect_from:
 
 # Useful Skills
 [Paper templates and tricks](https://dango.rocks/blog/2017/02/08/my-paper-templates-and-tricks/) - Yishi Lin<br>
-[The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)<br>
+[The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People) - Stephen Covey
+<br>
 [The Art of Presentations](https://www.bilibili.com/video/BV1PM4y1P7N3?share_source=copy_web) - Baochun Li<br>
 [How to Write Perfect Papers](https://www.bilibili.com/video/BV18v411n7mr?share_source=copy_web) - Baochun Li<br>
 
 
 ## Thought-Provoking 
-[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)
+[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)<br>
 [Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)<br>
 [Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)<br>
 [Show Your Work!](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)<br>
@@ -42,21 +43,6 @@ redirect_from:
 [Paper-Reading Survival Kit](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)<br>
 [How to Study Math](http://www.cs.cmu.edu/~15751/2016-lecture1.pdf)<br>
 [General PhD Guidance](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)<br>
-
-
-# Blogs
-[I am a bandit](https://blogs.princeton.edu/imabandit/) - Sebastien Bubeck<br>
-[Bandit Algorithms](https://banditalgs.com/) - Tor Lattimore<br>
-[Convex Optimization](https://fa.bianp.net/)<br>
-[Interactive Convex Optimization](http://www.pokutta.com/blog/)<br>
-[OpenAI](https://openai.com/blog/)<br>
-[DeepMind](https://deepmind.com/blog/)<br>
-[BAIR](bair.berkeley.edu/blog/)<br>
-[Lil_RL](https://lilianweng.github.io/lil-log/)<br>
-[Theory of Computing Blog Aggregator](http://feedworld.net/toc/)<br>
-[Cool Shell](https://coolshell.cn/) - 陈皓<br>
-[morvanzhou](https://morvanzhou.github.io/about/)<br>
-
 
 
 # Books
@@ -109,7 +95,18 @@ redirect_from:
 [The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/022623973X)<br>
 
 
-
+# Blogs
+[I am a bandit](https://blogs.princeton.edu/imabandit/) - Sebastien Bubeck<br>
+[Bandit Algorithms](https://banditalgs.com/) - Tor Lattimore<br>
+[Convex Optimization](https://fa.bianp.net/)<br>
+[Interactive Convex Optimization](http://www.pokutta.com/blog/)<br>
+[OpenAI](https://openai.com/blog/)<br>
+[DeepMind](https://deepmind.com/blog/)<br>
+[BAIR](bair.berkeley.edu/blog/)<br>
+[Lil_RL](https://lilianweng.github.io/lil-log/)<br>
+[Theory of Computing Blog Aggregator](http://feedworld.net/toc/)<br>
+[Cool Shell](https://coolshell.cn/) - 陈皓<br>
+[morvanzhou](https://morvanzhou.github.io/about/)<br>
 
 
 # Tutorial
