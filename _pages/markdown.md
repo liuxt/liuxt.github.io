@@ -8,38 +8,40 @@ redirect_from:
 ---
 
 # Frontier
-[Reinforcement Learning: An Overview](https://sites.google.com/view/ocis/)<br>
+[Reinforcement Learning: An Overview](https://arxiv.org/abs/2412.05265)<br>
 [Theoretical Reinforcement Learning](https://sites.google.com/view/rltheoryseminars/home)<br>
+
+# Courses/Lectures
+[UW CSE 542: Reinforcement Learning](https://courses.cs.washington.edu/courses/cse542/24sp/)<br>
+[UW CSE 590A: Systems for ML](https://courses.cs.washington.edu/courses/csep590a/26sp/)<br>
+[Berkeley CS 185/285: Deep Reinforcement Learning](https://rail.eecs.berkeley.edu/deeprlcourse/)<br>
+[Stanford CS 146S: The Modern Software Developer](https://themodernsoftware.dev/)<br>
+[Berkeley CS 188: Artificial Intelligence](https://inst.eecs.berkeley.edu/~cs188/sp26/)<br>
+
+
+# Cheat sheets
+[Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)<br>
+[Math Inequalities](http://www.lkozma.net/inequalities_cheat_sheet/)<br>
+[Optimization Inequalities Cheatsheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)<br>
 
 # Useful Skills
 [Paper templates and tricks](https://dango.rocks/blog/2017/02/08/my-paper-templates-and-tricks/) - Yishi Lin<br>
-[Learning by Doing, advice](https://asc.calpoly.edu/ssl) - Cal Poly<br>
 [The 7 Habits of Highly Effective People](https://en.wikipedia.org/wiki/The_7_Habits_of_Highly_Effective_People)<br>
 [The Art of Presentations](https://www.bilibili.com/video/BV1PM4y1P7N3?share_source=copy_web) - Baochun Li<br>
 [How to Write Perfect Papers](https://www.bilibili.com/video/BV18v411n7mr?share_source=copy_web) - Baochun Li<br>
 
-# Cheat sheets
-[Matrix Cookbook](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwiEk46uuurVAhWFy7wKHerYBnAQFggmMAA&url=http%3A%2F%2Fwww.imm.dtu.dk%2Fpubdb%2Fviews%2Fedoc_download.php%2F3274%2Fpdf%2Fimm3274.pdf&usg=AFQjCNFJbycDGy_rsijRk8x9LE8C1v4Mpw)<br>
-[Math Inequalities](http://www.lkozma.net/inequalities_cheat_sheet/)<br>
-[Optimization Inequalities Cheatsheet](https://fa.bianp.net/blog/2017/optimization-inequalities-cheatsheet/)<br>
+
+## Thought-Provoking 
+[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)
+[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)<br>
+[Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)<br>
+[Show Your Work!](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)<br>
+
 
 # Advice
-[Instructions for Ph.D. Students](https://cse.hkust.edu.hk/~dimitris/Instructions%20for%20PhD%20Students.pdf)<br>
 [Paper-Reading Survival Kit](https://cs.stanford.edu/~rishig/courses/ref/paper-reading-technical.pdf)<br>
 [How to Study Math](http://www.cs.cmu.edu/~15751/2016-lecture1.pdf)<br>
-[How to Give Clear Talks](http://www.cs.cmu.edu/~kayvonf/misc/cleartalktips.pdf)<br>
-[Accelerate Your Coding Skills](http://blog.thefirehoseproject.com/posts/learn-to-code-and-be-self-reliant/)<br>
 [General PhD Guidance](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview)<br>
-
-# Courses/Lectures
-[ELE524: Foundations of Reinforcement Learning](https://sites.google.com/view/cjin/ele524-2020-ver)<br>
-[CSC 696H: Topics in Reinforcement Learning Theory](https://zcc1307.github.io/courses/csc696fa21/index.html)<br>
-[ELE539/COS512: Optimization for Machine Learning](https://sites.google.com/view/cjin/ee539cos512)<br>
-[ECE434/COS434: Machine Learning Theory](https://sites.google.com/view/cjin/ece434cos434)<br>
-[videolecture.net](http://videolectures.net/)<br>
-[Learning and Optimization for Sequential Decision Making](https://ieor8100.github.io/rl/)<br>
-[UCL Course on RL](https://www.davidsilver.uk/teaching/)<br>
-[Convex Optimization](https://www.stat.cmu.edu/~ryantibs/convexopt/)<br>
 
 
 # Blogs
@@ -58,7 +60,7 @@ redirect_from:
 
 
 # Books
-## Multi-arm Bandit & Provably Efficient RL
+## Multi-armed Bandits & Provably Efficient RL
 [Bandit Algorithms](http://downloads.tor-lattimore.com/banditbook/book.pdf) - Tor Lattimore and Csaba Szepesvari<br>
 [RL Theory](https://rltheorybook.github.io/rltheorybook_AJKS.pdf)<br>
 [Regret Analysis of Stochastic and Nonstochastic Multi-armed Bandit Problems](http://sbubeck.com/SurveyBCB12.pdf) - Sebastien Bubeck and Nicolo Cesa-Bianchi<br>
@@ -108,10 +110,6 @@ redirect_from:
 
 
 
-## Thought-Provoking 
-[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)<br>
-[Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)<br>
-[Show Your Work!](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)<br>
 
 
 # Tutorial
