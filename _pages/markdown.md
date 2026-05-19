@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 # Frontier
-[Theoretical RL](https://sites.google.com/view/rltheoryseminars/home)<br>
-[Causal Inference](https://sites.google.com/view/ocis/)<br>
+[Reinforcement Learning: An Overview](https://sites.google.com/view/ocis/)<br>
+[Theoretical Reinforcement Learning](https://sites.google.com/view/rltheoryseminars/home)<br>
 
 # Useful Skills
 [Paper templates and tricks](https://dango.rocks/blog/2017/02/08/my-paper-templates-and-tricks/) - Yishi Lin<br>
