@@ -32,11 +32,7 @@ redirect_from:
 [How to Write Perfect Papers](https://www.bilibili.com/video/BV18v411n7mr?share_source=copy_web) - Baochun Li<br>
 
 
-## Thought-Provoking 
-[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)<br>
-[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)<br>
-[Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)<br>
-[Show Your Work!](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)<br>
+
 
 
 # Advice
@@ -93,6 +89,12 @@ redirect_from:
 [The Elements of Style](https://www.bartleby.com/141/index.html)<br>
 [On Writing Well](https://www.amazon.com/Writing-Well-Classic-Guide-Nonfiction/dp/0060891548)<br>
 [The Craft of Research](https://www.amazon.com/Research-Chicago-Writing-Editing-Publishing/dp/022623973X)<br>
+
+## Thought-Provoking 
+[Made to Stick: Why Some Ideas Survive and Others Die](https://www.amazon.com/Made-Stick-Ideas-Survive-Others/dp/1400064287)<br>
+[Thinking, Fast and Slow](https://www.amazon.com/Thinking-Fast-Slow-Daniel-Kahneman/dp/0374533555)<br>
+[Steal Like an Artist](https://www.amazon.com/Steal-Like-Artist-Things-Creative/dp/0761169253)<br>
+[Show Your Work!](https://www.amazon.com/Show-Your-Work-Austin-Kleon/dp/076117897X)<br>
 
 
 # Blogs
