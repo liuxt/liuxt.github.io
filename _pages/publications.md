@@ -10,6 +10,11 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[DEMO @ ICML '26]** [**Offline Preference Learning with Clustering and Active Data-Augmentation**](https://arxiv.org/abs/2510.26301)<br>
+Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
+Accepted by ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning (**DEMO @ ICML '26**).<br>
+[[arXiv]](https://arxiv.org/abs/2510.26301)
+
 - **[Preprint '26]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/pdf/2603.15647)<br>
 Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.15647)<br>
@@ -70,10 +75,6 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui
 [[arXiv]](https://arxiv.org/abs/2510.12266)
 
 
-
-- **[Preprint]** [**Offline Clustering of Preference Learning with Active-data Augmentation**](https://arxiv.org/abs/2510.26301)<br>
-Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
-[[arXiv]](https://arxiv.org/abs/2510.26301)
 
 
 - **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
