@@ -10,7 +10,7 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-- **[UAI'26]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://xutongliu.me/publications/)<br>
+- **[UAI '26]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://xutongliu.me/publications/)<br>
 Haoran Zhang, Cainã Figueiredo Pereira, Marie Siew, **Xutong Liu**, Carlee Joe-Wong, Rachid El-Azouzi.<br>
 Accepted by the 42nd Conference on Uncertainty in Artificial Intelligence (**UAI '26**).<br>
 
