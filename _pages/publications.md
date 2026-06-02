@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
+- **[UAI'26]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://xutongliu.me/publications/)<br>
+Haoran Zhang, Cainã Figueiredo Pereira, Marie Siew, **Xutong Liu**, Carlee Joe-Wong, Rachid El-Azouzi.<br>
+Accepted by the 42nd Conference on Uncertainty in Artificial Intelligence (**UAI '26**).<br>
+
 - **[DEMO @ ICML '26]** [**Offline Preference Learning with Clustering and Active Data-Augmentation**](https://arxiv.org/abs/2510.26301)<br>
 Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
 Accepted by ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning (**DEMO @ ICML '26**).<br>
@@ -24,7 +28,7 @@ Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesm
 [[arXiv]](https://arxiv.org/abs/2605.00638)<br>
 
 - **[<font color="blue">SIGKDD '26</font>]** [**Online Learning to Rank under Corruption: A Robust Cascading Bandits Approach**](https://arxiv.org/pdf/2511.03074)<br>
-Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
+Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu#**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
 Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
 [[arXiv]](https://arxiv.org/pdf/2511.03074)
 
