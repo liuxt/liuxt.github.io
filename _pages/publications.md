@@ -10,9 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<be>
 
-- **[UAI '26]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://xutongliu.me/publications/)<br>
+- **[<font color="blue">UAI '26</font>]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://arxiv.org/pdf/2606.10124)<br>
 Haoran Zhang, Cainã Figueiredo Pereira, Marie Siew, **Xutong Liu**, Carlee Joe-Wong, Rachid El-Azouzi.<br>
 Accepted by the 42nd Conference on Uncertainty in Artificial Intelligence (**UAI '26**).<br>
+[[arXiv]](https://arxiv.org/pdf/2606.10124)
 
 - **[DEMO @ ICML '26]** [**Offline Preference Learning with Clustering and Active Data-Augmentation**](https://arxiv.org/abs/2510.26301)<br>
 Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesmaili, Carlee Joe-Wong.<br>
@@ -57,12 +58,12 @@ IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 - **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
 Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
 Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2509.19781)
+[[arXiv]](https://arxiv.org/abs/2509.19781) [[slides]](https://drive.google.com/file/d/1CaGGkWw5-6xksliX4hZG7ZSVzS-1SPfw/view?usp=sharing)
 
 - **<font color="blue">[INFOCOM '26]</font>** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
 **Xutong Liu***, Baran Atalar\*, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
 Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2508.07675)
+[[arXiv]](https://arxiv.org/abs/2508.07675) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing)
 
 - **<font color="blue">[INFOCOM '26]</font>** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
 Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
