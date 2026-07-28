@@ -122,6 +122,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **July 2026**: I am invited as an SPC for AAAI 2027.
 - **April 2026**: Our incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from **IEEE Transactions on Networking** (TON). Congratulations, Junkai!
 - **April 2026**: Our undergraduate intern, Jingyuan Liu from Nanjing University, is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
 - **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027 and ACM Mobihoc 2026.
