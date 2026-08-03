@@ -20,6 +20,27 @@ Jingyuan Liu, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu#**, Mohammad Hajiesm
 Accepted by ICML 2026 Workshop on Decision-Making from Offline Datasets to Online Adaptation: Black-Box Optimization to Reinforcement Learning (**DEMO @ ICML '26**).<br>
 [[arXiv]](https://arxiv.org/abs/2510.26301)
 
+- **[<font color="blue">SIGKDD '26</font>]** [**Online Learning to Rank under Corruption: A Robust Cascading Bandits Approach**](https://arxiv.org/pdf/2511.03074)<br>
+Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu#**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
+Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
+[[arXiv]](https://arxiv.org/pdf/2511.03074)
+
+- **[<font color="red">INFOCOM '26</font>, <font color="red">Top 10 papers in INFOCOM '26</font>]** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
+Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
+IEEE International Conference on Computer Communications (INFOCOM), 2026 (10/1740 = 0.6%).<br>
+**Top 10 papers in INFOCOM 2026 and selected as fast-track for IEEE Transactions on Networking**.<br>
+[[arXiv version]](https://arxiv.org/abs/2405.16587)
+
+- **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
+Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
+IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2509.19781) [[slides]](https://drive.google.com/file/d/1CaGGkWw5-6xksliX4hZG7ZSVzS-1SPfw/view?usp=sharing)
+
+- **<font color="blue">[INFOCOM '26]</font>** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
+**Xutong Liu***, Baran Atalar\*, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
+IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
+[[arXiv]](https://arxiv.org/abs/2508.07675) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing)
+
 - **[Preprint '26]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/pdf/2603.15647)<br>
 Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
 [[arXiv]](https://arxiv.org/pdf/2603.15647)<br>
@@ -28,17 +49,12 @@ Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
 Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
 [[arXiv]](https://arxiv.org/abs/2605.00638)<br>
 
-- **[<font color="blue">SIGKDD '26</font>]** [**Online Learning to Rank under Corruption: A Robust Cascading Bandits Approach**](https://arxiv.org/pdf/2511.03074)<br>
-Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu#**, Xuchuang Wang, Mohammad Hajiesmaili.<br>
-Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
-[[arXiv]](https://arxiv.org/pdf/2511.03074)
-
 - **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://www.computer.org/csdl/journal/nw/5555/01/11513419/2gkdGlOVjkA)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
 IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 
 - **[<font color="blue">TMC '26</font>]** [**Online Outcome-Driven Configuration Selection with Adaptive Grouping for Live Video Streams**](https://www.computer.org/csdl/journal/tm/5555/01/11509286/2ggMvIMvqyk)<br>
-  Xiangxiang Dai, Zeyu Zhang, Ziyi Han, **Xutong Liu**, Peng Yang, John C.S. Lui.<br>
+Xiangxiang Dai, Zeyu Zhang, Ziyi Han, **Xutong Liu**, Peng Yang, John C.S. Lui.<br>
 IEEE Transactions on Mobile Computing (**TMC**), 2026.<br>
 
 - **[Preprint '26]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
@@ -48,31 +64,15 @@ Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong
 
 - **[<font color="blue">AIJ '26</font>]** [**Exploring Multi-Layered Networks through Random Walks: Bridging Offline Optimization and Online Learning**](https://xutongliu.me/publications/)<br>
 Xiangxiang Dai, **Xutong Liu#**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui.<br>
-Elsevier Artificial Intelligence (**AIJ**), 2026.<br>
+The Journal of Artificial Intelligence (**AIJ**), 2026.<br>
 
 - **[<font color="blue">TON '26</font>]** [**Combinatorial Logistic Online Learning and Its Applications in Nonlinear Networked Systems**](https://ieeexplore.ieee.org/abstract/document/11391544)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Carlee Joe-Wong, Mohammad Hajiesmaili, John C.S. Lui.<br>
 IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 
-
-- **<font color="blue">[INFOCOM '26]</font>** [**Faster, Smaller, and Smarter: Task-Aware Expert Merging for Online MoE Inference**](https://arxiv.org/abs/2509.19781)<br>
-Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
-Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2509.19781) [[slides]](https://drive.google.com/file/d/1CaGGkWw5-6xksliX4hZG7ZSVzS-1SPfw/view?usp=sharing)
-
-- **<font color="blue">[INFOCOM '26]</font>** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
-**Xutong Liu***, Baran Atalar\*, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
-Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2508.07675) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing)
-
-- **<font color="blue">[INFOCOM '26]</font>** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
-Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
-Accepted by IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
-[[arXiv]](https://arxiv.org/abs/2405.16587)
-
 - **<font color="blue">[AAAI '26]</font>** [**Online Multi-LLM Selection via Contextual Bandits under Unstructured Context Evolution**](https://arxiv.org/abs/2506.17670)<br>
 Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
-Accepted by the 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
+40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
 [[arXiv]](https://arxiv.org/abs/2506.17670)
 
 - **[Preprint]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
@@ -84,7 +84,7 @@ Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui
 
 - **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
 Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
-Accepted by ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2026 (23/111 = 20.7%).<br>
+ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2026 (23/111 = 20.7%).<br>
 [[PDF]](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)
 
 
