@@ -122,7 +122,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
-- **Aug 2026**: As one of the **top ten papers in INFOCOM '26**, our paper has been recommended as fast-track for IEEE TON. 
+- **Aug 2026**: As one of the **top ten papers in INFOCOM '26**, our paper has been recommended as fast-track for IEEE Transactions on Networking. 
 - **July 2026**: I am invited as an SPC for AAAI 2027.
 - **April 2026**: Our incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from **IEEE Transactions on Networking** (TON). Congratulations, Junkai!
 - **April 2026**: Our undergraduate intern, Jingyuan Liu from Nanjing University, is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
