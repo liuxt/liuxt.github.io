@@ -16,7 +16,7 @@ I am a Tenure-Track Assistant Professor at the University of Washington (Tacoma 
 
 Students will have opportunities to collaborate with leading researchers from **UW, CMU, UMass Amherst, Microsoft Research, and Adobe**, etc. I can recommend outstanding students for exchange visits to top schools or internships/jobs at top companies or research institutes.
 
-Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). Some top undergraduate/graduate interns have been admitted to PhD programs in **UC Berkeley, CMU, UMass Amherst, UT Austin.** 
+Most of our previous/current collaborations would turn into publications in **top-tier venues/journals** (see examples below). Some top undergraduate/graduate interns have been admitted to PhD programs in **UC Berkeley, CMU, UMass Amherst, UT Austin, OSU**.
 
 If you're interested in joining us, please contact me with a one-page research statement and your CV.
 
@@ -30,15 +30,16 @@ If you're interested in joining us, please contact me with a one-page research s
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
 - **Adil Nadeem** (Master Student in CSS at UW), 2026-Present
 - **Neelim Mahbub** (Undergraduate in CSS at UW), 2026-Present
+- **Shuhuan Hu** (Undergraduate in Applied Math at UW), 2026- Present
  
 
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
-- [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $\rightarrow$  Ph.D. program in IEOR at UC Berkeley), 2024-Present: **ICML '26 workshop** $\times 1$ <br>
-- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
+- [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $\rightarrow$  Ph.D. program in IEOR at **UC Berkeley**), 2024-Present: **ICML '26 workshop** $\times 1$ <br>
+- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, Mobihoc '26 $\times 1$ in submission <br>
 - [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
-- [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present: **UAI '26** $\times 1$ <br>
-- **Hanqing Yang** (Ph.D. student in ECE at CMU), 2025-2026
+- [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present: **<font color="blue">UAI '26</font>** $\times 1$ <br>
+- [Hanqing Yang](https://happyeureka.github.io/) (Ph.D. student in ECE at CMU), 2025-2026
 
 ### UMass Amherst (with Prof. Mohammad Hajiesmaili), CICS
 - [Fatemeh Ghaffari](https://scholar.google.com/citations?user=n0N3AtMAAAAJ&hl=en) (Ph.D. student in CICS at UMass Amherst), 2024-Present: **<font color="blue">SIGKDD '26</font>** $\times 1$ <br>
@@ -47,8 +48,8 @@ If you're interested in joining us, please contact me with a one-page research s
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
 - [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">TMC '26</font>** $\times 1$, **<font color="blue">AIJ '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE ToN</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
-- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **ICML '26 in submission**, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
-- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **ICML '26 in submission**
+- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **NeurIPS '26 in submission**, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
+- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **NeurIPS '26 in submission**
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **<font color="blue">NeurIPS '23</font>** $\times 1$, **<font color="blue">AAAI '23</font>** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **<font color="blue">Network Science Journal</font>** $\times 1$<br>
 
@@ -57,8 +58,8 @@ If you're interested in joining us, please contact me with a one-page research s
 - [Qijia He](https://people.engineering.osu.edu/people/he.2806) (undergraduate student at SUSTech $\rightarrow$ Ph.D. in ECE at OSU) **<font color="blue">NeurIPS '25</font>** $\times 1$<br>
 
 ### Shanghai Jiao Tong University (with Prof. Shuai Li), John Hopcroft Center
-- [Zichun Ye](https://alchemistye.github.io/) (master student at SJTU), 2025 - Present: **ICML '26 in submission** $\times 2$ <br>
-- **Runqi Wang** (undergraduate student at SJTU), 2025 - Present: **ICML '26 in submission** <br>
+- [Zichun Ye](https://alchemistye.github.io/) (master student at SJTU), 2025 - Present: **NeurIPS '26 in submission** $\times 1$ <br>
+- **Runqi Wang** (undergraduate student at SJTU), 2025 - Present: **NeurIPS '26 in submission** <br>
 
 ### Fudan University  (with Prof. Yuedong Xu), EE
 - **Zhaoying He** (master student in EE at FDU), 2024-Present
