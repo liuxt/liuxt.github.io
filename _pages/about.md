@@ -124,6 +124,7 @@ News
 ======
 - **Aug 2026**: As one of the **top ten papers in INFOCOM '26**, our paper has been recommended as fast-track for IEEE Transactions on Networking. 
 - **July 2026**: I am invited as an SPC for AAAI 2027.
+- **May 2026**: Our incoming Ph.D. student, Junkai Wang, received the [2026 UW GSFEI Top Scholar Award](https://facstaff.grad.uw.edu/advising-resources/funding-management/awards-funding-support/gsfei-top-scholar-awards/). Congratulations, Junkai!
 - **April 2026**: Our incoming Ph.D. student, Junkai Wang from Fudan University, received his first journal acceptance from **IEEE Transactions on Networking** (TON). Congratulations, Junkai!
 - **April 2026**: Our undergraduate intern, Jingyuan Liu from Nanjing University, is admitted to the **IEOR PhD program @ UC Berkeley**. Congratulations, Jingyuan!
 - **April 2026**: I am invited as a TPC for IEEE INFOCOM 2027 and ACM Mobihoc 2026.
