@@ -21,10 +21,10 @@ Most of our previous/current collaborations would turn into publications in **to
 If you're interested in joining us, please contact me with a one-page research statement and your CV.
 
 ---
-## Student Mentoring Experience (with highlights of student first-authored works)
+## Student Mentoring Experience (with highlights of student first-authored works and scholarships)
 
 ### University of Washington, CSS
-- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ incoming Ph.D. student in CSS at UW), 2026-Present:  **<font color="blue">IEEE TON '26</font>** $\times 1$, **<font color="blue">INFOCOM '25</font>** $\times 1$
+- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ Ph.D. student in CSS at UW), 2026-Present:  **<font color="blue">IEEE TON '26</font>** $\times 1$, **<font color="blue">INFOCOM '25</font>** $\times 1$,  **<font color="orange">2026 UW GSFEI Top Scholar Award</font>**
 - **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
 - **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
