@@ -25,7 +25,7 @@ Fatemeh Ghaffari, Siddarth Sitaraman, **Xutong Liu#**, Xuchuang Wang, Mohammad H
 Accepted by ACM SIGKDD International Conference on Knowledge Discovery and Data Mining (**KDD**), 2026. (Acceptance rate 18.5%).<br>
 [[arXiv]](https://arxiv.org/pdf/2511.03074)
 
-- **[<font color="red">INFOCOM '26</font>, <font color="red">Top 10 papers in INFOCOM '26</font>]** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
+- **[<font color="orange">INFOCOM '26</font>, <font color="orange">Top 10 papers in INFOCOM '26</font>]** [**Constraint-Aware Combinatorial Bandits: Theoretical Foundations and Network Applications**](https://arxiv.org/abs/2405.16587)<br>
 Xiangxiang Dai, Jin Li, **Xutong Liu#**, Anqi Yu, John C.S. Lui.<br>
 IEEE International Conference on Computer Communications (INFOCOM), 2026 (10/1740 = 0.6%).<br>
 **Top 10 papers in INFOCOM 2026 and selected as fast-track for IEEE Transactions on Networking**.<br>
@@ -106,7 +106,7 @@ Xuchuang Wang, Yu-Zhen Janice Chen, Lin Yang, **Xutong Liu**, Mohammad Hajiesmai
 ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025 (Acceptance rate  15.7%).<br>
 
 
-- **[<font color="red">SIGMETRICS '25</font>, 🏆<font color="red">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
+- **[<font color="orange">SIGMETRICS '25</font>, 🏆<font color="orange">Best Paper Runner-Up</font>]** [**Combinatorial Logistic Bandits**](https://arxiv.org/abs/2410.17075)<br>
 **Xutong Liu**, Xiangxiang Dai, Xuchuang Wang, Mohammad Hajiesmaili, John C.S. Lui.<br>
 ACM International Conference on Measurement and Modeling of Computer Systems (**SIGMETRICS**), 2025.<br>
 **Selected as Best Paper Runner-Up at SIGMETRICS 2025**.<br>
@@ -272,7 +272,7 @@ DOI: https://doi.org/10.1109/TMC.2022.3173792
 
 2021 and before
 ------
-- **[<font color="blue">ICML '21</font>, 🎤️<font color="red">Long Oral</font>]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
+- **[<font color="orange">ICML '21</font>, 🎤️<font color="orange">Long Oral</font>]** [**Multi-layered Network Exploration via Random Walks: From Offline Optimization to Online Learning**](http://proceedings.mlr.press/v139/liu21ae.html)<br>
 **Xutong Liu**, Jinhang Zuo, Xiaowei Chen, Wei Chen, John C.S. Lui. <br>
 The 38th International Conference on Machine Learning (**ICML**), **<font color="red">Long Oral</font>**, 2021. (Acceptance rate 3%).<br>
 [[paper]](https://mycuhk-my.sharepoint.com/:b:/g/personal/1155098137_link_cuhk_edu_hk/EdwTW-6sVO5HoWYDrbrS8m4BPahbSqgrr7DPLYlVCTpGdQ?e=x24PYU) 
