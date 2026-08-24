@@ -36,7 +36,7 @@ If you're interested in joining us, please contact me with a one-page research s
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
 - [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $\rightarrow$  Ph.D. program in IEOR at **UC Berkeley**), 2024-Present: **ICML '26 workshop** $\times 1$ <br>
-- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, Mobihoc '26 $\times 1$ in submission <br>
+- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">Mobihoc '26</font>** $\times 1$ <br>
 - [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
 - [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present: **<font color="blue">UAI '26</font>** $\times 1$ <br>
 - [Hanqing Yang](https://happyeureka.github.io/) (Ph.D. student in ECE at CMU), 2025-2026
@@ -65,4 +65,4 @@ If you're interested in joining us, please contact me with a one-page research s
 - **Zhaoying He** (master student in EE at FDU), 2024-Present
 
 ### University of Science and Technology of China  (with Prof. Hong Xie and Prof. Defu Lian), CS
-- **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **<font color="blue">AAAI '24</font>** $\times 1$
+- **Hantao Yang** (master student at USTC $\rightarrow$ Ph.D. in CS at USTC), 2023-Present: **<font color="blue">AAAI '24</font>** $\times 1$, **<font color="blue">EMNLP '26</font>** $\times 1$
