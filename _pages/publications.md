@@ -13,19 +13,19 @@ author_profile: true
 
 - **[<font color="blue">Mobihoc '26</font>]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
 Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
-Accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**Mobihoc**), 2026 (Acceptance rate 23%)<br>
+Accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**Mobihoc**), 2026 (Acceptance rate 23%).<br>
 [[PDF]](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)
 [[arXiv]](https://arxiv.org/abs/2604.20021)
 
 - **[<font color="blue">EMNLP '26</font>]** [**LLM Cache Bandits with Query Heterogeneity for Cost-Efficient Inference**](https://arxiv.org/abs/2509.15515)<br>
 Hantao Yang, Hong Xie, **Xutong Liu**, Defu Lian.<br>
-Accepted by the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Main Conference), 2026 (Acceptance rate 15.4%)<br>
+Accepted by the 2026 Conference on Empirical Methods in Natural Language Processing (**EMNLP** Main Conference), 2026 (Acceptance rate 15.4%).<br>
 [[arXiv]](https://arxiv.org/abs/2509.15515)
 
 
 - **[<font color="blue">UAI '26</font>]** [**FedSteer: Taming Extreme Gradient Staleness in Federated Learning with Corrective Projections and Caching**](https://arxiv.org/pdf/2606.10124)<br>
 Haoran Zhang, Cainã Figueiredo Pereira, Marie Siew, **Xutong Liu**, Carlee Joe-Wong, Rachid El-Azouzi.<br>
-Accepted by the 42nd Conference on Uncertainty in Artificial Intelligence (**UAI**).<br>
+Accepted by the 42nd Conference on Uncertainty in Artificial Intelligence (**UAI**), 2026 (Acceptance rate 30%).<br>
 [[arXiv]](https://arxiv.org/pdf/2606.10124)
 
 - **[DEMO @ ICML '26]** [**Offline Preference Learning with Clustering and Active Data-Augmentation**](https://arxiv.org/abs/2510.26301)<br>
