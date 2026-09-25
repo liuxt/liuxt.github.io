@@ -11,6 +11,21 @@ author_profile: true
 (#corresponding author, \*equal contribution)<br>
 
 
+- **[<font color="blue">NeurIPS '26</font>]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/abs/2603.15647)<br>
+Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
+Accepted by the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2603.15647) **TL;DR:** CCLUB steers a frozen LLM at inference time by routing each query to a system prompt with a consensus-clustering LinUCB bandit that pools data only where utility and safety similarity agree, so the safety–utility trade-off can shift at inference time without retraining. It achieves sublinear regret and 10.98% higher cumulative reward than the strongest non-prototype baseline.<br>
+
+- **[<font color="blue">NeurIPS '26</font>]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
+Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui.<br>
+Accepted by the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2510.12266) **TL;DR:** HiLoRA is a training-free hierarchical router over LoRA pools that selects LoRAs and their rank-one components at the sequence and token levels via Gaussian likelihoods, provably identifying relevant LoRAs for seen tasks and composing related ones for unseen tasks, with up to 70% normalized accuracy gains in cross-domain generalization.<br>
+
+- **[<font color="blue">NeurIPS '26</font>]** [**Best Arm Identification in Generalized Linear Bandits via Hybrid Feedback**](https://arxiv.org/abs/2605.05745)<br>
+Qirun Zeng, Xuchuang Wang, Jiayi Shen, **Xutong Liu**, Fang Kong, Jinhang Zuo.<br>
+Accepted by the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
+[[arXiv]](https://arxiv.org/abs/2605.05745) **TL;DR:** Unifies absolute reward and relative (dueling) feedback under a shared GLM with a single likelihood-ratio confidence sequence, and proposes HyTS-GLB, a hybrid Track-and-Stop algorithm that adaptively chooses between the two feedback types, with $$\delta$$-correctness, stopping-time guarantees, and a cost-aware extension that favors the feedback with more information per unit cost.<br>
+
 - **[<font color="blue">Mobihoc '26</font>]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
 Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
 Accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**Mobihoc**), 2026 (Acceptance rate 23%)<br>
@@ -54,10 +69,6 @@ IEEE International Conference on Computer Communications (INFOCOM), 2026 (Accept
 IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
 [[arXiv]](https://arxiv.org/abs/2508.07675) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing) **TL;DR:** A principled learning framework for semantic cache eviction in LLM serving under unknown query arrivals and serving costs, with approximation, suboptimality, and regret guarantees (including low cache switching) across the oracle, offline, and online-adaptive settings.<br>
 
-- **[Preprint '26]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/pdf/2603.15647)<br>
-Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
-[[arXiv]](https://arxiv.org/pdf/2603.15647) **TL;DR:** CCLUB steers a frozen LLM at inference time by routing queries to system prompts with a consensus-clustering LinUCB bandit that pools data only where utility and safety similarity agree, achieving sublinear regret and about 11% higher cumulative reward than strong baselines.<br>
-
 - **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
 Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
 [[arXiv]](https://arxiv.org/abs/2605.00638) **TL;DR:** The first study of machine unlearning for offline multi-armed bandits, formalizing the privacy constraint and giving adaptive algorithms that switch between Gaussian-mechanism and rollback baselines across single- and multi-source deletion settings, with matching lower bounds.<br>
@@ -86,13 +97,6 @@ IEEE/ACM Transactions on Networking (**TON**), 2026.<br>
 Manhin Poon, XiangXiang Dai, **Xutong Liu**, Fang Kong, John C.S. Lui, Jinhang Zuo.<br>
 40th Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026 (Acceptance rate: 17.6%).<br>
 [[arXiv]](https://arxiv.org/abs/2506.17670) **TL;DR:** The first contextual-bandit formulation of sequential LLM selection under unstructured, black-box prompt evolution, with a LinUCB-based algorithm (plus budget-aware and position-aware variants) that attains sublinear myopic regret without forecasting future contexts.<br>
-
-- **[Preprint]** [**HiLoRA: Adaptive Hierarchical LoRA Routing for Training-Free Domain Generalization**](https://arxiv.org/abs/2510.12266)<br>
-Ziyi Han, Huanyu Wang, Zeyu Zhang, Xiangxiang Dai, **Xutong Liu**, John C.S. Lui.<br>
-[[arXiv]](https://arxiv.org/abs/2510.12266) **TL;DR:** HiLoRA is a training-free hierarchical router over LoRA pools that selects LoRAs and their rank-one components at the sequence and token levels via Gaussian likelihoods, provably identifying relevant LoRAs and improving domain-generalization accuracy by up to 55%.<br>
-
-
-
 
 - **<font color="blue">[SIGMETRICS '26]</font>** [**Heterogeneous Multi-agent Multi-armed Bandits on Stochastic Block Models**](https://mengfanxu1997.github.io/assets/pdf/2502.08003v1.pdf)<br>
 Mengfan Xu, Liren Shan, Fatemeh Ghaffari, Xuchuang Wang, **Xutong Liu**, and Mohammad Hajiesmaili.<br>
