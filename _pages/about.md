@@ -122,6 +122,7 @@ The 38th International Conference on Machine Learning (**ICML**), **Long Oral**,
 
 News
 ======
+- **Oct 2026**: I am invited as an Area Chair for ICML 2027.
 - **Aug 2026**: As one of the **top ten papers in INFOCOM '26**, our paper has been recommended as fast-track for IEEE Transactions on Networking. 
 - **July 2026**: I am invited as an SPC for AAAI 2027.
 - **May 2026**: Our incoming Ph.D. student, Junkai Wang, received the [2026 UW GSFEI Top Scholar Award](https://facstaff.grad.uw.edu/advising-resources/funding-management/awards-funding-support/gsfei-top-scholar-awards/). Congratulations, Junkai!
