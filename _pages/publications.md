@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<br>
 
+- **[<font color="blue">JSAC '26</font>]** [**Communication-Efficient Distributed Learning for Perspective-Aware Visual Inference over Edge-Cloud Networks**](https://xutongliu.me/publications/)<br>
+Zeyu Zhang, Xiangxiang Dai, Peng Yang, Yuedong Xu, **Xutong Liu**, John C.S. Lui.<br>
+Accepted by IEEE Journal on Selected Areas in Communications (**JSAC**), 2026.<br>
+
 
 - **[<font color="blue">NeurIPS '26</font>]** [**Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing**](https://arxiv.org/abs/2603.15647)<br>
 Zeyu Zhang, Xiangxiang Dai, Ziyi Han, **Xutong Liu**, John C.S. Lui.<br>
@@ -73,9 +77,6 @@ IEEE International Conference on Computer Communications (INFOCOM), 2026 (Accept
 Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
 [[arXiv]](https://arxiv.org/abs/2605.00638) **TL;DR:** The first study of machine unlearning for offline multi-armed bandits, formalizing the privacy constraint and giving adaptive algorithms that switch between Gaussian-mechanism and rollback baselines across single- and multi-source deletion settings, with matching lower bounds.<br>
 
-- **[<font color="blue">JSAC '26</font>]** [**Communication-Efficient Distributed Learning for Perspective-Aware Visual Inference over Edge-Cloud Networks**](https://xutongliu.me/publications/)<br>
-Zeyu Zhang, Xiangxiang Dai, Peng Yang, Yuedong Xu, **Xutong Liu**, John C.S. Lui.<br>
-Accepted by IEEE Journal on Selected Areas in Communications (**JSAC**), 2026.<br>
 
 - **[<font color="blue">TON '26</font>]** [**Corruption-Resilient Combinatorial Bandit Learning for Heterogeneous Network Systems**](https://www.computer.org/csdl/journal/nw/5555/01/11513419/2gkdGlOVjkA)<br>
 Junkai Wang, **Xutong Liu#**, Jinhang Zuo, Yuedong Xu#, John C.S. Lui.<br>
