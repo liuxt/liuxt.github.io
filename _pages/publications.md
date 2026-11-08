@@ -10,6 +10,10 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<br>
 
+- **[Preprint '26]** [**Multi-Turn Semantic Caching for Low-Cost LLM Serving**](https://arxiv.org/abs/2611.01077)<br>
+Baran Atalar, Selly Beyene, **Xutong Liu**, Carlee Joe-Wong.<br>
+[[arXiv]](https://arxiv.org/abs/2611.01077) [[code]](https://github.com/BaranAtalar/Multi-Turn-Semantic-Caching) **TL;DR:** Shows that embedding similarity poorly predicts whether a cached LLM response is acceptable in multi-turn conversations, and instead learns a reuse risk from judge feedback to select a budgeted set of conversation states to cache, with offline (CUCB-SC-MT) and online (CLCB-LS-MT) algorithms that achieve lower loss than prior semantic caching baselines.<br>
+
 - **[<font color="blue">JSAC '26</font>]** [**Communication-Efficient Distributed Learning for Perspective-Aware Visual Inference over Edge-Cloud Networks**](https://xutongliu.me/publications/)<br>
 Zeyu Zhang, Xiangxiang Dai, Peng Yang, Yuedong Xu, **Xutong Liu**, John C.S. Lui.<br>
 Accepted by IEEE Journal on Selected Areas in Communications (**JSAC**), 2026.<br>
@@ -73,9 +77,7 @@ IEEE International Conference on Computer Communications (INFOCOM), 2026 (Accept
 IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
 [[arXiv]](https://arxiv.org/abs/2508.07675) [[code]](https://github.com/BaranAtalar/LLM-Semantic-Caching) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing) **TL;DR:** A principled learning framework for semantic cache eviction in LLM serving under unknown query arrivals and serving costs, with approximation, suboptimality, and regret guarantees (including low cache switching) across the oracle, offline, and online-adaptive settings.<br>
 
-- **[Preprint '26]** [**Multi-Turn Semantic Caching for Low-Cost LLM Serving**](https://arxiv.org/abs/2611.01077)<br>
-Baran Atalar, Selly Beyene, **Xutong Liu**, Carlee Joe-Wong.<br>
-[[arXiv]](https://arxiv.org/abs/2611.01077) [[code]](https://github.com/BaranAtalar/Multi-Turn-Semantic-Caching) **TL;DR:** Shows that embedding similarity poorly predicts whether a cached LLM response is acceptable in multi-turn conversations, and instead learns a reuse risk from judge feedback to select a budgeted set of conversation states to cache, with offline (CUCB-SC-MT) and online (CLCB-LS-MT) algorithms that achieve lower loss than prior semantic caching baselines.<br>
+
 
 - **[Preprint '26]** [**Unlearning Offline Stochastic Multi-Armed Bandits**](https://arxiv.org/abs/2605.00638)<br>
 Zichun Ye, Runqi Wang, Xuchuang Wang, **Xutong Liu**, Shuai Li, Mohammad Hajiesmaili.<br>
