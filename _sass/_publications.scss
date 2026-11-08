@@ -1,0 +1,70 @@
+/* ==========================================================================
+   PUBLICATION ENTRIES WITH THUMBNAILS
+   Usage in _pages/publications.md:
+   <div class="pub-item" markdown="1">
+   <figure class="pub-thumb"><a href="PAPER_URL"><img src="/images/papers/NAME.webp" alt="Figure from TITLE" loading="lazy"></a></figure>
+   <div class="pub-body" markdown="1">
+   ...the usual markdown lines for the paper...
+   </div>
+   </div>
+   ========================================================================== */
+
+.pub-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 1.1em;
+  margin: 0 0 1.4em;
+  padding-bottom: 1.4em;
+  border-bottom: 1px solid $border-color;
+}
+
+.pub-thumb {
+  flex: 0 0 200px;
+  margin: 0;
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    aspect-ratio: 1.48;
+    padding: 6px;
+    background: #fff;
+    border: 1px solid mix(#fff, $gray, 75%);
+    border-radius: 4px;
+    transition: border-color 0.15s, box-shadow 0.15s;
+
+    &:hover,
+    &:focus {
+      border-color: $gray;
+      box-shadow: 0 2px 6px rgba(0, 0, 0, 0.08);
+    }
+  }
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+  }
+}
+
+.pub-body {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  p {
+    margin: 0;
+  }
+}
+
+@media (max-width: 600px) {
+  .pub-item {
+    flex-direction: column;
+    gap: 0.6em;
+  }
+
+  .pub-thumb {
+    flex-basis: auto;
+    width: 100%;
+    max-width: 320px;
+  }
+}
