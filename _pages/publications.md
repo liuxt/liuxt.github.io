@@ -10,9 +10,14 @@ author_profile: true
 ------
 (#corresponding author, \*equal contribution)<br>
 
-- **[Preprint '26]** [**Multi-Turn Semantic Caching for Low-Cost LLM Serving**](https://arxiv.org/abs/2611.01077)<br>
+<div class="pub-item" markdown="1">
+<figure class="pub-thumb"><a href="https://arxiv.org/abs/2611.01077"><img src="/images/papers/multiturn-caching.webp" alt="Figure from Multi-Turn Semantic Caching for Low-Cost LLM Serving" loading="lazy"></a></figure>
+<div class="pub-body" markdown="1">
+**[Preprint '26]** [**Multi-Turn Semantic Caching for Low-Cost LLM Serving**](https://arxiv.org/abs/2611.01077)<br>
 Baran Atalar, Selly Beyene, **Xutong Liu**, Carlee Joe-Wong.<br>
 [[arXiv]](https://arxiv.org/abs/2611.01077) [[code]](https://github.com/BaranAtalar/Multi-Turn-Semantic-Caching) **TL;DR:** Shows that embedding similarity poorly predicts whether a cached LLM response is acceptable in multi-turn conversations, and instead learns a reuse risk from judge feedback to select a budgeted set of conversation states to cache, with offline (CUCB-SC-MT) and online (CLCB-LS-MT) algorithms that achieve lower loss than prior semantic caching baselines.<br>
+</div>
+</div>
 
 - **[<font color="blue">JSAC '26</font>]** [**Communication-Efficient Distributed Learning for Perspective-Aware Visual Inference over Edge-Cloud Networks**](https://xutongliu.me/publications/)<br>
 Zeyu Zhang, Xiangxiang Dai, Peng Yang, Yuedong Xu, **Xutong Liu**, John C.S. Lui.<br>
@@ -34,11 +39,16 @@ Qirun Zeng, Xuchuang Wang, Jiayi Shen, **Xutong Liu**, Fang Kong, Jinhang Zuo.<b
 Accepted by the 40th Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026.<br>
 [[arXiv]](https://arxiv.org/abs/2605.05745) **TL;DR:** Unifies absolute reward and relative (dueling) feedback under a shared GLM with a single likelihood-ratio confidence sequence, and proposes HyTS-GLB, a hybrid Track-and-Stop algorithm that adaptively chooses between the two feedback types, with $$\delta$$-correctness, stopping-time guarantees, and a cost-aware extension that favors the feedback with more information per unit cost.<br>
 
-- **[<font color="blue">Mobihoc '26</font>]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
+<div class="pub-item" markdown="1">
+<figure class="pub-thumb"><a href="https://arxiv.org/abs/2604.20021"><img src="/images/papers/continuous-caching.webp" alt="Figure from Continuous Semantic Caching for Low-Cost LLM Serving" loading="lazy"></a></figure>
+<div class="pub-body" markdown="1">
+**[<font color="blue">Mobihoc '26</font>]** [**Continuous Semantic Caching for Low-Cost LLM Serving**](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf)<br>
 Baran Atalar, **Xutong Liu**, Jinhang Zuo, Siwei Wang, Wei Chen, Carlee Joe-Wong.<br>
 Accepted by the 27th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (**Mobihoc**), 2026 (Acceptance rate 23%)<br>
 [[PDF]](https://research.ece.cmu.edu/lions/Papers/Semantic_LLM_Caching.pdf) [[code]](https://github.com/BaranAtalar/Continuous-Semantic-Caching)
 [[arXiv]](https://arxiv.org/abs/2604.20021) **TL;DR:** The first theoretical framework for semantic LLM caching over a continuous query embedding space, combining dynamic $$\epsilon$$-net discretization with kernel ridge regression to give offline and low-switching online algorithms with sublinear regret and up to 73% lower suboptimality than discrete baselines.<br>
+</div>
+</div>
 
 - **[<font color="blue">EMNLP '26</font>]** [**LLM Cache Bandits with Query Heterogeneity for Cost-Efficient Inference**](https://arxiv.org/abs/2509.15515)<br>
 Hantao Yang, Hong Xie, **Xutong Liu**, Defu Lian.<br>
@@ -72,10 +82,15 @@ Ziyi Han, **Xutong Liu#**, Ruiting Zhou#, Xiangxiang Dai, John C.S. Lui.<br>
 IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
 [[arXiv]](https://arxiv.org/abs/2509.19781) [[slides]](https://drive.google.com/file/d/1CaGGkWw5-6xksliX4hZG7ZSVzS-1SPfw/view?usp=sharing) **TL;DR:** Tanbr merges the experts of a pre-trained MoE into a single task-aware expert using a binary-tree search over continuous merging weights plus a neural bandit, achieving $$O(\sqrt{T}\log T)$$ regret while cutting inference latency by at least 45% and memory by up to 25% with minimal accuracy loss.<br>
 
-- **<font color="blue">[INFOCOM '26]</font>** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
+<div class="pub-item" markdown="1">
+<figure class="pub-thumb"><a href="https://arxiv.org/abs/2508.07675"><img src="/images/papers/offline-online-caching.webp" alt="Figure from Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation" loading="lazy"></a></figure>
+<div class="pub-body" markdown="1">
+**<font color="blue">[INFOCOM '26]</font>** [**Semantic Caching for Low-Cost LLM Serving: From Offline Learning to Online Adaptation**](https://arxiv.org/abs/2508.07675)<br>
 **Xutong Liu***, Baran Atalar\*, Xiangxiang Dai, Jinhang Zuo, Siwei Wang, John C.S. Lui, Wei Chen, Carlee Joe-Wong.<br>
 IEEE International Conference on Computer Communications (INFOCOM), 2026 (Acceptance rate: 18.9%).<br>
 [[arXiv]](https://arxiv.org/abs/2508.07675) [[code]](https://github.com/BaranAtalar/LLM-Semantic-Caching) [[slides]](https://drive.google.com/file/d/1kGJzKTzAvK1W5sT2qaBuZWSYLUq9tAHd/view?usp=sharing) **TL;DR:** A principled learning framework for semantic cache eviction in LLM serving under unknown query arrivals and serving costs, with approximation, suboptimality, and regret guarantees (including low cache switching) across the oracle, offline, and online-adaptive settings.<br>
+</div>
+</div>
 
 
 
