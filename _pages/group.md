@@ -24,19 +24,20 @@ If you're interested in joining us, please contact me with a one-page research s
 ## Student Mentoring Experience (with highlights of student first-authored works and scholarships)
 
 ### University of Washington, CSS
-- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ Ph.D. student in CSS at UW), 2026-Present:  **<font color="blue">IEEE TON '26</font>** $\times 1$, **<font color="blue">INFOCOM '25</font>** $\times 1$,  **<font color="orange">2026 UW GSFEI Top Scholar Award</font>**
+- **Junkai Wang** (undergraduate & master student in EE at Fudan University $\rightarrow$ Ph.D. student in CSS at UW), 2026-Present:  **<font color="blue">IEEE TON '26</font>** $\times 1$, **<font color="blue">INFOCOM '25</font>** $\times 1$,  **<font color="orange">2026 UW GSFEI Top Scholar Award</font>**, **AISTATS '27 in submission**
 - **Ebod Shojaei** (Incoming Master Student in CSS at UW), 2026-Present
 - **Bohan Xiong** (Master Student in CSS at UW), 2026-Present
 - **Faiz Ahmed** (Master Student in CSS at UW), 2026-Present
 - **Adil Nadeem** (Master Student in CSS at UW), 2026-Present
 - **Neelim Mahbub** (Undergraduate in CSS at UW), 2026-Present
-- **Shuhuan Hu** (Undergraduate in Applied Math at UW), 2026- Present
+- **Shuhuan Hu** (Undergraduate in Applied Math at UW), 2026- Present: **ICLR '27 in submission**
+- **Selly Beyene** (Master in CSS at UW), 2026-Present: **MLSys '27 in submission** <br>
  
 
 
 ### Carnegie Mellon University (with Prof. Carlee Joe-Wong), ECE
 - [Jingyuan Liu](https://scholar.google.com/citations?user=VzIIKEIAAAAJ&hl=zh-CN) (visiting undergraduate student at CMU from NJU $\rightarrow$  Ph.D. program in IEOR at **UC Berkeley**), 2024-Present: **ICML '26 workshop** $\times 1$ <br>
-- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">Mobihoc '26</font>** $\times 1$ <br>
+- [Baran Atalar](https://scholar.google.com/citations?user=y_jG3tEAAAAJ&hl=en) (Ph.D. student in ECE at CMU), 2025-Present: **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">Mobihoc '26</font>** $\times 1$, **MLSys '27 in submission** <br>
 - [Blessed Guda](https://www.linkedin.com/in/blessed-guda/) (Ph.D. student in ECE at CMU), 2026-Present<br>
 - [Haoran Zhang](https://scholar.google.com/citations?user=dCwEC9YAAAAJ&hl=en) (master student at CMU $\rightarrow$ Ph.D. student in ECE at UT Austin), 2025-Present: **<font color="blue">UAI '26</font>** $\times 1$ <br>
 - [Hanqing Yang](https://happyeureka.github.io/) (Ph.D. student in ECE at CMU), 2025-2026
@@ -48,8 +49,8 @@ If you're interested in joining us, please contact me with a one-page research s
 
 ### The Chinese University of Hong Kong  (with Prof. John C.S. Lui), CSE
 - [Xiangxiang Dai](https://xiangxdai.github.io/) (Ph.D. student in CSE at CUHK), 2023-Present: **<font color="blue">TMC '26</font>** $\times 1$, **<font color="blue">AIJ '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$, **<font color="blue">KDD '25</font>** $\times 1$, **<font color="blue">IEEE ToN</font>** $\times 1$, **<font color="blue">ACM MM '24</font>** $\times 1$<br>
-- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **NeurIPS '26 in submission**, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
-- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present<br> **NeurIPS '26 in submission**
+- [Ziyi Han](https://ziyihanzyh.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **<font color="blue">NeurIPS '26</font>** $\times 1$, **<font color="blue">INFOCOM '26</font>** $\times 1$ <br>
+- [Zeyu Zhang](https://zeyuzhangzyz.github.io/) (Ph.D. student in CSE at CUHK), 2024-Present: **<font color="blue">NeurIPS '26</font>** $\times 1$, **ICLR '27 in submission** <br>
 - [Zhiyong Wang](https://zhiyongwangwzy.github.io/) (Ph.D. student in CSE at CUHK & visiting student at Cornell), 2022-2023:  **<font color="blue">NeurIPS '23</font>** $\times 1$, **<font color="blue">AAAI '23</font>** $\times 1$<br>
 - [Yu-Zhen Janice CHEN](https://jjanicechen.com/) (undergraduate student at CUHK $\rightarrow$ Ph.D. in CICS at UMass Amherst), 2017-2018: **<font color="blue">Network Science Journal</font>** $\times 1$<br>
 
@@ -58,8 +59,8 @@ If you're interested in joining us, please contact me with a one-page research s
 - [Qijia He](https://people.engineering.osu.edu/people/he.2806) (undergraduate student at SUSTech $\rightarrow$ Ph.D. in ECE at OSU) **<font color="blue">NeurIPS '25</font>** $\times 1$<br>
 
 ### Shanghai Jiao Tong University (with Prof. Shuai Li), John Hopcroft Center
-- [Zichun Ye](https://alchemistye.github.io/) (master student at SJTU), 2025 - Present: **NeurIPS '26 in submission** $\times 1$ <br>
-- **Runqi Wang** (undergraduate student at SJTU), 2025 - Present: **NeurIPS '26 in submission** <br>
+- [Zichun Ye](https://alchemistye.github.io/) (master student at SJTU), 2025 - Present: **ICLR '27 in submission** $\times 1$ <br>
+- **Runqi Wang** (undergraduate student at SJTU), 2025 - Present: **ICLR '27 in submission** <br>
 
 ### Fudan University  (with Prof. Yuedong Xu), EE
 - **Zhaoying He** (master student in EE at FDU), 2024-Present
